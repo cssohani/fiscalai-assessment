@@ -1,0 +1,71 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  
+}
+
+model Company {
+  id      Int    @id @default(autoincrement())
+  name    String
+  ticker  String
+  country String
+  irUrl   String @unique
+
+  documents Document[]
+  filings   Filing[]
+}
+
+model Document {
+  id           Int      @id @default(autoincrement())
+  url          String
+  title        String?
+  localPath    String?
+  sha256       String?
+  bytes        Int?
+  mime         String?
+  discoveredAt DateTime @default(now())
+
+  companyId Int
+  company   Company @relation(fields: [companyId], references: [id])
+
+  filings Filing[]
+
+  @@unique([companyId, url])
+}
+
+model Filing {
+  id          Int      @id @default(autoincrement())
+  label       String
+  confidence  Float
+  reason      String?
+  fiscalYear  Int?
+  publishedAt DateTime?
+
+  companyId Int
+  company   Company @relation(fields: [companyId], references: [id])
+
+  documentId Int
+  document   Document @relation(fields: [documentId], references: [id])
+
+  statements StatementRaw[]
+}
+
+model StatementRaw {
+  id            Int      @id @default(autoincrement())
+  statementType String
+  pageStart     Int?
+  pageEnd       Int?
+  columnsJson   String
+  rowsJson      String
+  createdAt     DateTime @default(now())
+
+  filingId Int
+  filing   Filing @relation(fields: [filingId], references: [id])
+}
