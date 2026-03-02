@@ -11,7 +11,9 @@
     "discover": "tsx src/scripts/findData.ts",
     "download": "tsx src/scripts/downloadReports.ts",
     "locate:all": "tsx src/scripts/locateOne.ts",
-    "extract:one": "tsx src/scripts/extractOne.ts"
+    "extract:one": "tsx src/scripts/extractOne.ts",
+    "locate:allYears": "tsx src/scripts/locateAllYears.ts",
+    "extract:all": "tsx src/scripts/extractAll.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.19.2",
