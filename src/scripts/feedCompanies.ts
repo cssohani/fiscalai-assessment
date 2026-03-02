@@ -3,30 +3,38 @@ import { prisma } from "../lib/prisma";
 async function main() {
   const companies = [
     {
-      name: "ASML",
-      ticker: "ASML",
+      name: "Airbus",
+      ticker: "AIR",
       country: "Netherlands",
-      irUrl: "PASTE_IR_URL_HERE",
-    },
-    {
-      name: "SAP",
-      ticker: "SAP",
-      country: "Germany",
-      irUrl: "PASTE_IR_URL_HERE",
+      irUrl: "https://www.airbus.com/en/investors/annual-reports",
     },
     {
       name: "Siemens",
       ticker: "SIE",
       country: "Germany",
-      irUrl: "PASTE_IR_URL_HERE",
+      irUrl: "https://www.siemens.com/en-us/company/investor-relations/annual-reports/"    },
+    {
+      name: "ASML",
+      ticker: "ASML",
+      country: "Netherlands",
+      irUrl: "https://www.asml.com/en/investors/annual-report",
     },
   ];
 
   for (const company of companies) {
     await prisma.company.upsert({
-      where: { irUrl: company.irUrl },
-      update: {},
-      create: company,
+      where: { ticker: company.ticker },
+      update: {
+        name: company.name.trim(),
+        country: company.country,
+        irUrl: company.irUrl,
+      },
+      create: {
+        name: company.name.trim(),
+        ticker: company.ticker,
+        country: company.country,
+        irUrl: company.irUrl,
+      },
     });
   }
 
