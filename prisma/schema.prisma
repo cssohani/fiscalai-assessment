@@ -3,13 +3,11 @@
 
 generator client {
   provider = "prisma-client-js"
-  
 }
 
 datasource db {
   provider = "sqlite"
   url      = env("DATABASE_URL")
-  
 }
 
 model Company {
@@ -37,12 +35,25 @@ model Document {
   company   Company @relation(fields: [companyId], references: [id])
 
   filings Filing[]
+  tocs    DocumentTOC[]
 
   @@unique([companyId, url])
 }
 
+model DocumentTOC {
+  id         Int      @id @default(autoincrement())
+  documentId Int
+  document   Document @relation(fields: [documentId], references: [id])
+
+  pageNumber  Int
+  snippetType String // "toc" | "keyword"
+  text        String
+
+  @@unique([documentId, pageNumber])
+}
+
 model Filing {
-  id          Int      @id @default(autoincrement())
+  id          Int       @id @default(autoincrement())
   label       String
   confidence  Float
   reason      String?

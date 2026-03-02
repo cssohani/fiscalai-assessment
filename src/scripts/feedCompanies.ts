@@ -3,10 +3,10 @@ import { prisma } from "../lib/prisma";
 async function main() {
   const companies = [
     {
-      name: "Airbus",
-      ticker: "AIR",
-      country: "Netherlands",
-      irUrl: "https://www.airbus.com/en/investors/annual-reports",
+      name: "Mercedez Benz Group AG",
+      ticker: "MBG",
+      country: "Germany",
+      irUrl: "https://group.mercedes-benz.com/investors/reports-news/annual-reports/download/",
     },
     {
       name: "Siemens",
@@ -14,10 +14,10 @@ async function main() {
       country: "Germany",
       irUrl: "https://www.siemens.com/en-us/company/investor-relations/annual-reports/"    },
     {
-      name: "ASML",
-      ticker: "ASML",
-      country: "Netherlands",
-      irUrl: "https://www.asml.com/en/investors/annual-report",
+      name: "TotalEnergies",
+      ticker: "TTE",
+      country: "France",
+      irUrl: "https://totalenergies.com/investors/publications-and-regulated-information/regulated-information/annual-financial-reports",
     },
   ];
 
