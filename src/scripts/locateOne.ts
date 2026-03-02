@@ -23,11 +23,11 @@ async function main() {
     const result = await locateStatements(pdfPath);
 
     console.log(`Total pages: ${result.totalPages}`);
-    console.log("Best dense window:", result.bestWindow);
+    console.log("Detected best pages:", result.topPages);
 
-    console.log("Income pages:", result.statements.income);
-    console.log("Balance pages:", result.statements.balance);
-    console.log("Cash flow pages:", result.statements.cashflow);
+    console.log("Income pagesForLLM:", result.pagesForLLM.income);
+    console.log("Balance pagesForLLM:", result.pagesForLLM.balance);
+    console.log("Cashflow pagesForLLM:", result.pagesForLLM.cashflow);
   }
 }
 

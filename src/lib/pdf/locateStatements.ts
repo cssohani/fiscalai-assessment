@@ -1,148 +1,136 @@
+
 import fs from "fs";
 import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf.mjs";
 
 export type StatementType = "income" | "balance" | "cashflow";
 
-export type LocateResult = {
+export type LocateStatementsResult = {
   totalPages: number;
-  bestWindow: number[];
-  statements: Record<StatementType, number[]>;
+
+  
+  topPages: Record<StatementType, number[]>;
+
+  
+  pagesForLLM: Record<StatementType, number[]>;
 };
 
 function normalize(text: string) {
   return text.toLowerCase().replace(/\s+/g, " ").trim();
 }
 
-function extractDistinctYears(text: string): number {
-  const matches = text.match(/\b20\d{2}\b/g) ?? [];
-  return new Set(matches).size;
+function countNumbers(text: string) {
+  const matches = text.match(/-?\d[\d,\.]*/g);
+  return matches ? matches.length : 0;
 }
 
-function extractNumbers(text: string): number {
-  const matches = text.match(/-?\d[\d,\.]*/g) ?? [];
-  return matches.length;
+function countWords(text: string) {
+  const matches = text.match(/[a-zA-Z]+/g);
+  return matches ? matches.length : 0;
 }
 
-function expand(page: number, total: number, size: number) {
-  const pages: number[] = [];
-  for (let i = page - size; i <= page + size; i++) {
-    if (i >= 1 && i <= total) pages.push(i);
+function density(text: string) {
+  return countNumbers(text) / Math.max(1, countWords(text));
+}
+
+function containsAny(text: string, terms: string[]) {
+  return terms.some((t) => text.includes(t));
+}
+
+function uniqSorted(nums: number[]) {
+  return Array.from(new Set(nums)).sort((a, b) => a - b);
+}
+
+function expandWithNeighbors(pages: number[], totalPages: number, neighbor = 1) {
+  const out: number[] = [];
+  for (const p of pages) {
+    for (let q = p - neighbor; q <= p + neighbor; q++) {
+      if (q >= 1 && q <= totalPages) out.push(q);
+    }
   }
-  return pages;
+  return uniqSorted(out);
 }
 
-export async function locateStatements(
-  pdfPath: string
-): Promise<LocateResult> {
+export async function locateStatements(pdfPath: string): Promise<LocateStatementsResult> {
   const data = new Uint8Array(fs.readFileSync(pdfPath));
   const pdf = await pdfjsLib.getDocument({ data }).promise;
   const totalPages = pdf.numPages;
 
-  const pageScores: number[] = [];
 
-  // --- 1. Score every page ---
-  for (let i = 1; i <= totalPages; i++) {
-    const page = await pdf.getPage(i);
-    const content = await page.getTextContent();
-    const text = normalize(
-      content.items.map((item: any) => item.str).join(" ")
-    );
+  const TERMS: Record<StatementType, string[]> = {
+    income: [
+      "income statement",
+      "consolidated statement of income",
+      "profit or loss",
+      "statement of operations",
+    
+    ],
+    balance: [
+      "statement of financial position",
+      "balance sheet",
+      "consolidated balance sheet",
+      "financial position",
+    ],
+    cashflow: [
+      "statement of cash flows",
+      "statement of cash flow",
+      "consolidated statement of cash flow",
+      "cash flow statement",
+      "cash flows",
+      "cash flow",
+    ],
+  };
 
-    const yearCount = extractDistinctYears(text);
-    const numberCount = extractNumbers(text);
-
-    const score = numberCount + yearCount * 25;
-
-    pageScores.push(score);
-  }
-
-  // --- 2. Sliding window selection ---
-  const WINDOW_SIZE = 16;
-  let bestScore = 0;
-  let bestStart = 1;
-
-  for (let i = 0; i <= totalPages - WINDOW_SIZE; i++) {
-    let sum = 0;
-    for (let j = 0; j < WINDOW_SIZE; j++) {
-      sum += pageScores[i + j];
-    }
-
-    if (sum > bestScore) {
-      bestScore = sum;
-      bestStart = i + 1;
-    }
-  }
-
-  const bestWindow = [];
-  for (let i = 0; i < WINDOW_SIZE; i++) {
-    bestWindow.push(bestStart + i);
-  }
-
-  // --- 3. Classify inside best window ---
-  const statements: Record<StatementType, number[]> = {
+  
+  const candidates: Record<StatementType, { page: number; d: number }[]> = {
     income: [],
     balance: [],
     cashflow: [],
   };
 
-  for (const pageNum of bestWindow) {
-    const page = await pdf.getPage(pageNum);
+  for (let i = 1; i <= totalPages; i++) {
+    const page = await pdf.getPage(i);
     const content = await page.getTextContent();
-    const text = normalize(
-      content.items.map((item: any) => item.str).join(" ")
-    );
+    const raw = content.items.map((item: any) => item.str).join(" ");
+    const text = normalize(raw);
 
-    if (
-      text.includes("income") ||
-      text.includes("profit") ||
-      text.includes("operations")
-    ) {
-      statements.income.push(pageNum);
-    }
+    const d = density(text);
 
-    if (
-        text.includes("financial position") ||
-        text.includes("balance sheet") ||
-        text.includes("assets") && text.includes("liabilities")
-        ) {
-      statements.balance.push(pageNum);
-    }
-
-    if (text.includes("cash flow")) {
-      statements.cashflow.push(pageNum);
-    }
+    
+    (Object.keys(TERMS) as StatementType[]).forEach((type) => {
+      if (containsAny(text, TERMS[type])) {
+        candidates[type].push({ page: i, d });
+      }
+    });
   }
 
-  // --- 4. Expand statement pages slightly for LLM ---
-  const EXPAND_SIZE = 2;
+  
+  const TOP_N = 5;
 
-  statements.income = Array.from(
-    new Set(
-      statements.income.flatMap((p) =>
-        expand(p, totalPages, EXPAND_SIZE)
-      )
-    )
-  ).sort((a, b) => a - b);
+  const topPages: Record<StatementType, number[]> = {
+    income: [],
+    balance: [],
+    cashflow: [],
+  };
 
-  statements.balance = Array.from(
-    new Set(
-      statements.balance.flatMap((p) =>
-        expand(p, totalPages, EXPAND_SIZE)
-      )
-    )
-  ).sort((a, b) => a - b);
+  (Object.keys(candidates) as StatementType[]).forEach((type) => {
+    const ranked = candidates[type]
+      .sort((a, b) => b.d - a.d)
+      .slice(0, TOP_N)
+      .map((x) => x.page);
 
-  statements.cashflow = Array.from(
-    new Set(
-      statements.cashflow.flatMap((p) =>
-        expand(p, totalPages, EXPAND_SIZE)
-      )
-    )
-  ).sort((a, b) => a - b);
+    topPages[type] = uniqSorted(ranked);
+  });
+
+
+  const pagesForLLM: Record<StatementType, number[]> = {
+    income: expandWithNeighbors(topPages.income, totalPages, 1),
+    balance: expandWithNeighbors(topPages.balance, totalPages, 1),
+    cashflow: expandWithNeighbors(topPages.cashflow, totalPages, 2),
+  };
 
   return {
     totalPages,
-    bestWindow,
-    statements,
+    topPages,
+    pagesForLLM,
   };
 }

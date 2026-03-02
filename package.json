@@ -10,7 +10,8 @@
     "seed": "tsx src/scripts/feedCompanies.ts",
     "discover": "tsx src/scripts/findData.ts",
     "download": "tsx src/scripts/downloadReports.ts",
-    "locate:dense": "tsx src/scripts/locateOne.ts"
+    "locate:all": "tsx src/scripts/locateOne.ts",
+    "extract:one": "tsx src/scripts/extractOne.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.19.2",
