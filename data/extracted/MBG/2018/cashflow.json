@@ -1,0 +1,190 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "rows": [
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "12,072",
+        "10,981"
+      ]
+    },
+    {
+      "label": "Profit before income taxes",
+      "values": [
+        "10,595",
+        "13,967"
+      ]
+    },
+    {
+      "label": "Depreciation and amortization/impairments",
+      "values": [
+        "6,305",
+        "5,676"
+      ]
+    },
+    {
+      "label": "Other non-cash expense and income and gains/losses on disposals of assets",
+      "values": [
+        "-1,050",
+        "-1,960"
+      ]
+    },
+    {
+      "label": "Change in operating assets and liabilities",
+      "values": []
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "-3,850",
+        "-1,455"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "-884",
+        "-1,597"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "1,694",
+        "1,259"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "-10,257",
+        "-11,412"
+      ]
+    },
+    {
+      "label": "Vehicles on operating leases",
+      "values": [
+        "-1,609",
+        "-3,304"
+      ]
+    },
+    {
+      "label": "Other operating assets and liabilities",
+      "values": [
+        "877",
+        "210"
+      ]
+    },
+    {
+      "label": "Dividends received from equity-method investments",
+      "values": [
+        "1,380",
+        "843"
+      ]
+    },
+    {
+      "label": "Income taxes paid",
+      "values": [
+        "-2,858",
+        "-3,879"
+      ]
+    },
+    {
+      "label": "Cash used for/provided by operating activities",
+      "values": [
+        "343",
+        "-1,652"
+      ]
+    },
+    {
+      "label": "Additions to property, plant and equipment and intangible assets",
+      "values": [
+        "-10,701",
+        "-10,158"
+      ]
+    },
+    {
+      "label": "Investments in and disposals of shareholdings",
+      "values": [
+        "-417",
+        "-687"
+      ]
+    },
+    {
+      "label": "Acquisitions and sales of marketable debt securities and similar investments",
+      "values": [
+        "471",
+        "537"
+      ]
+    },
+    {
+      "label": "Other",
+      "values": [
+        "726",
+        "790"
+      ]
+    },
+    {
+      "label": "Cash used for investing activities",
+      "values": [
+        "-9,921",
+        "-9,518"
+      ]
+    },
+    {
+      "label": "Change in financing liabilities",
+      "values": [
+        "17,456",
+        "16,794"
+      ]
+    },
+    {
+      "label": "Dividends paid",
+      "values": [
+        "-4,220",
+        "-3,727"
+      ]
+    },
+    {
+      "label": "Other transactions with shareholders",
+      "values": [
+        "-10",
+        "62"
+      ]
+    },
+    {
+      "label": "Internal equity and financing transactions",
+      "values": [
+        "–",
+        "–"
+      ]
+    },
+    {
+      "label": "Cash used for/provided by financing activities",
+      "values": [
+        "13,226",
+        "13,129"
+      ]
+    },
+    {
+      "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+      "values": [
+        "133",
+        "-868"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+        "15,853",
+        "12,072"
+      ]
+    }
+  ]
+}

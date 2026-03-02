@@ -1,0 +1,193 @@
+{
+  "statementType": "balance",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "285,737",
+        "302,438"
+      ]
+    },
+    {
+      "label": "intangible assets",
+      "values": [
+        "16,399",
+        "15,978"
+      ]
+    },
+    {
+      "label": "property, plant and equipment",
+      "values": [
+        "35,246",
+        "37,143"
+      ]
+    },
+    {
+      "label": "equipment on operating leases",
+      "values": [
+        "47,552",
+        "51,482"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "96,185",
+        "103,661"
+      ]
+    },
+    {
+      "label": "equity-method investments",
+      "values": [
+        "5,189",
+        "5,949"
+      ]
+    },
+    {
+      "label": "inventories",
+      "values": [
+        "26,444",
+        "29,757"
+      ]
+    },
+    {
+      "label": "trade receivables",
+      "values": [
+        "10,649",
+        "12,332"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "23,048",
+        "18,883"
+      ]
+    },
+    {
+      "label": "marketable debt securities and similar investments",
+      "values": [
+        "6,397",
+        "8,655"
+      ]
+    },
+    {
+      "label": "thereof current",
+      "values": [
+        "5,356",
+        "7,885"
+      ]
+    },
+    {
+      "label": "thereof non-current",
+      "values": [
+        "1,041",
+        "770"
+      ]
+    },
+    {
+      "label": "other financial assets",
+      "values": [
+        "6,924",
+        "6,083"
+      ]
+    },
+    {
+      "label": "other assets",
+      "values": [
+        "11,704",
+        "12,515"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "285,737",
+        "302,438"
+      ]
+    },
+    {
+      "label": "Equity and liabilities",
+      "values": [
+        "285,737",
+        "302,438"
+      ]
+    },
+    {
+      "label": "equity",
+      "values": [
+        "62,248",
+        "62,841"
+      ]
+    },
+    {
+      "label": "provisions",
+      "values": [
+        "32,520",
+        "30,652"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "145,842",
+        "161,780"
+      ]
+    },
+    {
+      "label": "thereof current",
+      "values": [
+        "59,303",
+        "62,601"
+      ]
+    },
+    {
+      "label": "thereof non-current",
+      "values": [
+        "86,539",
+        "99,179"
+      ]
+    },
+    {
+      "label": "trade payables",
+      "values": [
+        "12,378",
+        "12,707"
+      ]
+    },
+    {
+      "label": "other financial liabilities",
+      "values": [
+        "8,598",
+        "9,864"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "12,956",
+        "13,631"
+      ]
+    },
+    {
+      "label": "other liabilities",
+      "values": [
+        "11,195",
+        "10,963"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "285,737",
+        "302,438"
+      ]
+    }
+  ]
+}

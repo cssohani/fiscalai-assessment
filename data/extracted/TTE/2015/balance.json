@@ -1,0 +1,68 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2015",
+    "2014",
+    "2013"
+  ],
+  "rows": [
+    {
+      "label": "Non-current assets",
+      "values": [
+        "154,248",
+        "151,821",
+        "154,620"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "70,236",
+        "77,977",
+        "84,603"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "224,484",
+        "229,798",
+        "239,223"
+      ]
+    },
+    {
+      "label": "Shareholders’ equity",
+      "values": [
+        "95,409",
+        "93,531",
+        "103,379"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "78,100",
+        "82,594",
+        "74,176"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "50,975",
+        "53,673",
+        "61,668"
+      ]
+    },
+    {
+      "label": "Total liabilities & shareholders’ equity",
+      "values": [
+        "224,484",
+        "229,798",
+        "239,223"
+      ]
+    }
+  ]
+}

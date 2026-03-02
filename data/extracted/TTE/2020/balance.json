@@ -1,0 +1,68 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "rows": [
+    {
+      "label": "Non-current assets",
+      "values": [
+        "186,453",
+        "188,029",
+        "176,963"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "79,679",
+        "85,265",
+        "79,799"
+      ]
+    },
+    {
+      "label": "TOTAL ASSETS",
+      "values": [
+        "266,132",
+        "273,294",
+        "256,762"
+      ]
+    },
+    {
+      "label": "Shareholders’ equity",
+      "values": [
+        "106,085",
+        "119,305",
+        "118,114"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "95,371",
+        "83,745",
+        "76,414"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "64,676",
+        "70,244",
+        "62,234"
+      ]
+    },
+    {
+      "label": "TOTAL LIABILITIES & SHAREHOLDERS’ EQUITY",
+      "values": [
+        "266,132",
+        "273,294",
+        "256,762"
+      ]
+    }
+  ]
+}

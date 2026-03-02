@@ -1,0 +1,180 @@
+{
+  "statementType": "income",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "rows": [
+    {
+      "label": "Sales",
+      "values": [
+        "209,363",
+        "171,493",
+        "149,743"
+      ]
+    },
+    {
+      "label": "Excise taxes",
+      "values": [
+        "(25,257)",
+        "(22,394)",
+        "(21,818)"
+      ]
+    },
+    {
+      "label": "Revenues from sales",
+      "values": [
+        "184,106",
+        "149,099",
+        "127,925"
+      ]
+    },
+    {
+      "label": "Purchases, net of inventory variation",
+      "values": [
+        "(125,816)",
+        "(99,411)",
+        "(83,377)"
+      ]
+    },
+    {
+      "label": "Other operating expenses",
+      "values": [
+        "(27,484)",
+        "(24,966)",
+        "(24,302)"
+      ]
+    },
+    {
+      "label": "Exploration costs",
+      "values": [
+        "(797)",
+        "(864)",
+        "(1,264)"
+      ]
+    },
+    {
+      "label": "Depreciation, depletion and impairment of tangible assets and mineral interests",
+      "values": [
+        "(13,992)",
+        "(16,103)",
+        "(13,523)"
+      ]
+    },
+    {
+      "label": "Other income",
+      "values": [
+        "1,838",
+        "3,811",
+        "1,299"
+      ]
+    },
+    {
+      "label": "Other expense",
+      "values": [
+        "(1,273)",
+        "(1,034)",
+        "(1,027)"
+      ]
+    },
+    {
+      "label": "Financial interest on debt",
+      "values": [
+        "(1,933)",
+        "(1,396)",
+        "(1,108)"
+      ]
+    },
+    {
+      "label": "Financial income and expense from cash & cash equivalents",
+      "values": [
+        "(188)",
+        "(138)",
+        "4"
+      ]
+    },
+    {
+      "label": "Cost of net debt",
+      "values": [
+        "(2,121)",
+        "(1,534)",
+        "(1,104)"
+      ]
+    },
+    {
+      "label": "Other financial income",
+      "values": [
+        "1,120",
+        "957",
+        "971"
+      ]
+    },
+    {
+      "label": "Other financial expense",
+      "values": [
+        "(685)",
+        "(642)",
+        "(636)"
+      ]
+    },
+    {
+      "label": "Net income (loss) from equity affiliates",
+      "values": [
+        "3,170",
+        "2,015",
+        "2,214"
+      ]
+    },
+    {
+      "label": "Income taxes",
+      "values": [
+        "(6,516)",
+        "(3,029)",
+        "(970)"
+      ]
+    },
+    {
+      "label": "CONSOLIDATED NET INCOME",
+      "values": [
+        "11,550",
+        "8,299",
+        "6,206"
+      ]
+    },
+    {
+      "label": "Group share",
+      "values": [
+        "11,446",
+        "8,631",
+        "6,196"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "104",
+        "(332)",
+        "10"
+      ]
+    },
+    {
+      "label": "Earnings per share ($)",
+      "values": [
+        "4.27",
+        "3.36",
+        "2.52"
+      ]
+    },
+    {
+      "label": "Fully-diluted earnings per share ($)",
+      "values": [
+        "4.24",
+        "3.34",
+        "2.51"
+      ]
+    }
+  ]
+}

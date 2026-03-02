@@ -1,0 +1,274 @@
+{
+  "statementType": "cashflow",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2022",
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "23,182",
+        "23,048"
+      ]
+    },
+    {
+      "label": "Profit from continuing operations before taxes (2021: Profit from continuing and discontinued operations before taxes)",
+      "values": [
+        "20,304",
+        "28,775"
+      ]
+    },
+    {
+      "label": "Depreciation and amortisation/impairments",
+      "values": [
+        "6,521",
+        "6,980"
+      ]
+    },
+    {
+      "label": "Other non-cash expense and income and gains/losses on disposals of assets",
+      "values": [
+        "-1,296",
+        "-11,503"
+      ]
+    },
+    {
+      "label": "Gains (-)/losses (+) from disposals of assets",
+      "values": [
+        "-990",
+        "-695"
+      ]
+    },
+    {
+      "label": "Change in operating assets and liabilities",
+      "values": []
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "-4,111",
+        "-2,561"
+      ]
+    },
+    {
+      "label": "Trade receivables and trade payables",
+      "values": [
+        "1,029",
+        "1,694"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "-5,327",
+        "3,879"
+      ]
+    },
+    {
+      "label": "Vehicles on operating leases",
+      "values": [
+        "3,810",
+        "1,428"
+      ]
+    },
+    {
+      "label": "Other operating assets and liabilities",
+      "values": [
+        "358",
+        "-1,261"
+      ]
+    },
+    {
+      "label": "Dividends received from equity-method investments",
+      "values": [
+        "1,605",
+        "1,625"
+      ]
+    },
+    {
+      "label": "Income taxes paid",
+      "values": [
+        "-5,009",
+        "-3,812"
+      ]
+    },
+    {
+      "label": "Cash flow from operating activities",
+      "values": [
+        "16,894",
+        "24,549"
+      ]
+    },
+    {
+      "label": "Additions to property, plant and equipment",
+      "values": [
+        "-3,481",
+        "-4,579"
+      ]
+    },
+    {
+      "label": "Additions to intangible assets",
+      "values": [
+        "-3,418",
+        "-2,741"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+      "values": [
+        "469",
+        "826"
+      ]
+    },
+    {
+      "label": "Investments in shareholdings",
+      "values": [
+        "-849",
+        "-573"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of shareholdings and other business operations",
+      "values": [
+        "3,337",
+        "793"
+      ]
+    },
+    {
+      "label": "Acquisition of marketable debt securities and similar investments",
+      "values": [
+        "-2,622",
+        "-5,694"
+      ]
+    },
+    {
+      "label": "Proceeds from sales of marketable debt securities and similar investments",
+      "values": [
+        "3,084",
+        "4,385"
+      ]
+    },
+    {
+      "label": "Repayment of financing of Daimler's commercial vehicles business",
+      "values": [
+        "-",
+        "6,853"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents disposed of from the deconsolidation of Daimler’s commercial vehicles business",
+      "values": [
+        "-",
+        "-5,489"
+      ]
+    },
+    {
+      "label": "Other",
+      "values": [
+        "27",
+        "-7"
+      ]
+    },
+    {
+      "label": "Cash flow from investing activities",
+      "values": [
+        "-3,453",
+        "-6,226"
+      ]
+    },
+    {
+      "label": "Change in short-term financing liabilities",
+      "values": [
+        "172",
+        "1,463"
+      ]
+    },
+    {
+      "label": "Additions to long-term financing liabilities",
+      "values": [
+        "38,429",
+        "42,196"
+      ]
+    },
+    {
+      "label": "Repayment of long-term financing liabilities",
+      "values": [
+        "-51,945",
+        "-60,859"
+      ]
+    },
+    {
+      "label": "Dividend paid to shareholders of Mercedes-Benz Group AG",
+      "values": [
+        "-5,349",
+        "-1,444"
+      ]
+    },
+    {
+      "label": "Dividends paid to non-controlling interests",
+      "values": [
+        "-320",
+        "-366"
+      ]
+    },
+    {
+      "label": "Other",
+      "values": [
+        "-19",
+        "-49"
+      ]
+    },
+    {
+      "label": "Cash flow from financing activities",
+      "values": [
+        "-19,032",
+        "-19,059"
+      ]
+    },
+    {
+      "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+      "values": [
+        "88",
+        "870"
+      ]
+    },
+    {
+      "label": "Net increase/decrease in cash and cash equivalents",
+      "values": [
+        "-5,503",
+        "134"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "23,182",
+        "23,048"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+        "17,679",
+        "23,182"
+      ]
+    },
+    {
+      "label": "Less cash and cash equivalents classified as assets held for sale at end of year",
+      "values": [
+        "-",
+        "62"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period (Consolidated Statement of Financial Position)",
+      "values": [
+        "17,679",
+        "23,120"
+      ]
+    }
+  ]
+}

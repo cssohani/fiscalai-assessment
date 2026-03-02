@@ -1,0 +1,333 @@
+{
+  "statementType": "balance",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2019",
+    "2018"
+  ],
+  "rows": [
+    {
+      "label": "Total assets",
+      "values": [
+        "302,438",
+        "281,619"
+      ]
+    },
+    {
+      "label": "Intangible assets",
+      "values": [
+        "15,978",
+        "14,801"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "37,143",
+        "30,948"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases",
+      "values": [
+        "51,482",
+        "49,476"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "5,949",
+        "4,860"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "52,880",
+        "51,300"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "770",
+        "722"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "3,347",
+        "2,763"
+      ]
+    },
+    {
+      "label": "Deferred tax assets",
+      "values": [
+        "5,803",
+        "4,021"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "1,286",
+        "1,115"
+      ]
+    },
+    {
+      "label": "Total non-current assets",
+      "values": [
+        "174,638",
+        "160,006"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "29,757",
+        "29,489"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "12,332",
+        "12,586"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "50,781",
+        "45,440"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "18,883",
+        "15,853"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "7,885",
+        "8,855"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "2,736",
+        "2,970"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "5,426",
+        "5,889"
+      ]
+    },
+    {
+      "label": "Assets held for sale",
+      "values": [
+        "–",
+        "531"
+      ]
+    },
+    {
+      "label": "Total current assets",
+      "values": [
+        "127,800",
+        "121,613"
+      ]
+    },
+    {
+      "label": "Total equity",
+      "values": [
+        "62,841",
+        "66,053"
+      ]
+    },
+    {
+      "label": "Share capital",
+      "values": [
+        "3,070",
+        "3,070"
+      ]
+    },
+    {
+      "label": "Capital reserves",
+      "values": [
+        "11,552",
+        "11,710"
+      ]
+    },
+    {
+      "label": "Retained earnings",
+      "values": [
+        "46,329",
+        "49,490"
+      ]
+    },
+    {
+      "label": "Other reserves",
+      "values": [
+        "393",
+        "397"
+      ]
+    },
+    {
+      "label": "Equity attributable to shareholders of Daimler AG",
+      "values": [
+        "61,344",
+        "64,667"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "1,497",
+        "1,386"
+      ]
+    },
+    {
+      "label": "Provisions for pensions and similar obligations",
+      "values": [
+        "9,728",
+        "7,393"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "10,597",
+        "7,734"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "99,179",
+        "88,662"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "2,112",
+        "2,375"
+      ]
+    },
+    {
+      "label": "Deferred tax liabilities",
+      "values": [
+        "3,935",
+        "3,762"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,598",
+        "1,612"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "6,060",
+        "5,438"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "586",
+        "638"
+      ]
+    },
+    {
+      "label": "Total non-current liabilities",
+      "values": [
+        "133,795",
+        "117,614"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "12,707",
+        "14,185"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "10,327",
+        "7,828"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "62,601",
+        "56,240"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "7,752",
+        "7,657"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,624",
+        "1,580"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "7,571",
+        "7,081"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "3,220",
+        "3,169"
+      ]
+    },
+    {
+      "label": "Liabilities held for sale",
+      "values": [
+        "–",
+        "212"
+      ]
+    },
+    {
+      "label": "Total current liabilities",
+      "values": [
+        "105,802",
+        "97,952"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "302,438",
+        "281,619"
+      ]
+    }
+  ]
+}

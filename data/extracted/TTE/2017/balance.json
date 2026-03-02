@@ -1,0 +1,292 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2017",
+    "2016",
+    "2015"
+  ],
+  "rows": [
+    {
+      "label": "Non-current assets",
+      "values": [
+        "14,587",
+        "15,362",
+        "14,549"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment, net",
+      "values": [
+        "109,397",
+        "111,971",
+        "109,518"
+      ]
+    },
+    {
+      "label": "Equity affiliates: investments and loans",
+      "values": [
+        "22,103",
+        "20,576",
+        "19,384"
+      ]
+    },
+    {
+      "label": "Other investments",
+      "values": [
+        "1,727",
+        "1,133",
+        "1,241"
+      ]
+    },
+    {
+      "label": "Non-current financial assets",
+      "values": [
+        "679",
+        "908",
+        "1,219"
+      ]
+    },
+    {
+      "label": "Deferred income taxes",
+      "values": [
+        "5,206",
+        "4,368",
+        "3,982"
+      ]
+    },
+    {
+      "label": "Other non-current assets",
+      "values": [
+        "3,984",
+        "4,143",
+        "4,355"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT ASSETS",
+      "values": [
+        "157,683",
+        "158,461",
+        "154,248"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "16,520",
+        "15,247",
+        "13,116"
+      ]
+    },
+    {
+      "label": "Accounts receivable, net",
+      "values": [
+        "14,893",
+        "12,213",
+        "10,629"
+      ]
+    },
+    {
+      "label": "Other current assets",
+      "values": [
+        "14,210",
+        "14,835",
+        "15,843"
+      ]
+    },
+    {
+      "label": "Current financial assets",
+      "values": [
+        "3,393",
+        "4,548",
+        "6,190"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "33,185",
+        "24,597",
+        "23,269"
+      ]
+    },
+    {
+      "label": "Assets classified as held for sale",
+      "values": [
+        "2,747",
+        "1,077",
+        "1,189"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT ASSETS",
+      "values": [
+        "84,948",
+        "72,517",
+        "70,236"
+      ]
+    },
+    {
+      "label": "TOTAL ASSETS",
+      "values": [
+        "242,631",
+        "230,978",
+        "224,484"
+      ]
+    },
+    {
+      "label": "Shareholders’ equity",
+      "values": [
+        "7,882",
+        "7,604",
+        "7,670"
+      ]
+    },
+    {
+      "label": "Paid-in surplus and retained earnings",
+      "values": [
+        "112,040",
+        "105,547",
+        "101,528"
+      ]
+    },
+    {
+      "label": "Currency translation adjustment",
+      "values": [
+        "(7,908)",
+        "(13,871)",
+        "(12,119)"
+      ]
+    },
+    {
+      "label": "Treasury shares",
+      "values": [
+        "(458)",
+        "(600)",
+        "(4,585)"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS’ EQUITY – GROUP SHARE",
+      "values": [
+        "111,556",
+        "98,680",
+        "92,494"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "2,481",
+        "2,894",
+        "2,915"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS’ EQUITY",
+      "values": [
+        "114,037",
+        "101,574",
+        "95,409"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "10,828",
+        "11,060",
+        "12,360"
+      ]
+    },
+    {
+      "label": "Employee benefits",
+      "values": [
+        "3,735",
+        "3,746",
+        "3,774"
+      ]
+    },
+    {
+      "label": "Provisions and other non-current liabilities",
+      "values": [
+        "15,986",
+        "16,846",
+        "17,502"
+      ]
+    },
+    {
+      "label": "Non-current financial debt",
+      "values": [
+        "41,340",
+        "43,067",
+        "44,464"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT LIABILITIES",
+      "values": [
+        "71,889",
+        "74,719",
+        "78,100"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "26,479",
+        "23,227",
+        "20,928"
+      ]
+    },
+    {
+      "label": "Other creditors and accrued liabilities",
+      "values": [
+        "17,779",
+        "16,720",
+        "16,884"
+      ]
+    },
+    {
+      "label": "Current borrowings",
+      "values": [
+        "11,096",
+        "13,920",
+        "12,488"
+      ]
+    },
+    {
+      "label": "Other current financial liabilities",
+      "values": [
+        "245",
+        "327",
+        "171"
+      ]
+    },
+    {
+      "label": "Liabilities directly associated with the assets classified as held for sale",
+      "values": [
+        "1,106",
+        "491",
+        "504"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT LIABILITIES",
+      "values": [
+        "56,705",
+        "54,685",
+        "50,975"
+      ]
+    },
+    {
+      "label": "TOTAL LIABILITIES & SHAREHOLDERS’ EQUITY",
+      "values": [
+        "242,631",
+        "230,978",
+        "224,484"
+      ]
+    }
+  ]
+}

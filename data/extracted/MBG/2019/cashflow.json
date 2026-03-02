@@ -1,0 +1,263 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2019",
+    "2018"
+  ],
+  "rows": [
+    {
+      "label": "Profit before income taxes",
+      "values": [
+        "3,830",
+        "10,595"
+      ]
+    },
+    {
+      "label": "Depreciation and amortization/impairments",
+      "values": [
+        "7,751",
+        "6,305"
+      ]
+    },
+    {
+      "label": "Other non-cash expense and income",
+      "values": [
+        "24",
+        "-872"
+      ]
+    },
+    {
+      "label": "Gains (-)/losses (+) on disposals of assets",
+      "values": [
+        "-761",
+        "-178"
+      ]
+    },
+    {
+      "label": "Change in operating assets and liabilities",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "99",
+        "-3,850"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "-346",
+        "-884"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "-1,625",
+        "1,694"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "-4,664",
+        "-10,257"
+      ]
+    },
+    {
+      "label": "Vehicles on operating leases",
+      "values": [
+        "-1,156",
+        "-1,609"
+      ]
+    },
+    {
+      "label": "Other operating assets and liabilities",
+      "values": [
+        "5,641",
+        "877"
+      ]
+    },
+    {
+      "label": "Dividends received from equity-method investments",
+      "values": [
+        "1,202",
+        "1,380"
+      ]
+    },
+    {
+      "label": "Income taxes paid",
+      "values": [
+        "-2,107",
+        "-2,858"
+      ]
+    },
+    {
+      "label": "Cash provided by operating activities",
+      "values": [
+        "7,888",
+        "343"
+      ]
+    },
+    {
+      "label": "Additions to property, plant and equipment",
+      "values": [
+        "-7,199",
+        "-7,534"
+      ]
+    },
+    {
+      "label": "Additions to intangible assets",
+      "values": [
+        "-3,636",
+        "-3,167"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+      "values": [
+        "429",
+        "644"
+      ]
+    },
+    {
+      "label": "Investments in shareholdings",
+      "values": [
+        "-1,619",
+        "-780"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of shareholdings",
+      "values": [
+        "394",
+        "363"
+      ]
+    },
+    {
+      "label": "Acquisition of marketable debt securities and similar investments",
+      "values": [
+        "-5,960",
+        "-5,739"
+      ]
+    },
+    {
+      "label": "Proceeds from sales of marketable debt securities and similar investments",
+      "values": [
+        "7,014",
+        "6,210"
+      ]
+    },
+    {
+      "label": "Other",
+      "values": [
+        "-30",
+        "82"
+      ]
+    },
+    {
+      "label": "Cash used for investing activities",
+      "values": [
+        "-10,607",
+        "-9,921"
+      ]
+    },
+    {
+      "label": "Change in short-term financing liabilities",
+      "values": [
+        "840",
+        "2,637"
+      ]
+    },
+    {
+      "label": "Additions to long-term financing liabilities",
+      "values": [
+        "63,607",
+        "71,137"
+      ]
+    },
+    {
+      "label": "Repayment of long-term financing liabilities",
+      "values": [
+        "-55,043",
+        "-56,318"
+      ]
+    },
+    {
+      "label": "Dividend paid to shareholders of Daimler AG",
+      "values": [
+        "-3,477",
+        "-3,905"
+      ]
+    },
+    {
+      "label": "Dividends paid to non-controlling interests",
+      "values": [
+        "-263",
+        "-315"
+      ]
+    },
+    {
+      "label": "Proceeds from the issue of share capital",
+      "values": [
+        "85",
+        "118"
+      ]
+    },
+    {
+      "label": "Acquisition of treasury shares",
+      "values": [
+        "-42",
+        "-50"
+      ]
+    },
+    {
+      "label": "Acquisition of non-controlling interests in subsidiaries",
+      "values": [
+        "-79",
+        "-78"
+      ]
+    },
+    {
+      "label": "Cash provided by financing activities",
+      "values": [
+        "5,628",
+        "13,226"
+      ]
+    },
+    {
+      "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+      "values": [
+        "121",
+        "133"
+      ]
+    },
+    {
+      "label": "Net increase in cash and cash equivalents",
+      "values": [
+        "3,030",
+        "3,781"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "15,853",
+        "12,072"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+        "18,883",
+        "15,853"
+      ]
+    }
+  ]
+}

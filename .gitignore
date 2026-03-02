@@ -42,7 +42,7 @@ next-env.d.ts
 
 /app/generated/prisma
 
-/data
+
 *.db
 *.sqlite
 .env

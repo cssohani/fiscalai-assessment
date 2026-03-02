@@ -1,0 +1,28 @@
+{
+  "statementType": "cashflow",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Total expenditures",
+      "values": [
+        "6,341"
+      ]
+    },
+    {
+      "label": "Total divestments",
+      "values": [
+        "1,350"
+      ]
+    },
+    {
+      "label": "Cash flow from operating activities",
+      "values": [
+        "30,410"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "statementType": "balance",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2023",
+    "2022"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "263,022",
+        "260,015"
+      ]
+    },
+    {
+      "label": "Intangible assets",
+      "values": [
+        "17,593",
+        "15,869"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "26,090",
+        "27,250"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases",
+      "values": [
+        "41,712",
+        "41,552"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "13,104",
+        "13,530"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "49,742",
+        "48,237"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "699",
+        "823"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "4,340",
+        "4,478"
+      ]
+    },
+    {
+      "label": "Deferred tax assets",
+      "values": [
+        "4,127",
+        "3,725"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "1,583",
+        "1,677"
+      ]
+    },
+    {
+      "label": "Total non-current assets",
+      "values": [
+        "158,990",
+        "157,141"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "27,294",
+        "25,621"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "7,281",
+        "8,100"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "38,469",
+        "37,312"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "15,962",
+        "17,679"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "6,159",
+        "6,237"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "3,599",
+        "3,453"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "4,473",
+        "4,472"
+      ]
+    },
+    {
+      "label": "Assets held for sale",
+      "values": [
+        "795",
+        "-"
+      ]
+    },
+    {
+      "label": "Total current assets",
+      "values": [
+        "104,032",
+        "102,874"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "263,022",
+        "260,015"
+      ]
+    },
+    {
+      "label": "Equity and liabilities",
+      "values": [
+        "263,022",
+        "260,015"
+      ]
+    },
+    {
+      "label": "Share capital",
+      "values": [
+        "3,070",
+        "3,070"
+      ]
+    },
+    {
+      "label": "Capital reserves",
+      "values": [
+        "11,718",
+        "11,718"
+      ]
+    },
+    {
+      "label": "Retained earnings",
+      "values": [
+        "76,670",
+        "67,695"
+      ]
+    },
+    {
+      "label": "Other reserves",
+      "values": [
+        "2,571",
+        "2,932"
+      ]
+    },
+    {
+      "label": "Treasury shares",
+      "values": [
+        "-2,256",
+        "-"
+      ]
+    },
+    {
+      "label": "Equity attributable to shareholders of Mercedes-Benz Group AG",
+      "values": [
+        "91,773",
+        "85,415"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "1,043",
+        "1,125"
+      ]
+    },
+    {
+      "label": "Total equity",
+      "values": [
+        "92,816",
+        "86,540"
+      ]
+    },
+    {
+      "label": "Provisions for pensions and similar obligations",
+      "values": [
+        "1,090",
+        "1,021"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "7,345",
+        "6,438"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "63,724",
+        "62,051"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "1,642",
+        "2,524"
+      ]
+    },
+    {
+      "label": "Deferred tax liabilities",
+      "values": [
+        "7,714",
+        "6,910"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,223",
+        "1,234"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "3,514",
+        "3,656"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "1,520",
+        "1,238"
+      ]
+    },
+    {
+      "label": "Total non-current liabilities",
+      "values": [
+        "87,772",
+        "85,072"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "12,828",
+        "12,204"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "7,955",
+        "9,585"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "44,914",
+        "49,786"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "5,476",
+        "5,404"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,478",
+        "1,391"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "6,877",
+        "6,898"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "2,682",
+        "3,135"
+      ]
+    },
+    {
+      "label": "Liabilities held for sale",
+      "values": [
+        "224",
+        "-"
+      ]
+    },
+    {
+      "label": "Total current liabilities",
+      "values": [
+        "82,434",
+        "88,403"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "263,022",
+        "260,015"
+      ]
+    }
+  ]
+}

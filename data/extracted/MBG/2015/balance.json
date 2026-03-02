@@ -1,0 +1,144 @@
+{
+  "statementType": "balance",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2015",
+    "2014"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "217,166",
+        "189,635"
+      ]
+    },
+    {
+      "label": "Intangible assets",
+      "values": [
+        "10,069",
+        "9,367"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "24,322",
+        "23,182"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases and receivables from financial services",
+      "values": [
+        "112,456",
+        "94,729"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "3,633",
+        "2,294"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "23,760",
+        "20,864"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "9,054",
+        "8,634"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "9,936",
+        "9,667"
+      ]
+    },
+    {
+      "label": "Marketable debt securities",
+      "values": [
+        "8,273",
+        "6,634"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "7,454",
+        "5,987"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "8,209",
+        "8,277"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "217,166",
+        "189,635"
+      ]
+    },
+    {
+      "label": "Equity",
+      "values": [
+        "54,624",
+        "44,584"
+      ]
+    },
+    {
+      "label": "Provisions",
+      "values": [
+        "26,145",
+        "28,393"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "101,142",
+        "86,689"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "10,548",
+        "10,178"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "12,360",
+        "10,706"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "12,347",
+        "9,085"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "217,166",
+        "189,635"
+      ]
+    }
+  ]
+}

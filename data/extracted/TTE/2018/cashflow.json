@@ -1,0 +1,284 @@
+{
+  "statementType": "cashflow",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "rows": [
+    {
+      "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+      "values": [
+        "24,703",
+        "22,319",
+        "16,521"
+      ]
+    },
+    {
+      "label": "Consolidated net income",
+      "values": [
+        "11,550",
+        "8,299",
+        "6,206"
+      ]
+    },
+    {
+      "label": "Depreciation, depletion, amortization and impairment",
+      "values": [
+        "14,584",
+        "16,611",
+        "14,423"
+      ]
+    },
+    {
+      "label": "Non-current liabilities, valuation allowances, and deferred taxes",
+      "values": [
+        "(887)",
+        "(384)",
+        "(1,559)"
+      ]
+    },
+    {
+      "label": "(Gains) losses on disposals of assets",
+      "values": [
+        "(930)",
+        "(2,598)",
+        "(263)"
+      ]
+    },
+    {
+      "label": "Undistributed affiliates’ equity earnings",
+      "values": [
+        "(826)",
+        "42",
+        "(643)"
+      ]
+    },
+    {
+      "label": "(Increase) decrease in working capital",
+      "values": [
+        "769",
+        "827",
+        "(1,119)"
+      ]
+    },
+    {
+      "label": "Other changes, net",
+      "values": [
+        "443",
+        "(478)",
+        "(524)"
+      ]
+    },
+    {
+      "label": "CASH FLOW USED IN INVESTING ACTIVITIES",
+      "values": [
+        "(14,946)",
+        "(11,632)",
+        "(17,653)"
+      ]
+    },
+    {
+      "label": "Intangible assets and property, plant and equipment additions",
+      "values": [
+        "(17,080)",
+        "(13,767)",
+        "(18,106)"
+      ]
+    },
+    {
+      "label": "Acquisitions of subsidiaries, net of cash acquired",
+      "values": [
+        "(3,379)",
+        "(800)",
+        "(1,123)"
+      ]
+    },
+    {
+      "label": "Investments in equity affiliates and other securities",
+      "values": [
+        "(1,108)",
+        "(1,368)",
+        "(180)"
+      ]
+    },
+    {
+      "label": "Increase in non-current loans",
+      "values": [
+        "(618)",
+        "(961)",
+        "(1,121)"
+      ]
+    },
+    {
+      "label": "Total expenditures",
+      "values": [
+        "(22,185)",
+        "(16,896)",
+        "(20,530)"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of intangible assets and property, plant and equipment",
+      "values": [
+        "3,716",
+        "1,036",
+        "1,462"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of subsidiaries, net of cash sold",
+      "values": [
+        "12",
+        "2,909",
+        "270"
+      ]
+    },
+    {
+      "label": "Proceeds from disposals of non-current investments",
+      "values": [
+        "1,444",
+        "294",
+        "132"
+      ]
+    },
+    {
+      "label": "Repayment of non-current loans",
+      "values": [
+        "2,067",
+        "1,025",
+        "1,013"
+      ]
+    },
+    {
+      "label": "Total divestments",
+      "values": [
+        "7,239",
+        "5,264",
+        "2,877"
+      ]
+    },
+    {
+      "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+      "values": [
+        "(13,925)",
+        "(5,540)",
+        "3,532"
+      ]
+    },
+    {
+      "label": "Issuance (repayment) of shares: – Parent company shareholders",
+      "values": [
+        "498",
+        "519",
+        "100"
+      ]
+    },
+    {
+      "label": "– Treasury shares",
+      "values": [
+        "(4,328)",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "label": "Dividends paid: – Parent company shareholders",
+      "values": [
+        "(4,913)",
+        "(2,643)",
+        "(2,661)"
+      ]
+    },
+    {
+      "label": "– Non-controlling interests",
+      "values": [
+        "(97)",
+        "(141)",
+        "(93)"
+      ]
+    },
+    {
+      "label": "Issuance of perpetual subordinated notes",
+      "values": [
+        "-",
+        "-",
+        "4,711"
+      ]
+    },
+    {
+      "label": "Payments on perpetual subordinated notes",
+      "values": [
+        "(325)",
+        "(276)",
+        "(133)"
+      ]
+    },
+    {
+      "label": "Other transactions with non-controlling interests",
+      "values": [
+        "(622)",
+        "(4)",
+        "(104)"
+      ]
+    },
+    {
+      "label": "Net issuance (repayment) of non-current debt",
+      "values": [
+        "649",
+        "2,277",
+        "3,576"
+      ]
+    },
+    {
+      "label": "Increase (decrease) in current borrowings",
+      "values": [
+        "(3,990)",
+        "(7,175)",
+        "(3,260)"
+      ]
+    },
+    {
+      "label": "Increase (decrease) in current financial assets and liabilities",
+      "values": [
+        "(797)",
+        "1,903",
+        "1,396"
+      ]
+    },
+    {
+      "label": "NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS",
+      "values": [
+        "(4,168)",
+        "5,147",
+        "2,400"
+      ]
+    },
+    {
+      "label": "Effect of exchange rates",
+      "values": [
+        "(1,110)",
+        "3,441",
+        "(1,072)"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at the beginning of the period",
+      "values": [
+        "33,185",
+        "24,597",
+        "23,269"
+      ]
+    },
+    {
+      "label": "CASH AND CASH EQUIVALENTS AT THE END OF THE PERIOD",
+      "values": [
+        "27,907",
+        "33,185",
+        "24,597"
+      ]
+    }
+  ]
+}

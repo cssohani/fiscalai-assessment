@@ -1,6 +1,9 @@
 import OpenAI from "openai";
 import "dotenv/config";
 
+
+//use LLM to extract table data for different tables
+
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
@@ -12,6 +15,7 @@ type ExtractInput = {
   year: string;
 };
 
+//prompt
 export async function extractStatementFromText({
   statementType,
   pageText,
@@ -79,6 +83,7 @@ Only return valid JSON.
   let output = response.output_text.trim();
 
 
+  //format json to avoid errors
 if (output.startsWith("```")) {
   output = output.replace(/```json/g, "")
                  .replace(/```/g, "")

@@ -1,0 +1,340 @@
+{
+  "statementType": "balance",
+  "currency": "€",
+  "units": "million",
+  "years": [
+    "2021",
+    "2020"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "139,608",
+        "123,897"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "9,545",
+        "14,041"
+      ]
+    },
+    {
+      "label": "Trade and other receivables",
+      "values": [
+        "15,518",
+        "14,074"
+      ]
+    },
+    {
+      "label": "Other current financial assets",
+      "values": [
+        "7,985",
+        "8,382"
+      ]
+    },
+    {
+      "label": "Contract assets",
+      "values": [
+        "6,688",
+        "5,545"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "8,836",
+        "7,795"
+      ]
+    },
+    {
+      "label": "Current income tax assets",
+      "values": [
+        "1,795",
+        "1,523"
+      ]
+    },
+    {
+      "label": "Other current assets",
+      "values": [
+        "1,751",
+        "1,271"
+      ]
+    },
+    {
+      "label": "Assets classified as held for disposal",
+      "values": [
+        "223",
+        "338"
+      ]
+    },
+    {
+      "label": "Total current assets",
+      "values": [
+        "52,340",
+        "52,968"
+      ]
+    },
+    {
+      "label": "Goodwill",
+      "values": [
+        "29,729",
+        "20,449"
+      ]
+    },
+    {
+      "label": "Other intangible assets",
+      "values": [
+        "10,964",
+        "4,838"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "11,023",
+        "10,250"
+      ]
+    },
+    {
+      "label": "Investments accounted for using the equity method",
+      "values": [
+        "7,539",
+        "7,862"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "22,964",
+        "22,771"
+      ]
+    },
+    {
+      "label": "Deferred tax assets",
+      "values": [
+        "2,865",
+        "2,988"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "2,183",
+        "1,769"
+      ]
+    },
+    {
+      "label": "Total non-current assets",
+      "values": [
+        "87,267",
+        "70,928"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "139,608",
+        "123,897"
+      ]
+    },
+    {
+      "label": "Liabilities and equity",
+      "values": [
+        "90,333",
+        "84,074"
+      ]
+    },
+    {
+      "label": "Short-term debt and current maturities of long-term debt",
+      "values": [
+        "7,821",
+        "6,562"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "8,832",
+        "7,873"
+      ]
+    },
+    {
+      "label": "Other current financial liabilities",
+      "values": [
+        "1,731",
+        "1,958"
+      ]
+    },
+    {
+      "label": "Contract liabilities",
+      "values": [
+        "9,858",
+        "7,524"
+      ]
+    },
+    {
+      "label": "Current provisions",
+      "values": [
+        "2,263",
+        "1,674"
+      ]
+    },
+    {
+      "label": "Current income tax liabilities",
+      "values": [
+        "1,809",
+        "2,281"
+      ]
+    },
+    {
+      "label": "Other current liabilities",
+      "values": [
+        "7,628",
+        "6,209"
+      ]
+    },
+    {
+      "label": "Liabilities associated with assets classified as held for disposal",
+      "values": [
+        "10",
+        "35"
+      ]
+    },
+    {
+      "label": "Total current liabilities",
+      "values": [
+        "39,952",
+        "34,117"
+      ]
+    },
+    {
+      "label": "Long-term debt",
+      "values": [
+        "40,879",
+        "38,005"
+      ]
+    },
+    {
+      "label": "Provisions for pensions and similar obligations",
+      "values": [
+        "2,839",
+        "6,360"
+      ]
+    },
+    {
+      "label": "Deferred tax liabilities",
+      "values": [
+        "2,337",
+        "664"
+      ]
+    },
+    {
+      "label": "Provisions",
+      "values": [
+        "1,723",
+        "2,352"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "679",
+        "769"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "1,925",
+        "1,808"
+      ]
+    },
+    {
+      "label": "Total non-current liabilities",
+      "values": [
+        "50,381",
+        "49,957"
+      ]
+    },
+    {
+      "label": "Total liabilities",
+      "values": [
+        "90,333",
+        "84,074"
+      ]
+    },
+    {
+      "label": "Equity",
+      "values": [
+        "49,274",
+        "39,823"
+      ]
+    },
+    {
+      "label": "Issued capital",
+      "values": [
+        "2,550",
+        "2,550"
+      ]
+    },
+    {
+      "label": "Capital reserve",
+      "values": [
+        "7,040",
+        "6,840"
+      ]
+    },
+    {
+      "label": "Retained earnings",
+      "values": [
+        "39,607",
+        "33,078"
+      ]
+    },
+    {
+      "label": "Other components of equity",
+      "values": [
+        "(19)",
+        "(1,449)"
+      ]
+    },
+    {
+      "label": "Treasury shares, at cost",
+      "values": [
+        "(4,804)",
+        "(4,629)"
+      ]
+    },
+    {
+      "label": "Total equity attributable to shareholders of Siemens AG",
+      "values": [
+        "44,373",
+        "36,390"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "4,901",
+        "3,433"
+      ]
+    },
+    {
+      "label": "Total equity",
+      "values": [
+        "49,274",
+        "39,823"
+      ]
+    },
+    {
+      "label": "Total liabilities and equity",
+      "values": [
+        "139,608",
+        "123,897"
+      ]
+    }
+  ]
+}

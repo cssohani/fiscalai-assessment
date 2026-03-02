@@ -1,0 +1,68 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2024",
+    "2023",
+    "2022"
+  ],
+  "rows": [
+    {
+      "label": "Non-current assets",
+      "values": [
+        "188,916",
+        "184,125",
+        "178,140"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "96,571",
+        "99,529",
+        "125,724"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "285,487",
+        "283,654",
+        "303,864"
+      ]
+    },
+    {
+      "label": "Shareholders' equity",
+      "values": [
+        "120,255",
+        "119,453",
+        "114,570"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "77,272",
+        "75,416",
+        "79,516"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "87,960",
+        "88,785",
+        "109,778"
+      ]
+    },
+    {
+      "label": "Total liabilities & shareholders' equity",
+      "values": [
+        "285,487",
+        "283,654",
+        "303,864"
+      ]
+    }
+  ]
+}

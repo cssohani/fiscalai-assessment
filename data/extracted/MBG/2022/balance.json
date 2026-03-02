@@ -1,0 +1,291 @@
+{
+  "statementType": "balance",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2022",
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "15,869",
+        "15,005"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "27,250",
+        "27,859"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases",
+      "values": [
+        "41,552",
+        "44,471"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "13,530",
+        "13,588"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "48,237",
+        "46,955"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "823",
+        "873"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "4,478",
+        "3,181"
+      ]
+    },
+    {
+      "label": "Deferred tax assets",
+      "values": [
+        "3,725",
+        "3,434"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "1,677",
+        "1,536"
+      ]
+    },
+    {
+      "label": "Total non-current assets",
+      "values": [
+        "157,141",
+        "156,902"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "25,621",
+        "21,466"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "8,100",
+        "7,673"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "37,312",
+        "33,670"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "17,679",
+        "23,120"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "6,237",
+        "6,706"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "3,453",
+        "3,079"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "4,472",
+        "4,073"
+      ]
+    },
+    {
+      "label": "Assets held for sale",
+      "values": [
+        "-",
+        "3,142"
+      ]
+    },
+    {
+      "label": "Total current assets",
+      "values": [
+        "102,874",
+        "102,929"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "260,015",
+        "259,831"
+      ]
+    },
+    {
+      "label": "Equity and liabilities",
+      "values": [
+        "86,540",
+        "73,167"
+      ]
+    },
+    {
+      "label": "Provisions for pensions and similar obligations",
+      "values": [
+        "1,021",
+        "5,359"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "6,438",
+        "7,909"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "62,051",
+        "73,543"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "2,524",
+        "1,808"
+      ]
+    },
+    {
+      "label": "Deferred tax liabilities",
+      "values": [
+        "6,910",
+        "4,488"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,234",
+        "1,175"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "3,656",
+        "3,980"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "1,238",
+        "727"
+      ]
+    },
+    {
+      "label": "Total non-current liabilities",
+      "values": [
+        "85,072",
+        "98,989"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "12,204",
+        "10,655"
+      ]
+    },
+    {
+      "label": "Provisions for other risks",
+      "values": [
+        "9,585",
+        "8,053"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "49,786",
+        "52,300"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "5,404",
+        "5,997"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "1,391",
+        "1,486"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "6,898",
+        "5,929"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "3,135",
+        "3,086"
+      ]
+    },
+    {
+      "label": "Liabilities held for sale",
+      "values": [
+        "-",
+        "169"
+      ]
+    },
+    {
+      "label": "Total current liabilities",
+      "values": [
+        "88,403",
+        "87,675"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "260,015",
+        "259,831"
+      ]
+    }
+  ]
+}

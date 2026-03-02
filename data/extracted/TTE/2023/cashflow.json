@@ -1,0 +1,60 @@
+{
+  "statementType": "cashflow",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2023",
+    "2022",
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Cash flow from operating activities",
+      "values": [
+        "40,679",
+        "47,367",
+        "30,410"
+      ]
+    },
+    {
+      "label": "Cash flow used in investing activities",
+      "values": [
+        "(16,454)",
+        "(15,116)",
+        "(13,656)"
+      ]
+    },
+    {
+      "label": "Cash flow from financing activities",
+      "values": [
+        "(14,289)",
+        "(6,073)",
+        "(10,856)"
+      ]
+    },
+    {
+      "label": "Net increase (decrease) in cash and cash equivalents",
+      "values": [
+        "(29,730)",
+        "(19,272)",
+        "(25,497)"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at the beginning of the period",
+      "values": [
+        "33,026",
+        "21,342",
+        "31,268"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at the end of the period",
+      "values": [
+        "27,263",
+        "33,026",
+        "21,342"
+      ]
+    }
+  ]
+}

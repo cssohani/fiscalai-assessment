@@ -1,0 +1,28 @@
+{
+  "statementType": "cashflow",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2016"
+  ],
+  "rows": [
+    {
+      "label": "Total expenditures",
+      "values": [
+        "16,035"
+      ]
+    },
+    {
+      "label": "Total divestments",
+      "values": [
+        "2,331"
+      ]
+    },
+    {
+      "label": "Cash flow from operating activities",
+      "values": [
+        "16,521"
+      ]
+    }
+  ]
+}

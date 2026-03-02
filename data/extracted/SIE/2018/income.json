@@ -1,0 +1,200 @@
+{
+  "statementType": "income",
+  "currency": "€",
+  "units": "million",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "rows": [
+    {
+      "label": "Revenue",
+      "values": [
+        "83,044",
+        "82,863"
+      ]
+    },
+    {
+      "label": "Cost of sales",
+      "values": [
+        "(58,181)",
+        "(57,820)"
+      ]
+    },
+    {
+      "label": "Gross profit",
+      "values": [
+        "24,863",
+        "25,043"
+      ]
+    },
+    {
+      "label": "Research and development expenses",
+      "values": [
+        "(5,558)",
+        "(5,164)"
+      ]
+    },
+    {
+      "label": "Selling and general administrative expenses",
+      "values": [
+        "(12,941)",
+        "(12,360)"
+      ]
+    },
+    {
+      "label": "Other operating income",
+      "values": [
+        "500",
+        "647"
+      ]
+    },
+    {
+      "label": "Other operating expenses",
+      "values": [
+        "(678)",
+        "(595)"
+      ]
+    },
+    {
+      "label": "Income (loss) from investments accounted for using the equity method, net",
+      "values": [
+        "(3)",
+        "43"
+      ]
+    },
+    {
+      "label": "Interest income",
+      "values": [
+        "1,481",
+        "1,490"
+      ]
+    },
+    {
+      "label": "Interest expenses",
+      "values": [
+        "(1,089)",
+        "(1,051)"
+      ]
+    },
+    {
+      "label": "Other financial income (expenses), net",
+      "values": [
+        "1,475",
+        "135"
+      ]
+    },
+    {
+      "label": "Income from continuing operations before income taxes",
+      "values": [
+        "8,050",
+        "8,189"
+      ]
+    },
+    {
+      "label": "Income tax expenses",
+      "values": [
+        "(2,054)",
+        "(2,148)"
+      ]
+    },
+    {
+      "label": "Income from continuing operations",
+      "values": [
+        "5,996",
+        "6,041"
+      ]
+    },
+    {
+      "label": "Income from discontinued operations, net of income taxes",
+      "values": [
+        "124",
+        "53"
+      ]
+    },
+    {
+      "label": "Net income",
+      "values": [
+        "6,120",
+        "6,094"
+      ]
+    },
+    {
+      "label": "Attributable to:",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "313",
+        "133"
+      ]
+    },
+    {
+      "label": "Shareholders of Siemens AG",
+      "values": [
+        "5,807",
+        "5,961"
+      ]
+    },
+    {
+      "label": "Basic earnings per share",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Income from continuing operations",
+      "values": [
+        "6.97",
+        "7.27"
+      ]
+    },
+    {
+      "label": "Income from discontinued operations",
+      "values": [
+        "0.15",
+        "0.07"
+      ]
+    },
+    {
+      "label": "Net income",
+      "values": [
+        "7.12",
+        "7.34"
+      ]
+    },
+    {
+      "label": "Diluted earnings per share",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Income from continuing operations",
+      "values": [
+        "6.86",
+        "7.13"
+      ]
+    },
+    {
+      "label": "Income from discontinued operations",
+      "values": [
+        "0.15",
+        "0.06"
+      ]
+    },
+    {
+      "label": "Net income",
+      "values": [
+        "7.01",
+        "7.19"
+      ]
+    }
+  ]
+}

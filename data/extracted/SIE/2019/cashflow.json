@@ -1,0 +1,53 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "million",
+  "years": [
+    "2019",
+    "2018"
+  ],
+  "rows": [
+    {
+      "label": "Cash flows from operating activities",
+      "values": [
+        "7,518",
+        "8,050"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities",
+      "values": [
+        "(2,794)",
+        "(1,809)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities",
+      "values": [
+        "387",
+        "500"
+      ]
+    },
+    {
+      "label": "Net increase (decrease) in cash and cash equivalents",
+      "values": [
+        "5,111",
+        "6,741"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at beginning of year",
+      "values": [
+        "8,000",
+        "7,084"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of year",
+      "values": [
+        "13,111",
+        "13,825"
+      ]
+    }
+  ]
+}

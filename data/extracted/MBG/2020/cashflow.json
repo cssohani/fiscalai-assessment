@@ -1,0 +1,39 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "rows": [
+    {
+      "label": "Cash provided by (used for) operating activities",
+      "values": [
+        "22,332",
+        "7,888"
+      ]
+    },
+    {
+      "label": "Cash provided by (used for) investing activities",
+      "values": [
+        "-6,421",
+        "-10,607"
+      ]
+    },
+    {
+      "label": "Cash provided by (used for) financing activities",
+      "values": [
+        "-10,747",
+        "5,628"
+      ]
+    },
+    {
+      "label": "Free cash flow of the industrial business",
+      "values": [
+        "8,259",
+        "1,368"
+      ]
+    }
+  ]
+}

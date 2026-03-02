@@ -1,0 +1,108 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2019",
+    "2018",
+    "2017"
+  ],
+  "rows": [
+    {
+      "label": "TOTAL ASSETS",
+      "values": [
+        "273,294",
+        "256,762",
+        "242,631"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS' EQUITY",
+      "values": [
+        "119,305",
+        "118,114",
+        "114,037"
+      ]
+    },
+    {
+      "label": "TOTAL LIABILITIES & SHAREHOLDERS’ EQUITY",
+      "values": [
+        "273,294",
+        "256,762",
+        "242,631"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT ASSETS",
+      "values": [
+        "188,029",
+        "176,963",
+        "157,683"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT ASSETS",
+      "values": [
+        "85,265",
+        "79,799",
+        "84,948"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS' EQUITY – GROUP SHARE",
+      "values": [
+        "116,778",
+        "115,640",
+        "111,556"
+      ]
+    },
+    {
+      "label": "NON-CONTROLLING INTERESTS",
+      "values": [
+        "2,527",
+        "2,474",
+        "2,481"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT LIABILITIES",
+      "values": [
+        "83,745",
+        "76,414",
+        "71,889"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT LIABILITIES",
+      "values": [
+        "70,244",
+        "62,234",
+        "56,705"
+      ]
+    },
+    {
+      "label": "SHAREHOLDERS' EQUITY",
+      "values": [
+        "119,305",
+        "118,114",
+        "114,037"
+      ]
+    },
+    {
+      "label": "NON-CURRENT LIABILITIES",
+      "values": [
+        "83,745",
+        "76,414",
+        "71,889"
+      ]
+    },
+    {
+      "label": "CURRENT LIABILITIES",
+      "values": [
+        "70,244",
+        "62,234",
+        "56,705"
+      ]
+    }
+  ]
+}

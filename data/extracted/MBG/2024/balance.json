@@ -1,0 +1,172 @@
+{
+  "statementType": "balance",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2024",
+    "2023"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "265,010",
+        "263,022"
+      ]
+    },
+    {
+      "label": "Intangible assets",
+      "values": [
+        "19,436",
+        "17,593"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment including right-of-use assets",
+      "values": [
+        "26,537",
+        "26,090"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases",
+      "values": [
+        "45,220",
+        "41,712"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "87,867",
+        "89,019"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "12,786",
+        "13,104"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "26,234",
+        "26,486"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "6,973",
+        "7,281"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "14,511",
+        "15,962"
+      ]
+    },
+    {
+      "label": "Marketable debt securities and similar investments",
+      "values": [
+        "7,730",
+        "6,858"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "5,888",
+        "7,939"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "11,668",
+        "10,183"
+      ]
+    },
+    {
+      "label": "Assets held for sale",
+      "values": [
+        "160",
+        "795"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "265,010",
+        "263,022"
+      ]
+    },
+    {
+      "label": "Equity",
+      "values": [
+        "93,630",
+        "92,816"
+      ]
+    },
+    {
+      "label": "Provisions",
+      "values": [
+        "15,972",
+        "16,390"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "112,798",
+        "109,431"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "11,312",
+        "12,705"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "5,561",
+        "5,999"
+      ]
+    },
+    {
+      "label": "Contract and refund liabilities",
+      "values": [
+        "11,246",
+        "10,391"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "14,445",
+        "15,066"
+      ]
+    },
+    {
+      "label": "Liabilities held for sale",
+      "values": [
+        "46",
+        "224"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "265,010",
+        "263,022"
+      ]
+    }
+  ]
+}

@@ -13,7 +13,10 @@
     "locate:all": "tsx src/scripts/locateOne.ts",
     "extract:one": "tsx src/scripts/extractOne.ts",
     "locate:allYears": "tsx src/scripts/locateAllYears.ts",
-    "extract:all": "tsx src/scripts/extractAll.ts"
+    "extract:all": "tsx src/scripts/extractAll.ts",
+    "compile:10y": "tsx src/scripts/compile-10y.ts",
+    "normalize:10y": "tsx src/scripts/normalize-10y.ts",
+    "print-keys": "tsx src/scripts/print-raw-keys.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.19.2",
@@ -24,6 +27,7 @@
     "prisma": "^6.19.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "recharts": "^3.7.0",
     "undici": "^7.22.0"
   },
   "devDependencies": {

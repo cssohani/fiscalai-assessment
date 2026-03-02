@@ -1,0 +1,151 @@
+{
+  "statementType": "income",
+  "currency": "€",
+  "units": "million",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "rows": [
+    {
+      "label": "Revenue",
+      "values": [
+        "167,362",
+        "164,154"
+      ]
+    },
+    {
+      "label": "Cost of sales",
+      "values": [
+        "-134,295",
+        "-129,626"
+      ]
+    },
+    {
+      "label": "Gross profit",
+      "values": [
+        "33,067",
+        "34,528"
+      ]
+    },
+    {
+      "label": "Selling expenses",
+      "values": [
+        "-13,067",
+        "-12,951"
+      ]
+    },
+    {
+      "label": "General administrative expenses",
+      "values": [
+        "-4,036",
+        "-3,808"
+      ]
+    },
+    {
+      "label": "Research and non-capitalized development costs",
+      "values": [
+        "-6,581",
+        "-5,938"
+      ]
+    },
+    {
+      "label": "Other operating income",
+      "values": [
+        "2,330",
+        "2,259"
+      ]
+    },
+    {
+      "label": "Other operating expense",
+      "values": [
+        "-1,462",
+        "-1,043"
+      ]
+    },
+    {
+      "label": "Profit on equity-method investments, net",
+      "values": [
+        "656",
+        "1,498"
+      ]
+    },
+    {
+      "label": "Other financial income/expense, net",
+      "values": [
+        "210",
+        "-210"
+      ]
+    },
+    {
+      "label": "Interest income",
+      "values": [
+        "271",
+        "214"
+      ]
+    },
+    {
+      "label": "Interest expense",
+      "values": [
+        "-793",
+        "-582"
+      ]
+    },
+    {
+      "label": "Profit before income taxes",
+      "values": [
+        "10,595",
+        "13,967"
+      ]
+    },
+    {
+      "label": "Income taxes",
+      "values": [
+        "-3,013",
+        "-3,350"
+      ]
+    },
+    {
+      "label": "Net profit",
+      "values": [
+        "7,582",
+        "10,617"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to non-controlling interests",
+      "values": [
+        "333",
+        "339"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to shareholders of Daimler AG",
+      "values": [
+        "7,249",
+        "10,278"
+      ]
+    },
+    {
+      "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+      "values": [
+        "6.78",
+        "9.61"
+      ]
+    },
+    {
+      "label": "Basic",
+      "values": [
+        "6.78",
+        "9.61"
+      ]
+    },
+    {
+      "label": "Diluted",
+      "values": [
+        "6.78",
+        "9.61"
+      ]
+    }
+  ]
+}

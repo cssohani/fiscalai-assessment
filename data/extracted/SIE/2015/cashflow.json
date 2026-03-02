@@ -1,0 +1,368 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "million",
+  "years": [
+    "2015",
+    "2014"
+  ],
+  "rows": [
+    {
+      "label": "Cash flows from operating activities",
+      "values": [
+        "7,380",
+        "5,507"
+      ]
+    },
+    {
+      "label": "Adjustments to reconcile net income to cash flows from operating activities – continuing operations",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Income from discontinued operations, net of income taxes",
+      "values": [
+        "(2,031)",
+        "(215)"
+      ]
+    },
+    {
+      "label": "Amortization, depreciation and impairments",
+      "values": [
+        "2,549",
+        "2,387"
+      ]
+    },
+    {
+      "label": "Income tax expenses",
+      "values": [
+        "1,869",
+        "2,014"
+      ]
+    },
+    {
+      "label": "Interest (income) expenses, net",
+      "values": [
+        "(442)",
+        "(294)"
+      ]
+    },
+    {
+      "label": "(Income) loss related to investing activities",
+      "values": [
+        "(1,603)",
+        "(1,054)"
+      ]
+    },
+    {
+      "label": "Other non-cash (income) expenses",
+      "values": [
+        "366",
+        "90"
+      ]
+    },
+    {
+      "label": "Change in operating net working capital",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "(793)",
+        "335"
+      ]
+    },
+    {
+      "label": "Trade and other receivables",
+      "values": [
+        "(811)",
+        "201"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "(247)",
+        "204"
+      ]
+    },
+    {
+      "label": "Billings in excess of costs and estimated earnings on uncompleted contracts and related advances",
+      "values": [
+        "914",
+        "(657)"
+      ]
+    },
+    {
+      "label": "Additions to assets leased to others in operating leases",
+      "values": [
+        "(451)",
+        "(371)"
+      ]
+    },
+    {
+      "label": "Change in other assets and liabilities",
+      "values": [
+        "852",
+        "(558)"
+      ]
+    },
+    {
+      "label": "Income taxes paid",
+      "values": [
+        "(2,306)",
+        "(1,809)"
+      ]
+    },
+    {
+      "label": "Dividends received",
+      "values": [
+        "495",
+        "333"
+      ]
+    },
+    {
+      "label": "Interest received",
+      "values": [
+        "1,138",
+        "977"
+      ]
+    },
+    {
+      "label": "Cash flows from operating activities – continuing operations",
+      "values": [
+        "6,881",
+        "7,090"
+      ]
+    },
+    {
+      "label": "Cash flows from operating activities – discontinued operations",
+      "values": [
+        "(270)",
+        "9"
+      ]
+    },
+    {
+      "label": "Cash flows from operating activities – continuing and discontinued operations",
+      "values": [
+        "6,612",
+        "7,100"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Additions to intangible assets and property, plant and equipment",
+      "values": [
+        "(1,897)",
+        "(1,813)"
+      ]
+    },
+    {
+      "label": "Acquisitions of businesses, net of cash acquired",
+      "values": [
+        "(8,254)",
+        "(23)"
+      ]
+    },
+    {
+      "label": "Purchase of investments",
+      "values": [
+        "(568)",
+        "(335)"
+      ]
+    },
+    {
+      "label": "Purchase of current available-for-sale financial assets",
+      "values": [
+        "(899)",
+        "(613)"
+      ]
+    },
+    {
+      "label": "Change in receivables from financing activities",
+      "values": [
+        "(1,667)",
+        "(2,501)"
+      ]
+    },
+    {
+      "label": "Disposal of investments, intangibles and property, plant and equipment",
+      "values": [
+        "3,474",
+        "517"
+      ]
+    },
+    {
+      "label": "Disposal of businesses, net of cash disposed",
+      "values": [
+        "445",
+        "112"
+      ]
+    },
+    {
+      "label": "Disposal of current available-for-sale financial assets",
+      "values": [
+        "651",
+        "317"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities – continuing operations",
+      "values": [
+        "(8,716)",
+        "(4,340)"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities – discontinued operations",
+      "values": [
+        "2,889",
+        "314"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities – continuing and discontinued operations",
+      "values": [
+        "(5,827)",
+        "(4,026)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Purchase of treasury shares",
+      "values": [
+        "(2,700)",
+        "(1,066)"
+      ]
+    },
+    {
+      "label": "Other transactions with owners",
+      "values": [
+        "10",
+        "(20)"
+      ]
+    },
+    {
+      "label": "Issuance of long-term debt",
+      "values": [
+        "7,213",
+        "527"
+      ]
+    },
+    {
+      "label": "Repayment of long-term debt (including current maturities of long-term debt)",
+      "values": [
+        "(354)",
+        "(1,452)"
+      ]
+    },
+    {
+      "label": "Change in short-term debt and other financing activities",
+      "values": [
+        "351",
+        "801"
+      ]
+    },
+    {
+      "label": "Interest paid",
+      "values": [
+        "(596)",
+        "(617)"
+      ]
+    },
+    {
+      "label": "Dividends paid to shareholders of Siemens AG",
+      "values": [
+        "(2,728)",
+        "(2,533)"
+      ]
+    },
+    {
+      "label": "Dividends attributable to non-controlling interests",
+      "values": [
+        "(145)",
+        "(125)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities – continuing operations",
+      "values": [
+        "1,051",
+        "(4,485)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities – discontinued operations",
+      "values": [
+        "5",
+        "(2)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities – continuing and discontinued operations",
+      "values": [
+        "1,056",
+        "(4,487)"
+      ]
+    },
+    {
+      "label": "Effect of changes in exchange rates on cash and cash equivalents",
+      "values": [
+        "83",
+        "214"
+      ]
+    },
+    {
+      "label": "Change in cash and cash equivalents",
+      "values": [
+        "1,923",
+        "(1,199)"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "8,034",
+        "9,234"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+        "9,958",
+        "8,034"
+      ]
+    },
+    {
+      "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+      "values": [
+        "−",
+        "21"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+      "values": [
+        "9,957",
+        "8,013"
+      ]
+    }
+  ]
+}

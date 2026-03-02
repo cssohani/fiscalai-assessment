@@ -1,0 +1,348 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "rows": [
+    {
+      "label": "ASSETS",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Non-current assets",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Intangible assets, net (Notes 4 & 7)",
+      "values": [
+        "32,484",
+        "33,528",
+        "33,178"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment, net (Notes 4 & 7)",
+      "values": [
+        "106,559",
+        "108,335",
+        "116,408"
+      ]
+    },
+    {
+      "label": "Equity affiliates: investments and loans (Note 8)",
+      "values": [
+        "31,053",
+        "27,976",
+        "27,122"
+      ]
+    },
+    {
+      "label": "Other investments (Note 8)",
+      "values": [
+        "1,625",
+        "2,007",
+        "1,778"
+      ]
+    },
+    {
+      "label": "Non-current financial assets (Note 15)",
+      "values": [
+        "2,404",
+        "4,781",
+        "912"
+      ]
+    },
+    {
+      "label": "Deferred income taxes (Note 11)",
+      "values": [
+        "5,400",
+        "7,016",
+        "6,216"
+      ]
+    },
+    {
+      "label": "Other non-current assets (Note 6)",
+      "values": [
+        "2,797",
+        "2,810",
+        "2,415"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT ASSETS",
+      "values": [
+        "182,322",
+        "186,453",
+        "188,029"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Inventories, net (Note 5)",
+      "values": [
+        "19,952",
+        "14,730",
+        "17,132"
+      ]
+    },
+    {
+      "label": "Accounts receivable, net (Note 5)",
+      "values": [
+        "21,983",
+        "14,068",
+        "18,488"
+      ]
+    },
+    {
+      "label": "Other current assets (Note 5)",
+      "values": [
+        "35,144",
+        "13,428",
+        "17,013"
+      ]
+    },
+    {
+      "label": "Current financial assets (Note 15)",
+      "values": [
+        "12,315",
+        "4,630",
+        "3,992"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents (Note 15)",
+      "values": [
+        "21,342",
+        "31,268",
+        "27,352"
+      ]
+    },
+    {
+      "label": "Assets classified as held for sale (Note 2)",
+      "values": [
+        "400",
+        "1,555",
+        "1,288"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT ASSETS",
+      "values": [
+        "111,136",
+        "79,679",
+        "85,265"
+      ]
+    },
+    {
+      "label": "TOTAL ASSETS",
+      "values": [
+        "293,458",
+        "266,132",
+        "273,294"
+      ]
+    },
+    {
+      "label": "LIABILITIES & SHAREHOLDERS' EQUITY",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Shareholders' equity",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Common shares",
+      "values": [
+        "8,224",
+        "8,267",
+        "8,123"
+      ]
+    },
+    {
+      "label": "Paid-in surplus and retained earnings",
+      "values": [
+        "117,849",
+        "107,078",
+        "121,170"
+      ]
+    },
+    {
+      "label": "Currency translation adjustment",
+      "values": [
+        "(12,671)",
+        "(10,256)",
+        "(11,503)"
+      ]
+    },
+    {
+      "label": "Treasury shares",
+      "values": [
+        "(1,666)",
+        "(1,387)",
+        "(1,012)"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS' EQUITY - TotalEnergies SHARE (Note 9)",
+      "values": [
+        "111,736",
+        "103,702",
+        "116,778"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "3,263",
+        "2,383",
+        "2,527"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS' EQUITY",
+      "values": [
+        "114,999",
+        "106,085",
+        "119,305"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Deferred income taxes (Note 11)",
+      "values": [
+        "10,904",
+        "10,326",
+        "11,858"
+      ]
+    },
+    {
+      "label": "Employee benefits (Note 10)",
+      "values": [
+        "2,672",
+        "3,917",
+        "3,501"
+      ]
+    },
+    {
+      "label": "Provisions and other non-current liabilities (Note 12)",
+      "values": [
+        "20,269",
+        "20,925",
+        "20,613"
+      ]
+    },
+    {
+      "label": "Non-current financial debt (Note 15)",
+      "values": [
+        "49,512",
+        "60,203",
+        "47,773"
+      ]
+    },
+    {
+      "label": "TOTAL NON-CURRENT LIABILITIES",
+      "values": [
+        "83,357",
+        "95,371",
+        "83,745"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Accounts payable",
+      "values": [
+        "36,837",
+        "23,574",
+        "28,394"
+      ]
+    },
+    {
+      "label": "Other creditors and accrued liabilities (Note 5)",
+      "values": [
+        "42,800",
+        "22,465",
+        "25,749"
+      ]
+    },
+    {
+      "label": "Current borrowings (Note 15)",
+      "values": [
+        "15,035",
+        "17,099",
+        "14,819"
+      ]
+    },
+    {
+      "label": "Other current financial liabilities (Note 15)",
+      "values": [
+        "372",
+        "203",
+        "487"
+      ]
+    },
+    {
+      "label": "Liabilities directly associated with the assets classified as held for sale (Note 2)",
+      "values": [
+        "58",
+        "1,335",
+        "795"
+      ]
+    },
+    {
+      "label": "TOTAL CURRENT LIABILITIES",
+      "values": [
+        "95,102",
+        "64,676",
+        "70,244"
+      ]
+    },
+    {
+      "label": "TOTAL LIABILITIES & SHAREHOLDERS' EQUITY",
+      "values": [
+        "293,458",
+        "266,132",
+        "273,294"
+      ]
+    }
+  ]
+}

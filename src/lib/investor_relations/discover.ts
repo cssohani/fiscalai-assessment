@@ -1,6 +1,8 @@
 import { fetch } from "undici";
 import * as cheerio from "cheerio";
 
+
+//discover PDFs from the given url
 export type DiscoveredPdf = {
   url: string;
   title: string;

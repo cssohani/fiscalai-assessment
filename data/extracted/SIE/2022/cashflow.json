@@ -1,0 +1,67 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2022",
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Cash flows from operating activities – continuing operations",
+      "values": [
+        "10,322",
+        "10,109"
+      ]
+    },
+    {
+      "label": "Amortization, depreciation and impairments",
+      "values": [
+        "3,561",
+        "3,075"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities – continuing operations",
+      "values": [
+        "(2,467)",
+        "(17,192)"
+      ]
+    },
+    {
+      "label": "Additions to intangible assets and property, plant and equipment",
+      "values": [
+        "(2,084)",
+        "(1,730)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities – continuing operations",
+      "values": [
+        "(7,502)",
+        "785"
+      ]
+    },
+    {
+      "label": "Change in cash and cash equivalents",
+      "values": [
+        "927",
+        "(4,509)"
+      ]
+    },
+    {
+      "label": "Free cash flow – continuing and discontinued operations",
+      "values": [
+        "8,157",
+        "8,237"
+      ]
+    },
+    {
+      "label": "Free cash flow – continuing operations",
+      "values": [
+        "8,238",
+        "8,379"
+      ]
+    }
+  ]
+}

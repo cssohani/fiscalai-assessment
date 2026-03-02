@@ -1,0 +1,74 @@
+{
+  "statementType": "cashflow",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2016",
+    "2015"
+  ],
+  "rows": [
+    {
+      "label": "Cash flows from operating activities",
+      "values": [
+        "7,611",
+        "6,612"
+      ]
+    },
+    {
+      "label": "Cash flows from investing activities",
+      "values": [
+        "(4,144)",
+        "(5,827)"
+      ]
+    },
+    {
+      "label": "Cash flows from financing activities",
+      "values": [
+        "(2,710)",
+        "1,056"
+      ]
+    },
+    {
+      "label": "Effect of changes in exchange rates on cash and cash equivalents",
+      "values": [
+        "(98)",
+        "83"
+      ]
+    },
+    {
+      "label": "Change in cash and cash equivalents",
+      "values": [
+        "660",
+        "1,923"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+        "9,958",
+        "8,034"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+        "10,618",
+        "9,958"
+      ]
+    },
+    {
+      "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+      "values": [
+        "13",
+        "0"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+      "values": [
+        "10,604",
+        "9,957"
+      ]
+    }
+  ]
+}

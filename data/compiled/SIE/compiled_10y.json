@@ -1,0 +1,6874 @@
+{
+  "company": "SIE",
+  "compiledAt": "2026-03-02T16:33:49.084Z",
+  "statements": {
+    "income_statement": {
+      "2015": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "75,636",
+              "71,227"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(53,789)",
+              "(50,869)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "21,847",
+              "20,357"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(4,483)",
+              "(4,020)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(11,409)",
+              "(10,190)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "476",
+              "654"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(389)",
+              "(194)"
+            ]
+          },
+          {
+            "label": "Income from investments accounted for using the equity method, net",
+            "values": [
+              "1,235",
+              "582"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,260",
+              "1,058"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(818)",
+              "(764)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(500)",
+              "(177)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "7,218",
+              "7,306"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(1,869)",
+              "(2,014)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "5,349",
+              "5,292"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "2,031",
+              "215"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "7,380",
+              "5,507"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": []
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "98",
+              "134"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "7,282",
+              "5,373"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.38",
+              "6.12"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "2.47",
+              "0.25"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "8.84",
+              "6.37"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.30",
+              "6.06"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "2.44",
+              "0.25"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "8.74",
+              "6.31"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "79,644",
+              "75,636"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(55,826)",
+              "(53,789)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "23,819",
+              "21,847"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(4,732)",
+              "(4,483)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(11,669)",
+              "(11,409)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "328",
+              "476"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(427)",
+              "(389)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "134",
+              "1,235"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,314",
+              "1,260"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(989)",
+              "(818)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(373)",
+              "(500)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "7,404",
+              "7,218"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,008)",
+              "(1,869)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "5,396",
+              "5,349"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "188",
+              "2,031"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "5,584",
+              "7,380"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "134",
+              "98"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "5,450",
+              "7,282"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.51",
+              "6.38"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.23",
+              "2.47"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6.74",
+              "8.84"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.42",
+              "6.30"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.23",
+              "2.44"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6.65",
+              "8.74"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "83,049",
+              "79,644"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(58,021)",
+              "(55,826)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "25,029",
+              "23,819"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(5,164)",
+              "(4,732)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(12,225)",
+              "(11,669)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "647",
+              "328"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(595)",
+              "(427)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "43",
+              "134"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,487",
+              "1,314"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(1,051)",
+              "(989)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "135",
+              "(373)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "8,306",
+              "7,404"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,180)",
+              "(2,008)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6,126",
+              "5,396"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "53",
+              "188"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6,179",
+              "5,584"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "133",
+              "134"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "6,046",
+              "5,450"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "7.38",
+              "6.51"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.07",
+              "0.23"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "7.44",
+              "6.74"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "7.23",
+              "6.42"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.06",
+              "0.23"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "7.29",
+              "6.65"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "83,044",
+              "82,863"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(58,181)",
+              "(57,820)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "24,863",
+              "25,043"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(5,558)",
+              "(5,164)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(12,941)",
+              "(12,360)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "500",
+              "647"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(678)",
+              "(595)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "(3)",
+              "43"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,481",
+              "1,490"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(1,089)",
+              "(1,051)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "1,475",
+              "135"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "8,050",
+              "8,189"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,054)",
+              "(2,148)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "5,996",
+              "6,041"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "124",
+              "53"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6,120",
+              "6,094"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "313",
+              "133"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "5,807",
+              "5,961"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.97",
+              "7.27"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.15",
+              "0.07"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "7.12",
+              "7.34"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.86",
+              "7.13"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.15",
+              "0.06"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "7.01",
+              "7.19"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "86,849",
+              "83,044"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(60,922)",
+              "(58,181)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "25,927",
+              "24,863"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(5,670)",
+              "(5,558)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(13,345)",
+              "(12,941)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "442",
+              "500"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(466)",
+              "(678)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "199",
+              "(3)"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,634",
+              "1,481"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(1,129)",
+              "(1,089)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(74)",
+              "1,475"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "7,518",
+              "8,050"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(1,872)",
+              "(2,054)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "5,646",
+              "5,996"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "124",
+              ""
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "5,648",
+              "6,120"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "474",
+              "313"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "5,174",
+              "5,807"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.41",
+              "6.97"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "−",
+              "0.15"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6.41",
+              "7.12"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "6.32",
+              "6.86"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "−",
+              "0.15"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6.32",
+              "7.01"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "57,139",
+              "58,483"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(36,953)",
+              "(36,849)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "20,187",
+              "21,634"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(4,601)",
+              "(4,669)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(10,774)",
+              "(10,688)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "631",
+              "376"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(403)",
+              "(362)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "(596)",
+              "112"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,547",
+              "1,534"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(815)",
+              "(965)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "496",
+              "(39)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "5,672",
+              "6,933"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(1,382)",
+              "(1,775)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4,290",
+              "5,158"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations, net of income taxes",
+            "values": [
+              "(90)",
+              "490"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "4,200",
+              "5,648"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "170",
+              "474"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "4,030",
+              "5,174"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4.93",
+              "5.94"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.06",
+              "0.47"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "5.00",
+              "6.41"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4.86",
+              "5.86"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.06",
+              "0.46"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "4.93",
+              "6.32"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "62,265",
+              "55,254"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(39,527)",
+              "(35,366)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "22,737",
+              "19,888"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(4,859)",
+              "(4,569)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(11,189)",
+              "(10,682)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "236",
+              "630"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(431)",
+              "(396)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "(478)",
+              "(596)"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,483",
+              "1,545"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(644)",
+              "(814)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "641",
+              "496"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "7,496",
+              "5,502"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(1,861)",
+              "(1,346)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "5,636",
+              "4,156"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "1,062",
+              "44"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "6,697",
+              "4,200"
+            ]
+          },
+          {
+            "label": "Attributable to: Non-controlling interests",
+            "values": [
+              "537",
+              "170"
+            ]
+          },
+          {
+            "label": "Attributable to: Shareholders of Siemens AG",
+            "values": [
+              "6,161",
+              "4,030"
+            ]
+          },
+          {
+            "label": "Basic earnings per share: Income from continuing operations",
+            "values": [
+              "6.36",
+              "4.77"
+            ]
+          },
+          {
+            "label": "Basic earnings per share: Income from discontinued operations",
+            "values": [
+              "1.32",
+              "0.23"
+            ]
+          },
+          {
+            "label": "Basic earnings per share: Net income",
+            "values": [
+              "7.68",
+              "5.00"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share: Income from continuing operations",
+            "values": [
+              "6.28",
+              "4.70"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share: Income from discontinued operations",
+            "values": [
+              "1.31",
+              "0.23"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share: Net income",
+            "values": [
+              "7.59",
+              "4.93"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "71,977",
+              "62,265"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(46,130)",
+              "(39,527)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "25,847",
+              "22,737"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(5,591)",
+              "(4,859)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(12,857)",
+              "(11,191)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,171",
+              "236"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(285)",
+              "(431)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "(2,085)",
+              "(428)"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "1,632",
+              "1,441"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(689)",
+              "(644)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(987)",
+              "635"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "7,154",
+              "7,496"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,741)",
+              "(1,861)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4,413",
+              "5,636"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations, net of income taxes",
+            "values": [
+              "(21)",
+              "1,062"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "4,392",
+              "6,697"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": []
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "669",
+              "537"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "3,723",
+              "6,161"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4.67",
+              "6.36"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations",
+            "values": [
+              "(0.03)",
+              "1.32"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "4.65",
+              "7.68"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "4.62",
+              "6.28"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations",
+            "values": [
+              "(0.03)",
+              "1.31"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "4.59",
+              "7.59"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "77,769",
+              "71,977"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(48,116)",
+              "(46,130)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "29,653",
+              "25,847"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(6,183)",
+              "(5,591)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(13,941)",
+              "(12,857)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "574",
+              "2,171"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(454)",
+              "(285)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "906",
+              "(2,085)"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "2,406",
+              "1,632"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(1,373)",
+              "(689)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(387)",
+              "(987)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "11,201",
+              "7,154"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,687)",
+              "(2,741)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "8,514",
+              "4,413"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations, net of income taxes",
+            "values": [
+              "(21)",
+              ""
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "8,529",
+              "4,392"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": [
+              ""
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "579",
+              "669"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "7,949",
+              "3,723"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": [
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "10.02",
+              "4.67"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations",
+            "values": [
+              "0.02",
+              "(0.03)"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "10.04",
+              "4.65"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": [
+              ""
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "9.90",
+              "4.62"
+            ]
+          },
+          {
+            "label": "Income (loss) from discontinued operations",
+            "values": [
+              "0.02",
+              "(0.03)"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "9.91",
+              "4.59"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "75,930",
+              "74,882"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "(46,107)",
+              "(45,766)"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "29,823",
+              "29,117"
+            ]
+          },
+          {
+            "label": "Research and development expenses",
+            "values": [
+              "(6,276)",
+              "(6,113)"
+            ]
+          },
+          {
+            "label": "Selling and general administrative expenses",
+            "values": [
+              "(13,984)",
+              "(13,553)"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "544",
+              "572"
+            ]
+          },
+          {
+            "label": "Other operating expenses",
+            "values": [
+              "(514)",
+              "(447)"
+            ]
+          },
+          {
+            "label": "Income (loss) from investments accounted for using the equity method, net",
+            "values": [
+              "827",
+              "906"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "2,833",
+              "2,402"
+            ]
+          },
+          {
+            "label": "Interest expenses",
+            "values": [
+              "(1,785)",
+              "(1,369)"
+            ]
+          },
+          {
+            "label": "Other financial income (expenses), net",
+            "values": [
+              "(240)",
+              "(388)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations before income taxes",
+            "values": [
+              "11,227",
+              "11,126"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "(2,320)",
+              "(2,600)"
+            ]
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "8,907",
+              "8,525"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "85",
+              "3"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "8,992",
+              "8,529"
+            ]
+          },
+          {
+            "label": "Attributable to:",
+            "values": []
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "691",
+              "579"
+            ]
+          },
+          {
+            "label": "Shareholders of Siemens AG",
+            "values": [
+              "8,301",
+              "7,949"
+            ]
+          },
+          {
+            "label": "Basic earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "10.42",
+              "10.04"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.11",
+              "−"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "10.53",
+              "10.04"
+            ]
+          },
+          {
+            "label": "Diluted earnings per share",
+            "values": []
+          },
+          {
+            "label": "Income from continuing operations",
+            "values": [
+              "10.27",
+              "9.91"
+            ]
+          },
+          {
+            "label": "Income from discontinued operations",
+            "values": [
+              "0.11",
+              "−"
+            ]
+          },
+          {
+            "label": "Net income",
+            "values": [
+              "10.38",
+              "9.91"
+            ]
+          }
+        ]
+      }
+    },
+    "balance_sheet": {
+      "2015": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "9,957",
+              "8,013"
+            ]
+          },
+          {
+            "label": "Available-for-sale financial assets",
+            "values": [
+              "1,175",
+              "925"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "15,982",
+              "14,526"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "5,157",
+              "3,710"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "17,253",
+              "15,100"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "644",
+              "577"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,151",
+              "1,290"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "122",
+              "3,935"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "51,442",
+              "48,076"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "23,166",
+              "17,783"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "8,077",
+              "4,560"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "10,210",
+              "9,638"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "2,947",
+              "2,127"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "20,821",
+              "18,416"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,591",
+              "3,334"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,094",
+              "945"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "68,906",
+              "56,803"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "120,348",
+              "104,879"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "2,979",
+              "1,620"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "7,774",
+              "7,594"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "2,085",
+              "1,717"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "4,489",
+              "4,354"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "1,828",
+              "1,762"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "20,368",
+              "17,954"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "39",
+              "1,597"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "39,562",
+              "36,598"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "26,682",
+              "19,326"
+            ]
+          },
+          {
+            "label": "Post-employment benefits",
+            "values": [
+              "9,811",
+              "9,324"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "609",
+              "552"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "4,865",
+              "4,071"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "1,466",
+              "1,620"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,297",
+              "1,874"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "45,730",
+              "36,767"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "85,292",
+              "73,365"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,643",
+              "2,643"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "5,733",
+              "5,525"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "30,152",
+              "25,729"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "2,163",
+              "803"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(6,218)",
+              "(3,747)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "34,474",
+              "30,954"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "581",
+              "560"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "35,056",
+              "31,514"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "120,348",
+              "104,879"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "10,604",
+              "9,957"
+            ]
+          },
+          {
+            "label": "Available-for-sale financial assets",
+            "values": [
+              "1,293",
+              "1,175"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "16,287",
+              "15,982"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "6,800",
+              "5,157"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "18,160",
+              "17,253"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "790",
+              "644"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,204",
+              "1,151"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "190",
+              "122"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "55,329",
+              "51,442"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "24,159",
+              "23,166"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "7,742",
+              "8,077"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "10,157",
+              "10,210"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "3,012",
+              "2,947"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "20,610",
+              "20,821"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "3,431",
+              "2,591"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,279",
+              "1,094"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "70,388",
+              "68,906"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "125,717",
+              "120,348"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "6,206",
+              "2,979"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "8,048",
+              "7,774"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,933",
+              "2,085"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "4,166",
+              "4,489"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "2,085",
+              "1,828"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "20,437",
+              "20,368"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "40",
+              "39"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "42,916",
+              "39,562"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "24,761",
+              "26,682"
+            ]
+          },
+          {
+            "label": "Post-employment benefits",
+            "values": [
+              "13,695",
+              "9,811"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "829",
+              "609"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "5,087",
+              "4,865"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "1,142",
+              "1,466"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,471",
+              "2,297"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "47,986",
+              "45,730"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "90,901",
+              "85,292"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,550",
+              "2,643"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "5,890",
+              "5,733"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "27,454",
+              "30,152"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "1,921",
+              "2,163"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(3,605)",
+              "(6,218)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "34,211",
+              "34,474"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "605",
+              "581"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "34,816",
+              "35,056"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "125,717",
+              "120,348"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "8,375",
+              "10,604"
+            ]
+          },
+          {
+            "label": "Available-for-sale financial assets",
+            "values": [
+              "1,242",
+              "1,293"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "17,160",
+              "16,287"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "7,664",
+              "6,800"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "19,942",
+              "18,160"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,098",
+              "790"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,467",
+              "1,204"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "1,482",
+              "190"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "58,429",
+              "55,329"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "27,906",
+              "24,159"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "10,926",
+              "7,742"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "10,977",
+              "10,157"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "2,727",
+              "3,012"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "19,044",
+              "20,610"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,297",
+              "3,431"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,498",
+              "1,279"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "75,375",
+              "70,388"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "133,804",
+              "125,717"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "5,447",
+              "6,206"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "9,755",
+              "8,048"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,444",
+              "1,933"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "4,247",
+              "4,166"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "2,355",
+              "2,085"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "20,049",
+              "20,437"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "97",
+              "40"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "43,394",
+              "42,916"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "26,777",
+              "24,761"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "9,582",
+              "13,695"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "1,599",
+              "829"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "4,579",
+              "5,087"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "902",
+              "1,142"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,445",
+              "2,471"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "45,884",
+              "47,986"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "89,278",
+              "90,901"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,550",
+              "2,550"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "6,368",
+              "5,890"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "35,696",
+              "27,454"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "1,671",
+              "1,921"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(3,196)",
+              "(3,605)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "43,089",
+              "34,211"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "1,438",
+              "605"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "44,527",
+              "34,816"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "133,804",
+              "125,717"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "11,066",
+              "8,375"
+            ]
+          },
+          {
+            "label": "Available-for-sale financial assets",
+            "values": [
+              "1,286",
+              "1,242"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "17,918",
+              "16,754"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "8,693",
+              "7,664"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "8,912",
+              "8,781"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "13,885",
+              "13,885"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,010",
+              "1,098"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,707",
+              "1,466"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "94",
+              "1,484"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "64,570",
+              "60,750"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "28,344",
+              "27,906"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "10,131",
+              "10,926"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "11,381",
+              "10,977"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "2,579",
+              "2,727"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "17,759",
+              "19,044"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,341",
+              "2,283"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,810",
+              "1,498"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "74,345",
+              "75,361"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "138,915",
+              "136,111"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "5,057",
+              "5,447"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "10,716",
+              "9,756"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,485",
+              "1,444"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "14,464",
+              "14,228"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "3,931",
+              "4,077"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "3,102",
+              "2,355"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "9,118",
+              "8,671"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "1",
+              "99"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "47,874",
+              "46,077"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "27,120",
+              "26,777"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "7,684",
+              "9,582"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "1,092",
+              "1,635"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "4,216",
+              "4,366"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "685",
+              "902"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,198",
+              "2,153"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "42,995",
+              "45,415"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "90,869",
+              "91,492"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "45,474",
+              "43,181"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "2,573",
+              "1,438"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "138,915",
+              "136,111"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "12,391",
+              "11,066"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "18,894",
+              "18,455"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "10,669",
+              "9,427"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "10,309",
+              "8,912"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "14,806",
+              "13,885"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,103",
+              "1,010"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,960",
+              "1,707"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "238",
+              "94"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "70,370",
+              "64,556"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "30,160",
+              "28,344"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "9,800",
+              "10,131"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "12,183",
+              "11,381"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "2,244",
+              "2,579"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "19,843",
+              "17,774"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "3,174",
+              "2,341"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "2,475",
+              "1,810"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "79,878",
+              "74,359"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "150,248",
+              "138,915"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "6,034",
+              "5,057"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "11,409",
+              "10,716"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,743",
+              "1,485"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "16,452",
+              "14,464"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "3,682",
+              "3,931"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "2,378",
+              "3,102"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "9,023",
+              "9,118"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "2",
+              "1"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "50,723",
+              "47,874"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "30,414",
+              "27,120"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "9,896",
+              "7,684"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "1,305",
+              "1,092"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "3,714",
+              "4,216"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "986",
+              "685"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,226",
+              "2,198"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "48,541",
+              "42,995"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "99,265",
+              "90,869"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "48,125",
+              "45,474"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "2,858",
+              "2,573"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "50,984",
+              "48,046"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "150,248",
+              "138,915"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "ASSETS",
+            "values": []
+          },
+          {
+            "label": "Non-current assets",
+            "values": []
+          },
+          {
+            "label": "Intangible and tangible assets",
+            "values": [
+              "1,122",
+              "1,884"
+            ]
+          },
+          {
+            "label": "Financial assets",
+            "values": [
+              "74,877",
+              "73,158"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "75,999",
+              "75,043"
+            ]
+          },
+          {
+            "label": "Current assets",
+            "values": []
+          },
+          {
+            "label": "Inventories, receivables and other assets",
+            "values": [
+              "16,937",
+              "19,752"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents, other securities",
+            "values": [
+              "8,786",
+              "4,489"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "25,724",
+              "24,241"
+            ]
+          },
+          {
+            "label": "Prepaid expenses",
+            "values": [
+              "133",
+              "147"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "1,034",
+              "829"
+            ]
+          },
+          {
+            "label": "Active difference resulting from offsetting",
+            "values": [
+              "85",
+              "68"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "102,975",
+              "100,328"
+            ]
+          },
+          {
+            "label": "LIABILITIES AND EQUITY",
+            "values": []
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "18,917",
+              "30,428"
+            ]
+          },
+          {
+            "label": "Special reserve with an equity portion",
+            "values": [
+              "619",
+              "668"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": []
+          },
+          {
+            "label": "Provisions for pensions and similar commitments",
+            "values": [
+              "11,700",
+              "12,343"
+            ]
+          },
+          {
+            "label": "Provisions for taxes and other provisions",
+            "values": [
+              "4,323",
+              "5,616"
+            ]
+          },
+          {
+            "label": "Total provisions",
+            "values": [
+              "16,023",
+              "17,959"
+            ]
+          },
+          {
+            "label": "Liabilities",
+            "values": []
+          },
+          {
+            "label": "Liabilities to banks",
+            "values": [
+              "98",
+              "27"
+            ]
+          },
+          {
+            "label": "Advance payments received",
+            "values": [
+              "−",
+              "1,841"
+            ]
+          },
+          {
+            "label": "Trade payables, liabilities to affiliated companies and other liabilities",
+            "values": [
+              "67,047",
+              "49,079"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "67,145",
+              "50,947"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "271",
+              "326"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "102,975",
+              "100,328"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "139,608",
+              "123,897"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "9,545",
+              "14,041"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "15,518",
+              "14,074"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "7,985",
+              "8,382"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "6,688",
+              "5,545"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "8,836",
+              "7,795"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,795",
+              "1,523"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,751",
+              "1,271"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "223",
+              "338"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "52,340",
+              "52,968"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "29,729",
+              "20,449"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "10,964",
+              "4,838"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "11,023",
+              "10,250"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "7,539",
+              "7,862"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "22,964",
+              "22,771"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,865",
+              "2,988"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "2,183",
+              "1,769"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "87,267",
+              "70,928"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "139,608",
+              "123,897"
+            ]
+          },
+          {
+            "label": "Liabilities and equity",
+            "values": [
+              "90,333",
+              "84,074"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "7,821",
+              "6,562"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "8,832",
+              "7,873"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,731",
+              "1,958"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "9,858",
+              "7,524"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "2,263",
+              "1,674"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "1,809",
+              "2,281"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "7,628",
+              "6,209"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "10",
+              "35"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "39,952",
+              "34,117"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "40,879",
+              "38,005"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "2,839",
+              "6,360"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "2,337",
+              "664"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "1,723",
+              "2,352"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "679",
+              "769"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,925",
+              "1,808"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "50,381",
+              "49,957"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "90,333",
+              "84,074"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "49,274",
+              "39,823"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,550",
+              "2,550"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "7,040",
+              "6,840"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "39,607",
+              "33,078"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "(19)",
+              "(1,449)"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(4,804)",
+              "(4,629)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "44,373",
+              "36,390"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "4,901",
+              "3,433"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "49,274",
+              "39,823"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "139,608",
+              "123,897"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "151,502",
+              "139,372"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "10,465",
+              "9,545"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "16,701",
+              "15,518"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "9,696",
+              "7,985"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "7,559",
+              "6,645"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "10,626",
+              "8,836"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,432",
+              "1,795"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,935",
+              "1,751"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "413",
+              "223"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "58,829",
+              "52,298"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "33,861",
+              "29,672"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "12,196",
+              "10,827"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "11,733",
+              "11,023"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "4,955",
+              "7,539"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "25,903",
+              "22,964"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,459",
+              "2,865"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,565",
+              "2,183"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "92,673",
+              "87,074"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "151,502",
+              "139,372"
+            ]
+          },
+          {
+            "label": "Liabilities and equity",
+            "values": [
+              "96,697",
+              "90,381"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "6,658",
+              "7,821"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "10,317",
+              "8,832"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,616",
+              "1,731"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "12,049",
+              "9,876"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "2,156",
+              "2,293"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "2,381",
+              "1,809"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "7,448",
+              "7,628"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "61",
+              "10"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "42,686",
+              "40,000"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "43,978",
+              "40,879"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "2,275",
+              "2,839"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "2,381",
+              "2,337"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "1,857",
+              "1,723"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "1,867",
+              "679"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,654",
+              "1,925"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "54,011",
+              "50,381"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "96,697",
+              "90,381"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "54,805",
+              "48,991"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,550",
+              "2,550"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "7,174",
+              "7,040"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "38,959",
+              "39,607"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "6,159",
+              "(232)"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(5,948)",
+              "(4,804)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "48,895",
+              "44,160"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "5,910",
+              "4,831"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "54,805",
+              "48,991"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "151,502",
+              "139,372"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "145,067",
+              "151,502"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "10,084",
+              "10,465"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "17,405",
+              "16,701"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "10,605",
+              "9,696"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "7,581",
+              "7,559"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "11,548",
+              "10,626"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,363",
+              "1,432"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,955",
+              "1,935"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "99",
+              "413"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "60,639",
+              "58,829"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "32,224",
+              "33,861"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "10,641",
+              "12,196"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "11,938",
+              "11,733"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "3,014",
+              "4,955"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "22,855",
+              "25,903"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,231",
+              "2,459"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,523",
+              "1,565"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "84,428",
+              "92,673"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "145,067",
+              "151,502"
+            ]
+          },
+          {
+            "label": "Liabilities and equity",
+            "values": [
+              "92,007",
+              "96,697"
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "7,483",
+              "6,658"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "10,130",
+              "10,317"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "1,601",
+              "1,616"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "12,571",
+              "12,049"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "2,320",
+              "2,156"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "2,566",
+              "2,381"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "8,182",
+              "7,448"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "50",
+              "61"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "44,901",
+              "42,686"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "39,113",
+              "43,978"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "1,426",
+              "2,275"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "1,655",
+              "2,381"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "1,794",
+              "1,857"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "1,453",
+              "1,867"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,666",
+              "1,654"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "47,106",
+              "54,011"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "92,007",
+              "96,697"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "53,060",
+              "54,805"
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,400",
+              "2,550"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "7,411",
+              "7,174"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "36,874",
+              "38,959"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "2,282",
+              "6,159"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(1,177)",
+              "(5,948)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "47,791",
+              "48,895"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "5,270",
+              "5,910"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "53,060",
+              "54,805"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "145,067",
+              "151,502"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "9,156",
+              "10,084"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "16,963",
+              "17,405"
+            ]
+          },
+          {
+            "label": "Other current financial assets",
+            "values": [
+              "10,492",
+              "10,605"
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "7,985",
+              "7,581"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "10,923",
+              "11,548"
+            ]
+          },
+          {
+            "label": "Current income tax assets",
+            "values": [
+              "1,767",
+              "1,363"
+            ]
+          },
+          {
+            "label": "Other current assets",
+            "values": [
+              "1,632",
+              "1,955"
+            ]
+          },
+          {
+            "label": "Assets classified as held for disposal",
+            "values": [
+              "2,433",
+              "99"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "61,353",
+              "60,639"
+            ]
+          },
+          {
+            "label": "Goodwill",
+            "values": [
+              "31,384",
+              "32,224"
+            ]
+          },
+          {
+            "label": "Other intangible assets",
+            "values": [
+              "9,593",
+              "10,641"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "12,242",
+              "11,938"
+            ]
+          },
+          {
+            "label": "Investments accounted for using the equity method",
+            "values": [
+              "980",
+              "3,014"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "27,388",
+              "22,855"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "2,677",
+              "2,235"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "2,196",
+              "1,523"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "86,459",
+              "84,432"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "147,812",
+              "145,071"
+            ]
+          },
+          {
+            "label": "Liabilities and equity",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Short-term debt and current maturities of long-term debt",
+            "values": [
+              "6,598",
+              "7,483"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "8,843",
+              "10,130"
+            ]
+          },
+          {
+            "label": "Other current financial liabilities",
+            "values": [
+              "2,006",
+              "1,613"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "12,855",
+              "12,571"
+            ]
+          },
+          {
+            "label": "Current provisions",
+            "values": [
+              "2,730",
+              "2,320"
+            ]
+          },
+          {
+            "label": "Current income tax liabilities",
+            "values": [
+              "1,805",
+              "2,566"
+            ]
+          },
+          {
+            "label": "Other current liabilities",
+            "values": [
+              "7,833",
+              "8,182"
+            ]
+          },
+          {
+            "label": "Liabilities associated with assets classified as held for disposal",
+            "values": [
+              "1,245",
+              "50"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "43,913",
+              "44,913"
+            ]
+          },
+          {
+            "label": "Long-term debt",
+            "values": [
+              "41,321",
+              "39,113"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "912",
+              "1,426"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "1,483",
+              "1,655"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "1,120",
+              "1,463"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "864",
+              "1,516"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,968",
+              "1,933"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "47,667",
+              "47,106"
+            ]
+          },
+          {
+            "label": "Total liabilities",
+            "values": [
+              "91,581",
+              "92,019"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Issued capital",
+            "values": [
+              "2,400",
+              "2,400"
+            ]
+          },
+          {
+            "label": "Capital reserve",
+            "values": [
+              "7,757",
+              "7,411"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "39,657",
+              "36,866"
+            ]
+          },
+          {
+            "label": "Other components of equity",
+            "values": [
+              "3,615",
+              "2,282"
+            ]
+          },
+          {
+            "label": "Treasury shares, at cost",
+            "values": [
+              "(2,165)",
+              "(1,177)"
+            ]
+          },
+          {
+            "label": "Total equity attributable to shareholders of Siemens AG",
+            "values": [
+              "51,264",
+              "47,782"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "4,967",
+              "5,270"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "56,231",
+              "53,052"
+            ]
+          },
+          {
+            "label": "Total liabilities and equity",
+            "values": [
+              "147,812",
+              "145,071"
+            ]
+          }
+        ]
+      }
+    },
+    "cash_flow": {
+      "2015": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "7,380",
+              "5,507"
+            ]
+          },
+          {
+            "label": "Adjustments to reconcile net income to cash flows from operating activities – continuing operations",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "(2,031)",
+              "(215)"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "2,549",
+              "2,387"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "1,869",
+              "2,014"
+            ]
+          },
+          {
+            "label": "Interest (income) expenses, net",
+            "values": [
+              "(442)",
+              "(294)"
+            ]
+          },
+          {
+            "label": "(Income) loss related to investing activities",
+            "values": [
+              "(1,603)",
+              "(1,054)"
+            ]
+          },
+          {
+            "label": "Other non-cash (income) expenses",
+            "values": [
+              "366",
+              "90"
+            ]
+          },
+          {
+            "label": "Change in operating net working capital",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "(793)",
+              "335"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "(811)",
+              "201"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "(247)",
+              "204"
+            ]
+          },
+          {
+            "label": "Billings in excess of costs and estimated earnings on uncompleted contracts and related advances",
+            "values": [
+              "914",
+              "(657)"
+            ]
+          },
+          {
+            "label": "Additions to assets leased to others in operating leases",
+            "values": [
+              "(451)",
+              "(371)"
+            ]
+          },
+          {
+            "label": "Change in other assets and liabilities",
+            "values": [
+              "852",
+              "(558)"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "(2,306)",
+              "(1,809)"
+            ]
+          },
+          {
+            "label": "Dividends received",
+            "values": [
+              "495",
+              "333"
+            ]
+          },
+          {
+            "label": "Interest received",
+            "values": [
+              "1,138",
+              "977"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "6,881",
+              "7,090"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – discontinued operations",
+            "values": [
+              "(270)",
+              "9"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing and discontinued operations",
+            "values": [
+              "6,612",
+              "7,100"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(1,897)",
+              "(1,813)"
+            ]
+          },
+          {
+            "label": "Acquisitions of businesses, net of cash acquired",
+            "values": [
+              "(8,254)",
+              "(23)"
+            ]
+          },
+          {
+            "label": "Purchase of investments",
+            "values": [
+              "(568)",
+              "(335)"
+            ]
+          },
+          {
+            "label": "Purchase of current available-for-sale financial assets",
+            "values": [
+              "(899)",
+              "(613)"
+            ]
+          },
+          {
+            "label": "Change in receivables from financing activities",
+            "values": [
+              "(1,667)",
+              "(2,501)"
+            ]
+          },
+          {
+            "label": "Disposal of investments, intangibles and property, plant and equipment",
+            "values": [
+              "3,474",
+              "517"
+            ]
+          },
+          {
+            "label": "Disposal of businesses, net of cash disposed",
+            "values": [
+              "445",
+              "112"
+            ]
+          },
+          {
+            "label": "Disposal of current available-for-sale financial assets",
+            "values": [
+              "651",
+              "317"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(8,716)",
+              "(4,340)"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – discontinued operations",
+            "values": [
+              "2,889",
+              "314"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing and discontinued operations",
+            "values": [
+              "(5,827)",
+              "(4,026)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Purchase of treasury shares",
+            "values": [
+              "(2,700)",
+              "(1,066)"
+            ]
+          },
+          {
+            "label": "Other transactions with owners",
+            "values": [
+              "10",
+              "(20)"
+            ]
+          },
+          {
+            "label": "Issuance of long-term debt",
+            "values": [
+              "7,213",
+              "527"
+            ]
+          },
+          {
+            "label": "Repayment of long-term debt (including current maturities of long-term debt)",
+            "values": [
+              "(354)",
+              "(1,452)"
+            ]
+          },
+          {
+            "label": "Change in short-term debt and other financing activities",
+            "values": [
+              "351",
+              "801"
+            ]
+          },
+          {
+            "label": "Interest paid",
+            "values": [
+              "(596)",
+              "(617)"
+            ]
+          },
+          {
+            "label": "Dividends paid to shareholders of Siemens AG",
+            "values": [
+              "(2,728)",
+              "(2,533)"
+            ]
+          },
+          {
+            "label": "Dividends attributable to non-controlling interests",
+            "values": [
+              "(145)",
+              "(125)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "1,051",
+              "(4,485)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – discontinued operations",
+            "values": [
+              "5",
+              "(2)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing and discontinued operations",
+            "values": [
+              "1,056",
+              "(4,487)"
+            ]
+          },
+          {
+            "label": "Effect of changes in exchange rates on cash and cash equivalents",
+            "values": [
+              "83",
+              "214"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "1,923",
+              "(1,199)"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "8,034",
+              "9,234"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "9,958",
+              "8,034"
+            ]
+          },
+          {
+            "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+            "values": [
+              "−",
+              "21"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+            "values": [
+              "9,957",
+              "8,013"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "7,611",
+              "6,612"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "(4,144)",
+              "(5,827)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "(2,710)",
+              "1,056"
+            ]
+          },
+          {
+            "label": "Effect of changes in exchange rates on cash and cash equivalents",
+            "values": [
+              "(98)",
+              "83"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "660",
+              "1,923"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "9,958",
+              "8,034"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "10,618",
+              "9,958"
+            ]
+          },
+          {
+            "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+            "values": [
+              "13",
+              "0"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+            "values": [
+              "10,604",
+              "9,957"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "6,179",
+              "5,584"
+            ]
+          },
+          {
+            "label": "Adjustments to reconcile net income to cash flows from operating activities – continuing operations",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Income from discontinued operations, net of income taxes",
+            "values": [
+              "(53)",
+              "(188)"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,211",
+              "2,764"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "2,180",
+              "2,008"
+            ]
+          },
+          {
+            "label": "Interest (income) expenses, net",
+            "values": [
+              "(436)",
+              "(325)"
+            ]
+          },
+          {
+            "label": "(Income) loss related to investing activities",
+            "values": [
+              "(329)",
+              "(373)"
+            ]
+          },
+          {
+            "label": "Other non-cash (income) expenses",
+            "values": [
+              "552",
+              "400"
+            ]
+          },
+          {
+            "label": "Change in operating net working capital",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "(1,250)",
+              "(1,009)"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "148",
+              "(579)"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "306",
+              "327"
+            ]
+          },
+          {
+            "label": "Billings in excess of costs and estimated earnings on uncompleted contracts and related advances",
+            "values": [
+              "(799)",
+              "20"
+            ]
+          },
+          {
+            "label": "Additions to assets leased to others in operating leases",
+            "values": [
+              "(482)",
+              "(484)"
+            ]
+          },
+          {
+            "label": "Change in other assets and liabilities",
+            "values": [
+              "(1,719)",
+              "(281)"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "(2,039)",
+              "(1,718)"
+            ]
+          },
+          {
+            "label": "Dividends received",
+            "values": [
+              "381",
+              "302"
+            ]
+          },
+          {
+            "label": "Interest received",
+            "values": [
+              "1,375",
+              "1,219"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "7,225",
+              "7,668"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – discontinued operations",
+            "values": [
+              "(50)",
+              "(57)"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing and discontinued operations",
+            "values": [
+              "7,176",
+              "7,611"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(2,406)",
+              "(2,135)"
+            ]
+          },
+          {
+            "label": "Acquisitions of businesses, net of cash acquired",
+            "values": [
+              "(4,385)",
+              "(922)"
+            ]
+          },
+          {
+            "label": "Purchase of investments",
+            "values": [
+              "(500)",
+              "(271)"
+            ]
+          },
+          {
+            "label": "Purchase of current available-for-sale financial assets",
+            "values": [
+              "(882)",
+              "(1,139)"
+            ]
+          },
+          {
+            "label": "Change in receivables from financing activities",
+            "values": [
+              "(686)",
+              "(1,356)"
+            ]
+          },
+          {
+            "label": "Disposal of investments, intangibles and property, plant and equipment",
+            "values": [
+              "542",
+              "377"
+            ]
+          },
+          {
+            "label": "Disposal of businesses, net of cash disposed",
+            "values": [
+              "(69)",
+              "9"
+            ]
+          },
+          {
+            "label": "Disposal of current available-for-sale financial assets",
+            "values": [
+              "931",
+              "1,031"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(7,456)",
+              "(4,406)"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – discontinued operations",
+            "values": [
+              "(1)",
+              "262"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing and discontinued operations",
+            "values": [
+              "(7,457)",
+              "(4,144)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Purchase of treasury shares",
+            "values": [
+              "(931)",
+              "(463)"
+            ]
+          },
+          {
+            "label": "Re-issuance of treasury shares and other transactions with owners",
+            "values": [
+              "1,123",
+              "(13)"
+            ]
+          },
+          {
+            "label": "Issuance of long-term debt",
+            "values": [
+              "6,958",
+              "5,300"
+            ]
+          },
+          {
+            "label": "Repayment of long-term debt (including current maturities of long-term debt)",
+            "values": [
+              "(4,868)",
+              "(2,253)"
+            ]
+          },
+          {
+            "label": "Change in short-term debt and other financing activities",
+            "values": [
+              "260",
+              "(1,408)"
+            ]
+          },
+          {
+            "label": "Interest paid",
+            "values": [
+              "(1,000)",
+              "(809)"
+            ]
+          },
+          {
+            "label": "Dividends paid to shareholders of Siemens AG",
+            "values": [
+              "(2,914)",
+              "(2,827)"
+            ]
+          },
+          {
+            "label": "Dividends attributable to non-controlling interests",
+            "values": [
+              "(187)",
+              "(236)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "(1,560)",
+              "(2,710)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – discontinued operations",
+            "values": [
+              "−",
+              "−"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing and discontinued operations",
+            "values": [
+              "(1,560)",
+              "(2,710)"
+            ]
+          },
+          {
+            "label": "Effect of changes in exchange rates on cash and cash equivalents",
+            "values": [
+              "(387)",
+              "(98)"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "(2,228)",
+              "660"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "10,618",
+              "9,958"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "8,389",
+              "10,618"
+            ]
+          },
+          {
+            "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+            "values": [
+              "15",
+              "13"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+            "values": [
+              "8,375",
+              "10,604"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "10,087",
+              "9,964"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "(1,418)",
+              "(1,785)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "(1,888)",
+              "(3,386)"
+            ]
+          },
+          {
+            "label": "Net increase (decrease) in cash and cash equivalents",
+            "values": [
+              "518",
+              "543"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of year",
+            "values": [
+              "8,050",
+              "8,189"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of year",
+            "values": [
+              "8,568",
+              "8,732"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "7,518",
+              "8,050"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "(2,794)",
+              "(1,809)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "387",
+              "500"
+            ]
+          },
+          {
+            "label": "Net increase (decrease) in cash and cash equivalents",
+            "values": [
+              "5,111",
+              "6,741"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of year",
+            "values": [
+              "8,000",
+              "7,084"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of year",
+            "values": [
+              "13,111",
+              "13,825"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities",
+            "values": [
+              "4,200",
+              "5,648"
+            ]
+          },
+          {
+            "label": "Adjustments to reconcile net income to cash flows from operating activities – continuing operations",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "(Income) loss from discontinued operations, net of income taxes",
+            "values": [
+              "90",
+              "(490)"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,157",
+              "2,280"
+            ]
+          },
+          {
+            "label": "Income tax expenses",
+            "values": [
+              "1,382",
+              "1,775"
+            ]
+          },
+          {
+            "label": "Interest (income) expenses, net",
+            "values": [
+              "(732)",
+              "(569)"
+            ]
+          },
+          {
+            "label": "(Income) loss related to investing activities",
+            "values": [
+              "(642)",
+              "(340)"
+            ]
+          },
+          {
+            "label": "Other non-cash (income) expenses",
+            "values": [
+              "379",
+              "540"
+            ]
+          },
+          {
+            "label": "Change in operating net working capital from",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Contract assets",
+            "values": [
+              "(723)",
+              "(455)"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "(425)",
+              "(207)"
+            ]
+          },
+          {
+            "label": "Trade and other receivables",
+            "values": [
+              "236",
+              "(330)"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "143",
+              "139"
+            ]
+          },
+          {
+            "label": "Contract liabilities",
+            "values": [
+              "433",
+              "523"
+            ]
+          },
+          {
+            "label": "Additions to assets leased to others in operating leases",
+            "values": [
+              "(500)",
+              "(660)"
+            ]
+          },
+          {
+            "label": "Change in other assets and liabilities",
+            "values": [
+              "1,192",
+              "(250)"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "(1,650)",
+              "(2,409)"
+            ]
+          },
+          {
+            "label": "Dividends received",
+            "values": [
+              "293",
+              "242"
+            ]
+          },
+          {
+            "label": "Interest received",
+            "values": [
+              "1,347",
+              "1,510"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "8,178",
+              "6,947"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – discontinued operations",
+            "values": [
+              "684",
+              "1,508"
+            ]
+          },
+          {
+            "label": "Cash flows from operating activities – continuing and discontinued operations",
+            "values": [
+              "8,862",
+              "8,456"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(1,554)",
+              "(1,780)"
+            ]
+          },
+          {
+            "label": "Acquisitions of businesses, net of cash acquired",
+            "values": [
+              "(1,727)",
+              "(958)"
+            ]
+          },
+          {
+            "label": "Purchase of investments and financial assets for investment purposes",
+            "values": [
+              "(1,269)",
+              "(1,940)"
+            ]
+          },
+          {
+            "label": "Change in receivables from financing activities",
+            "values": [
+              "(994)",
+              "(1,160)"
+            ]
+          },
+          {
+            "label": "Disposal of intangibles and property, plant and equipment",
+            "values": [
+              "47",
+              "213"
+            ]
+          },
+          {
+            "label": "Disposal of businesses, net of cash disposed",
+            "values": [
+              "218",
+              "17"
+            ]
+          },
+          {
+            "label": "Disposal of investments and financial assets for investment purposes",
+            "values": [
+              "1,174",
+              "1,402"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(4,105)",
+              "(4,207)"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – discontinued operations",
+            "values": [
+              "(1,080)",
+              "(804)"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing and discontinued operations",
+            "values": [
+              "(5,184)",
+              "(5,011)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Purchase of treasury shares",
+            "values": [
+              "(1,517)",
+              "(1,407)"
+            ]
+          },
+          {
+            "label": "Re-issuance of treasury shares and other transactions with owners",
+            "values": [
+              "2,624",
+              "1,044"
+            ]
+          },
+          {
+            "label": "Issuance of long-term debt",
+            "values": [
+              "10,255",
+              "6,471"
+            ]
+          },
+          {
+            "label": "Repayment of long-term debt (including current maturities of long-term debt)",
+            "values": [
+              "(4,472)",
+              "(3,205)"
+            ]
+          },
+          {
+            "label": "Change in short-term debt and other financing activities",
+            "values": [
+              "1,588",
+              "211"
+            ]
+          },
+          {
+            "label": "Interest paid",
+            "values": [
+              "(833)",
+              "(1,064)"
+            ]
+          },
+          {
+            "label": "Dividends paid to shareholders of Siemens AG",
+            "values": [
+              "(3,174)",
+              "(3,060)"
+            ]
+          },
+          {
+            "label": "Dividends attributable to non-controlling interests",
+            "values": [
+              "(208)",
+              "(205)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "4,263",
+              "(1,214)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – discontinued operations",
+            "values": [
+              "(1,091)",
+              "(1,063)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing and discontinued operations",
+            "values": [
+              "3,172",
+              "(2,277)"
+            ]
+          },
+          {
+            "label": "Effect of deconsolidation of Siemens Energy on cash and cash equivalents",
+            "values": [
+              "(4,663)",
+              "−"
+            ]
+          },
+          {
+            "label": "Effect of changes in exchange rates on cash and cash equivalents",
+            "values": [
+              "(525)",
+              "157"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "1,663",
+              "1,325"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "12,391",
+              "11,066"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "14,054",
+              "12,391"
+            ]
+          },
+          {
+            "label": "Less: Cash and cash equivalents of assets classified as held for disposal and discontinued operations at end of period",
+            "values": [
+              "13",
+              "−"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period (Consolidated Statements of Financial Position)",
+            "values": [
+              "14,041",
+              "12,391"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "10,109",
+              "7,851"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,075",
+              "3,098"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(17,192)",
+              "(4,050)"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(1,730)",
+              "(1,498)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "785",
+              "4,267"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "(4,509)",
+              "1,663"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing and discontinued operations",
+            "values": [
+              "8,237",
+              "6,404"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing operations",
+            "values": [
+              "8,379",
+              "6,352"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "10,322",
+              "10,109"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,561",
+              "3,075"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(2,467)",
+              "(17,192)"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(2,084)",
+              "(1,730)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "(7,502)",
+              "785"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "927",
+              "(4,509)"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing and discontinued operations",
+            "values": [
+              "8,157",
+              "8,237"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing operations",
+            "values": [
+              "8,238",
+              "8,379"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "12,281",
+              "10,322"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,608",
+              "3,561"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(3,458)",
+              "(2,467)"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(2,218)",
+              "(2,084)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "(8,730)",
+              "(7,502)"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "(388)",
+              "927"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing and discontinued operations",
+            "values": [
+              "10,021",
+              "8,157"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing operations",
+            "values": [
+              "10,062",
+              "8,238"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Cash flows from operating activities – continuing operations",
+            "values": [
+              "11,814",
+              "12,293"
+            ]
+          },
+          {
+            "label": "Amortization, depreciation and impairments",
+            "values": [
+              "3,158",
+              "3,544"
+            ]
+          },
+          {
+            "label": "Cash flows from investing activities – continuing operations",
+            "values": [
+              "(3,138)",
+              "(3,387)"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets and property, plant and equipment",
+            "values": [
+              "(2,088)",
+              "(2,146)"
+            ]
+          },
+          {
+            "label": "Cash flows from financing activities – continuing operations",
+            "values": [
+              "(8,860)",
+              "(8,734)"
+            ]
+          },
+          {
+            "label": "Change in cash and cash equivalents",
+            "values": [
+              "(717)",
+              "(388)"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing and discontinued operations",
+            "values": [
+              "9,494",
+              "10,021"
+            ]
+          },
+          {
+            "label": "Free cash flow – continuing operations",
+            "values": [
+              "9,726",
+              "10,146"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "lineage": {
+    "income_statement": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/income.json",
+            "completeness": 5
+          }
+        ]
+      }
+    },
+    "balance_sheet": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/balance.json",
+            "completeness": 5
+          }
+        ]
+      }
+    },
+    "cash_flow": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2015/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2016/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2017/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2018/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2019/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2020/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2021/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2022/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2023/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/SIE/2024/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      }
+    }
+  }
+}

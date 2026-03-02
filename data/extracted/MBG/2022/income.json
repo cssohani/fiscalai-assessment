@@ -1,0 +1,221 @@
+{
+  "statementType": "income",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2022",
+    "2021"
+  ],
+  "rows": [
+    {
+      "label": "Revenue",
+      "values": [
+        "150,017",
+        "133,893"
+      ]
+    },
+    {
+      "label": "Cost of sales",
+      "values": [
+        "-115,997",
+        "-103,218"
+      ]
+    },
+    {
+      "label": "Gross profit",
+      "values": [
+        "34,020",
+        "30,675"
+      ]
+    },
+    {
+      "label": "Selling expenses",
+      "values": [
+        "-9,482",
+        "-9,194"
+      ]
+    },
+    {
+      "label": "General administrative expenses",
+      "values": [
+        "-2,584",
+        "-2,808"
+      ]
+    },
+    {
+      "label": "Research and non-capitalised development costs",
+      "values": [
+        "-5,602",
+        "-5,467"
+      ]
+    },
+    {
+      "label": "Other operating income",
+      "values": [
+        "3,323",
+        "2,888"
+      ]
+    },
+    {
+      "label": "Other operating expense",
+      "values": [
+        "-1,289",
+        "-1,735"
+      ]
+    },
+    {
+      "label": "Gains/losses on equity-method investments, net",
+      "values": [
+        "1,732",
+        "1,352"
+      ]
+    },
+    {
+      "label": "Other financial income/expense, net",
+      "values": [
+        "340",
+        "317"
+      ]
+    },
+    {
+      "label": "Earnings before interest and taxes (EBIT)",
+      "values": [
+        "20,458",
+        "16,028"
+      ]
+    },
+    {
+      "label": "Interest income",
+      "values": [
+        "273",
+        "212"
+      ]
+    },
+    {
+      "label": "Interest expense",
+      "values": [
+        "-427",
+        "-429"
+      ]
+    },
+    {
+      "label": "Profit from continuing operations before taxes",
+      "values": [
+        "20,304",
+        "15,811"
+      ]
+    },
+    {
+      "label": "Income taxes",
+      "values": [
+        "-5,495",
+        "-4,761"
+      ]
+    },
+    {
+      "label": "Profit from continuing operations",
+      "values": [
+        "14,809",
+        "11,050"
+      ]
+    },
+    {
+      "label": "Profit/loss from discontinued operations after taxes",
+      "values": [
+        "-",
+        "12,346"
+      ]
+    },
+    {
+      "label": "Net profit",
+      "values": [
+        "14,809",
+        "23,396"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to non-controlling interests",
+      "values": [
+        "308",
+        "390"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+      "values": [
+        "14,501",
+        "23,006"
+      ]
+    },
+    {
+      "label": "thereof from continuing operations",
+      "values": [
+        "14,501",
+        "10,695"
+      ]
+    },
+    {
+      "label": "thereof from discontinued operations",
+      "values": [
+        "-",
+        "12,311"
+      ]
+    },
+    {
+      "label": "Earnings per share (in euros)",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "For profit attributable to shareholders of Mercedes-Benz Group AG",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Basic",
+      "values": [
+        "13.55",
+        "21.50"
+      ]
+    },
+    {
+      "label": "thereof from continuing operations",
+      "values": [
+        "13.55",
+        "10.00"
+      ]
+    },
+    {
+      "label": "thereof from discontinued operations",
+      "values": [
+        "-",
+        "11.50"
+      ]
+    },
+    {
+      "label": "Diluted",
+      "values": [
+        "13.55",
+        "21.50"
+      ]
+    },
+    {
+      "label": "thereof from continuing operations",
+      "values": [
+        "13.55",
+        "10.00"
+      ]
+    },
+    {
+      "label": "thereof from discontinued operations",
+      "values": [
+        "-",
+        "11.50"
+      ]
+    }
+  ]
+}

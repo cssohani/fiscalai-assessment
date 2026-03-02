@@ -1,0 +1,144 @@
+{
+  "statementType": "income",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2023",
+    "2022"
+  ],
+  "rows": [
+    {
+      "label": "Revenue",
+      "values": [
+        "153,218",
+        "150,017"
+      ]
+    },
+    {
+      "label": "Cost of sales",
+      "values": [
+        "-118,839",
+        "-115,997"
+      ]
+    },
+    {
+      "label": "Gross profit",
+      "values": [
+        "34,379",
+        "34,020"
+      ]
+    },
+    {
+      "label": "Selling expenses",
+      "values": [
+        "-9,728",
+        "-9,482"
+      ]
+    },
+    {
+      "label": "General administrative expenses",
+      "values": [
+        "-2,688",
+        "-2,584"
+      ]
+    },
+    {
+      "label": "Research and non-capitalized development costs",
+      "values": [
+        "-6,230",
+        "-5,602"
+      ]
+    },
+    {
+      "label": "Other operating income",
+      "values": [
+        "2,206",
+        "3,323"
+      ]
+    },
+    {
+      "label": "Other operating expense",
+      "values": [
+        "-516",
+        "-1,289"
+      ]
+    },
+    {
+      "label": "Gains/losses on equity-method investments",
+      "values": [
+        "2,129",
+        "1,732"
+      ]
+    },
+    {
+      "label": "Other financial income/expense",
+      "values": [
+        "108",
+        "340"
+      ]
+    },
+    {
+      "label": "Earnings before interest and taxes (EBIT)",
+      "values": [
+        "19,660",
+        "20,458"
+      ]
+    },
+    {
+      "label": "Interest income",
+      "values": [
+        "678",
+        "273"
+      ]
+    },
+    {
+      "label": "Interest expense",
+      "values": [
+        "-254",
+        "-427"
+      ]
+    },
+    {
+      "label": "Profit before taxes",
+      "values": [
+        "20,084",
+        "20,304"
+      ]
+    },
+    {
+      "label": "Income taxes",
+      "values": [
+        "-5,553",
+        "-5,495"
+      ]
+    },
+    {
+      "label": "Net profit",
+      "values": [
+        "14,531",
+        "14,809"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to non-controlling interests",
+      "values": [
+        "270",
+        "308"
+      ]
+    },
+    {
+      "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+      "values": [
+        "14,261",
+        "14,501"
+      ]
+    },
+    {
+      "label": "Earnings per share (in euros)",
+      "values": [
+        "13.46",
+        "13.55"
+      ]
+    }
+  ]
+}

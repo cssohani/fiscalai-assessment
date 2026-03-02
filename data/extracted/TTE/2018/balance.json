@@ -1,0 +1,116 @@
+{
+  "statementType": "balance",
+  "currency": "M$",
+  "units": null,
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "rows": [
+    {
+      "label": "Non-current assets",
+      "values": [
+        "176,963",
+        "157,683",
+        "158,461"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": [
+        "79,799",
+        "84,948",
+        "72,517"
+      ]
+    },
+    {
+      "label": "TOTAL ASSETS",
+      "values": [
+        "256,762",
+        "242,631",
+        "230,978"
+      ]
+    },
+    {
+      "label": "Common shares",
+      "values": [
+        "8,227",
+        "7,882",
+        "7,604"
+      ]
+    },
+    {
+      "label": "Paid-in surplus and retained earnings",
+      "values": [
+        "120,569",
+        "112,040",
+        "105,547"
+      ]
+    },
+    {
+      "label": "Currency translation adjustment",
+      "values": [
+        "(11,313)",
+        "(7,908)",
+        "(13,871)"
+      ]
+    },
+    {
+      "label": "Treasury shares",
+      "values": [
+        "(1,843)",
+        "(458)",
+        "(600)"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS’ EQUITY – GROUP SHARE",
+      "values": [
+        "115,640",
+        "111,556",
+        "98,680"
+      ]
+    },
+    {
+      "label": "Non-controlling interests",
+      "values": [
+        "2,474",
+        "2,481",
+        "2,894"
+      ]
+    },
+    {
+      "label": "TOTAL SHAREHOLDERS’ EQUITY",
+      "values": [
+        "118,114",
+        "114,037",
+        "101,574"
+      ]
+    },
+    {
+      "label": "Non-current liabilities",
+      "values": [
+        "76,414",
+        "71,889",
+        "74,719"
+      ]
+    },
+    {
+      "label": "Current liabilities",
+      "values": [
+        "62,234",
+        "56,705",
+        "54,685"
+      ]
+    },
+    {
+      "label": "TOTAL LIABILITIES & SHAREHOLDERS’ EQUITY",
+      "values": [
+        "256,762",
+        "242,631",
+        "230,978"
+      ]
+    }
+  ]
+}

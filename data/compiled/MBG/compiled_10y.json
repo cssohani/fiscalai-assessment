@@ -1,0 +1,6560 @@
+{
+  "company": "MBG",
+  "compiledAt": "2026-03-02T16:33:49.094Z",
+  "statements": {
+    "income_statement": {
+      "2015": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "149,467",
+              "129,872"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-117,670",
+              "-101,688"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "31,797",
+              "28,184"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-12,147",
+              "-11,534"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-3,710",
+              "-3,329"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-4,760",
+              "-4,532"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,114",
+              "1,759"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-555",
+              "-1,160"
+            ]
+          },
+          {
+            "label": "Profit/loss on equity method investments, net",
+            "values": [
+              "464",
+              "897"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "-27",
+              "458"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "170",
+              "145"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-602",
+              "-715"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "12,744",
+              "10,173"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-4,033",
+              "-2,883"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "8,711",
+              "7,290"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "287",
+              "328"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "8,424",
+              "6,962"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "7.87",
+              "6.51"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "153,261",
+              "149,467"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-121,298",
+              "-118,017"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "31,963",
+              "31,450"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-12,226",
+              "-12,147"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-3,419",
+              "-3,363"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-5,257",
+              "-4,760"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,350",
+              "2,114"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-1,298",
+              "-555"
+            ]
+          },
+          {
+            "label": "Profit/loss on equity method investments, net",
+            "values": [
+              "502",
+              "464"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "275",
+              "-27"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "230",
+              "170"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-546",
+              "-602"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "12,574",
+              "12,744"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-3,790",
+              "-4,033"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "8,784",
+              "8,711"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "258",
+              "287"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "8,526",
+              "8,424"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "7.97",
+              "7.87"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "164,330",
+              "153,261"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-129,999",
+              "-121,298"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "34,331",
+              "31,963"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-12,965",
+              "-12,226"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-3,809",
+              "-3,419"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-5,938",
+              "-5,257"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,824",
+              "2,350"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-1,042",
+              "-1,298"
+            ]
+          },
+          {
+            "label": "Profit/loss on equity-method investments, net",
+            "values": [
+              "1,498",
+              "502"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "-230",
+              "275"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "214",
+              "230"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-582",
+              "-546"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "14,301",
+              "12,574"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-3,437",
+              "-3,790"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "10,864",
+              "8,784"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "339",
+              "258"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "10,525",
+              "8,526"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "9.84",
+              "7.97"
+            ]
+          },
+          {
+            "label": "Basic",
+            "values": [
+              "9.84",
+              "7.97"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "9.84",
+              "7.97"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "million",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "167,362",
+              "164,154"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-134,295",
+              "-129,626"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "33,067",
+              "34,528"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-13,067",
+              "-12,951"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-4,036",
+              "-3,808"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-6,581",
+              "-5,938"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,330",
+              "2,259"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-1,462",
+              "-1,043"
+            ]
+          },
+          {
+            "label": "Profit on equity-method investments, net",
+            "values": [
+              "656",
+              "1,498"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "210",
+              "-210"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "271",
+              "214"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-793",
+              "-582"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "10,595",
+              "13,967"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-3,013",
+              "-3,350"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "7,582",
+              "10,617"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "333",
+              "339"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "7,249",
+              "10,278"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "6.78",
+              "9.61"
+            ]
+          },
+          {
+            "label": "Basic",
+            "values": [
+              "6.78",
+              "9.61"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "6.78",
+              "9.61"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "172,745",
+              "167,362"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-143,580",
+              "-134,295"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "29,165",
+              "33,067"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-12,801",
+              "-13,067"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-4,050",
+              "-4,036"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-6,586",
+              "-6,581"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,837",
+              "2,330"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-4,469",
+              "-1,462"
+            ]
+          },
+          {
+            "label": "Profit on equity-method investments, net",
+            "values": [
+              "479",
+              "656"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "-262",
+              "210"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "397",
+              "271"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-880",
+              "-793"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "3,830",
+              "10,595"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-1,121",
+              "-3,013"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "2,709",
+              "7,582"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "332",
+              "333"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "2,377",
+              "7,249"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "2.22",
+              "6.78"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "2.22",
+              "6.78"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "154,309",
+              "172,745"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-128,721",
+              "-143,580"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "25,588",
+              "29,165"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-11,058",
+              "-12,801"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-3,534",
+              "-4,050"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-6,116",
+              "-6,586"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,022",
+              "2,837"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-742",
+              "-4,469"
+            ]
+          },
+          {
+            "label": "Profit on equity-method investments, net",
+            "values": [
+              "797",
+              "479"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "-354",
+              "-262"
+            ]
+          },
+          {
+            "label": "Earnings before interest and taxes (EBIT)",
+            "values": [
+              "6,603",
+              "4,313"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "220",
+              "397"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-484",
+              "-880"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "6,339",
+              "3,830"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-2,330",
+              "-1,121"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "4,009",
+              "2,709"
+            ]
+          },
+          {
+            "label": "Thereof profit attributable to non-controlling interests",
+            "values": [
+              "382",
+              "332"
+            ]
+          },
+          {
+            "label": "Thereof profit attributable to shareholders of Daimler AG",
+            "values": [
+              "3,627",
+              "2,377"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Daimler AG",
+            "values": [
+              "3.39",
+              "2.22"
+            ]
+          },
+          {
+            "label": "Basic",
+            "values": [
+              "3.39",
+              "2.22"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "3.39",
+              "2.22"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "133,893",
+              "121,778"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-103,218",
+              "-101,592"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "30,675",
+              "20,186"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-9,194",
+              "-8,966"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-2,808",
+              "-2,507"
+            ]
+          },
+          {
+            "label": "Research and non-capitalised development costs",
+            "values": [
+              "-5,467",
+              "-4,839"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,888",
+              "2,384"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-1,735",
+              "-591"
+            ]
+          },
+          {
+            "label": "Profit on equity-method investments, net",
+            "values": [
+              "1,352",
+              "747"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "317",
+              "-323"
+            ]
+          },
+          {
+            "label": "Earnings before interest and taxes (EBIT)",
+            "values": [
+              "16,028",
+              "6,091"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "212",
+              "224"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-429",
+              "-358"
+            ]
+          },
+          {
+            "label": "Profit of continuing operations, before taxes",
+            "values": [
+              "15,811",
+              "5,957"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-4,761",
+              "-1,926"
+            ]
+          },
+          {
+            "label": "Profit of continuing operations",
+            "values": [
+              "11,050",
+              "4,031"
+            ]
+          },
+          {
+            "label": "Profit/loss of discontinued operations, after taxes",
+            "values": [
+              "12,346",
+              "-22"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "23,396",
+              "4,009"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "390",
+              "382"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "23,006",
+              "3,627"
+            ]
+          },
+          {
+            "label": "thereof continuing operations",
+            "values": [
+              "10,695",
+              "3,656"
+            ]
+          },
+          {
+            "label": "thereof discontinued operations",
+            "values": [
+              "12,311",
+              "-29"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) for profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "21.50",
+              "3.39"
+            ]
+          },
+          {
+            "label": "thereof continuing operations",
+            "values": [
+              "10.00",
+              "3.42"
+            ]
+          },
+          {
+            "label": "thereof discontinued operations",
+            "values": [
+              "11.50",
+              "-0.03"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "21.50",
+              "3.39"
+            ]
+          },
+          {
+            "label": "thereof continuing operations",
+            "values": [
+              "10.00",
+              "3.42"
+            ]
+          },
+          {
+            "label": "thereof discontinued operations",
+            "values": [
+              "11.50",
+              "-0.03"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "150,017",
+              "133,893"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-115,997",
+              "-103,218"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "34,020",
+              "30,675"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-9,482",
+              "-9,194"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-2,584",
+              "-2,808"
+            ]
+          },
+          {
+            "label": "Research and non-capitalised development costs",
+            "values": [
+              "-5,602",
+              "-5,467"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "3,323",
+              "2,888"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-1,289",
+              "-1,735"
+            ]
+          },
+          {
+            "label": "Gains/losses on equity-method investments, net",
+            "values": [
+              "1,732",
+              "1,352"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "340",
+              "317"
+            ]
+          },
+          {
+            "label": "Earnings before interest and taxes (EBIT)",
+            "values": [
+              "20,458",
+              "16,028"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "273",
+              "212"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-427",
+              "-429"
+            ]
+          },
+          {
+            "label": "Profit from continuing operations before taxes",
+            "values": [
+              "20,304",
+              "15,811"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-5,495",
+              "-4,761"
+            ]
+          },
+          {
+            "label": "Profit from continuing operations",
+            "values": [
+              "14,809",
+              "11,050"
+            ]
+          },
+          {
+            "label": "Profit/loss from discontinued operations after taxes",
+            "values": [
+              "-",
+              "12,346"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "14,809",
+              "23,396"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "308",
+              "390"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "14,501",
+              "23,006"
+            ]
+          },
+          {
+            "label": "thereof from continuing operations",
+            "values": [
+              "14,501",
+              "10,695"
+            ]
+          },
+          {
+            "label": "thereof from discontinued operations",
+            "values": [
+              "-",
+              "12,311"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros)",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "For profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Basic",
+            "values": [
+              "13.55",
+              "21.50"
+            ]
+          },
+          {
+            "label": "thereof from continuing operations",
+            "values": [
+              "13.55",
+              "10.00"
+            ]
+          },
+          {
+            "label": "thereof from discontinued operations",
+            "values": [
+              "-",
+              "11.50"
+            ]
+          },
+          {
+            "label": "Diluted",
+            "values": [
+              "13.55",
+              "21.50"
+            ]
+          },
+          {
+            "label": "thereof from continuing operations",
+            "values": [
+              "13.55",
+              "10.00"
+            ]
+          },
+          {
+            "label": "thereof from discontinued operations",
+            "values": [
+              "-",
+              "11.50"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "income",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "153,218",
+              "150,017"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-118,839",
+              "-115,997"
+            ]
+          },
+          {
+            "label": "Gross profit",
+            "values": [
+              "34,379",
+              "34,020"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-9,728",
+              "-9,482"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-2,688",
+              "-2,584"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-6,230",
+              "-5,602"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,206",
+              "3,323"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-516",
+              "-1,289"
+            ]
+          },
+          {
+            "label": "Gains/losses on equity-method investments",
+            "values": [
+              "2,129",
+              "1,732"
+            ]
+          },
+          {
+            "label": "Other financial income/expense",
+            "values": [
+              "108",
+              "340"
+            ]
+          },
+          {
+            "label": "Earnings before interest and taxes (EBIT)",
+            "values": [
+              "19,660",
+              "20,458"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "678",
+              "273"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-254",
+              "-427"
+            ]
+          },
+          {
+            "label": "Profit before taxes",
+            "values": [
+              "20,084",
+              "20,304"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-5,553",
+              "-5,495"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "14,531",
+              "14,809"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "270",
+              "308"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "14,261",
+              "14,501"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros)",
+            "values": [
+              "13.46",
+              "13.55"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "income",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Revenue",
+            "values": [
+              "145,594",
+              "152,390"
+            ]
+          },
+          {
+            "label": "Cost of sales",
+            "values": [
+              "-117,018",
+              "-117,386"
+            ]
+          },
+          {
+            "label": "Gross profit in relation to revenue",
+            "values": [
+              "28,576",
+              "35,004"
+            ]
+          },
+          {
+            "label": "Selling expenses",
+            "values": [
+              "-9,993",
+              "-10,270"
+            ]
+          },
+          {
+            "label": "General administrative expenses",
+            "values": [
+              "-2,529",
+              "-2,771"
+            ]
+          },
+          {
+            "label": "Research and non-capitalized development costs",
+            "values": [
+              "-5,580",
+              "-6,230"
+            ]
+          },
+          {
+            "label": "Other operating income",
+            "values": [
+              "2,507",
+              "2,206"
+            ]
+          },
+          {
+            "label": "Other operating expense",
+            "values": [
+              "-483",
+              "-516"
+            ]
+          },
+          {
+            "label": "Gains/losses on equity-method investments, net",
+            "values": [
+              "1,138",
+              "2,129"
+            ]
+          },
+          {
+            "label": "Other financial income/expense, net",
+            "values": [
+              "-37",
+              "108"
+            ]
+          },
+          {
+            "label": "Earnings before interest and taxes (EBIT)",
+            "values": [
+              "13,599",
+              "19,660"
+            ]
+          },
+          {
+            "label": "Interest income",
+            "values": [
+              "738",
+              "678"
+            ]
+          },
+          {
+            "label": "Interest expense",
+            "values": [
+              "-190",
+              "-254"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "14,147",
+              "20,084"
+            ]
+          },
+          {
+            "label": "Income taxes",
+            "values": [
+              "-3,738",
+              "-5,553"
+            ]
+          },
+          {
+            "label": "Net profit",
+            "values": [
+              "10,409",
+              "14,531"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to non-controlling interests",
+            "values": [
+              "202",
+              "270"
+            ]
+          },
+          {
+            "label": "thereof profit attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "10,207",
+              "14,261"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) For profit attributable to shareholders of Mercedes-Benz Group AG Basic",
+            "values": [
+              "10.19",
+              "13.46"
+            ]
+          },
+          {
+            "label": "Earnings per share (in euros) Diluted",
+            "values": [
+              "10.19",
+              "13.46"
+            ]
+          }
+        ]
+      }
+    },
+    "balance_sheet": {
+      "2015": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "217,166",
+              "189,635"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "10,069",
+              "9,367"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "24,322",
+              "23,182"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases and receivables from financial services",
+            "values": [
+              "112,456",
+              "94,729"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "3,633",
+              "2,294"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "23,760",
+              "20,864"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "9,054",
+              "8,634"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "9,936",
+              "9,667"
+            ]
+          },
+          {
+            "label": "Marketable debt securities",
+            "values": [
+              "8,273",
+              "6,634"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "7,454",
+              "5,987"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "8,209",
+              "8,277"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "217,166",
+              "189,635"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "54,624",
+              "44,584"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "26,145",
+              "28,393"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "101,142",
+              "86,689"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "10,548",
+              "10,178"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "12,360",
+              "10,706"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "12,347",
+              "9,085"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "217,166",
+              "189,635"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": []
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "12,098",
+              "10,069"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "26,381",
+              "24,322"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "46,942",
+              "38,942"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "4,098",
+              "3,633"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "42,881",
+              "38,359"
+            ]
+          },
+          {
+            "label": "Marketable debt securities",
+            "values": [
+              "1,100",
+              "1,148"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "2,899",
+              "4,908"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "3,870",
+              "3,284"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "667",
+              "654"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "140,936",
+              "125,319"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "25,384",
+              "23,760"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "10,614",
+              "9,054"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "37,626",
+              "35,155"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "10,981",
+              "9,936"
+            ]
+          },
+          {
+            "label": "Marketable debt securities",
+            "values": [
+              "9,648",
+              "7,125"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "2,837",
+              "2,546"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "4,962",
+              "4,271"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "102,052",
+              "91,847"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "242,988",
+              "217,166"
+            ]
+          },
+          {
+            "label": "Equity and liabilities",
+            "values": []
+          },
+          {
+            "label": "Share capital",
+            "values": [
+              "3,070",
+              "3,070"
+            ]
+          },
+          {
+            "label": "Capital reserves",
+            "values": [
+              "11,744",
+              "11,917"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "40,794",
+              "36,991"
+            ]
+          },
+          {
+            "label": "Other reserves",
+            "values": [
+              "2,342",
+              "1,583"
+            ]
+          },
+          {
+            "label": "Treasury shares",
+            "values": [
+              "–",
+              "–"
+            ]
+          },
+          {
+            "label": "Equity attributable to shareholders of Daimler AG",
+            "values": [
+              "57,950",
+              "53,561"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "1,183",
+              "1,063"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "59,133",
+              "54,624"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "9,034",
+              "8,663"
+            ]
+          },
+          {
+            "label": "Provisions for income taxes",
+            "values": [
+              "966",
+              "875"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "6,632",
+              "6,120"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "70,398",
+              "59,831"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "3,327",
+              "2,876"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "3,467",
+              "2,215"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "5,559",
+              "4,851"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "15",
+              "30"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "99,398",
+              "85,461"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "11,567",
+              "10,548"
+            ]
+          },
+          {
+            "label": "Provisions for income taxes",
+            "values": [
+              "751",
+              "777"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "9,427",
+              "9,710"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "47,288",
+              "41,311"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "9,542",
+              "9,484"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "3,444",
+              "2,888"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,438",
+              "2,363"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "84,457",
+              "77,081"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "242,988",
+              "217,166"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "255,605",
+              "242,988"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "13,735",
+              "12,098"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "27,981",
+              "26,381"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "47,714",
+              "46,942"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "4,818",
+              "4,098"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "85,787",
+              "80,507"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "25,686",
+              "25,384"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "11,990",
+              "10,614"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "12,072",
+              "10,981"
+            ]
+          },
+          {
+            "label": "Marketable debt securities",
+            "values": [
+              "10,063",
+              "10,748"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "6,801",
+              "5,736"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "8,958",
+              "9,499"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "255,605",
+              "242,988"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "65,314",
+              "59,133"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "24,617",
+              "26,810"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "127,124",
+              "117,686"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "12,474",
+              "11,567"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "11,522",
+              "12,869"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "14,554",
+              "14,923"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "255,605",
+              "242,988"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "281,619",
+              "255,345"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "14,801",
+              "13,735"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "30,948",
+              "27,981"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "49,476",
+              "47,074"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "4,860",
+              "4,818"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "51,300",
+              "46,600"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "722",
+              "990"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "2,763",
+              "3,204"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "4,021",
+              "2,844"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,115",
+              "1,203"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "160,006",
+              "148,449"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "29,489",
+              "25,686"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "12,586",
+              "11,995"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "45,440",
+              "39,454"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "15,853",
+              "12,072"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "8,855",
+              "9,073"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "2,970",
+              "3,602"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "5,889",
+              "5,014"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "531",
+              "–"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "121,613",
+              "106,896"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "281,619",
+              "255,345"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "66,053",
+              "65,159"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "7,393",
+              "5,767"
+            ]
+          },
+          {
+            "label": "Provisions for income taxes",
+            "values": [
+              "628",
+              "1,046"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "7,734",
+              "7,143"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "88,662",
+              "78,378"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "2,375",
+              "2,370"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "3,762",
+              "2,347"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,612",
+              "1,668"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "5,438",
+              "3,833"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "10",
+              "10"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "117,614",
+              "102,562"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "14,185",
+              "12,451"
+            ]
+          },
+          {
+            "label": "Provisions for income taxes",
+            "values": [
+              "823",
+              "560"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "7,828",
+              "7,620"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "56,240",
+              "48,746"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "7,657",
+              "6,905"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,580",
+              "1,528"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "7,081",
+              "7,375"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,346",
+              "2,439"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "212",
+              "–"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "97,952",
+              "87,624"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "281,619",
+              "255,345"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Total assets",
+            "values": [
+              "302,438",
+              "281,619"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "15,978",
+              "14,801"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "37,143",
+              "30,948"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "51,482",
+              "49,476"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "5,949",
+              "4,860"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "52,880",
+              "51,300"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "770",
+              "722"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "3,347",
+              "2,763"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "5,803",
+              "4,021"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,286",
+              "1,115"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "174,638",
+              "160,006"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "29,757",
+              "29,489"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "12,332",
+              "12,586"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "50,781",
+              "45,440"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "18,883",
+              "15,853"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "7,885",
+              "8,855"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "2,736",
+              "2,970"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "5,426",
+              "5,889"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "–",
+              "531"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "127,800",
+              "121,613"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "62,841",
+              "66,053"
+            ]
+          },
+          {
+            "label": "Share capital",
+            "values": [
+              "3,070",
+              "3,070"
+            ]
+          },
+          {
+            "label": "Capital reserves",
+            "values": [
+              "11,552",
+              "11,710"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "46,329",
+              "49,490"
+            ]
+          },
+          {
+            "label": "Other reserves",
+            "values": [
+              "393",
+              "397"
+            ]
+          },
+          {
+            "label": "Equity attributable to shareholders of Daimler AG",
+            "values": [
+              "61,344",
+              "64,667"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "1,497",
+              "1,386"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "9,728",
+              "7,393"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "10,597",
+              "7,734"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "99,179",
+              "88,662"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "2,112",
+              "2,375"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "3,935",
+              "3,762"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,598",
+              "1,612"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "6,060",
+              "5,438"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "586",
+              "638"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "133,795",
+              "117,614"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "12,707",
+              "14,185"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "10,327",
+              "7,828"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "62,601",
+              "56,240"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "7,752",
+              "7,657"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,624",
+              "1,580"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "7,571",
+              "7,081"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "3,220",
+              "3,169"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "–",
+              "212"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "105,802",
+              "97,952"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "302,438",
+              "281,619"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "balance",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "285,737",
+              "302,438"
+            ]
+          },
+          {
+            "label": "intangible assets",
+            "values": [
+              "16,399",
+              "15,978"
+            ]
+          },
+          {
+            "label": "property, plant and equipment",
+            "values": [
+              "35,246",
+              "37,143"
+            ]
+          },
+          {
+            "label": "equipment on operating leases",
+            "values": [
+              "47,552",
+              "51,482"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "96,185",
+              "103,661"
+            ]
+          },
+          {
+            "label": "equity-method investments",
+            "values": [
+              "5,189",
+              "5,949"
+            ]
+          },
+          {
+            "label": "inventories",
+            "values": [
+              "26,444",
+              "29,757"
+            ]
+          },
+          {
+            "label": "trade receivables",
+            "values": [
+              "10,649",
+              "12,332"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "23,048",
+              "18,883"
+            ]
+          },
+          {
+            "label": "marketable debt securities and similar investments",
+            "values": [
+              "6,397",
+              "8,655"
+            ]
+          },
+          {
+            "label": "thereof current",
+            "values": [
+              "5,356",
+              "7,885"
+            ]
+          },
+          {
+            "label": "thereof non-current",
+            "values": [
+              "1,041",
+              "770"
+            ]
+          },
+          {
+            "label": "other financial assets",
+            "values": [
+              "6,924",
+              "6,083"
+            ]
+          },
+          {
+            "label": "other assets",
+            "values": [
+              "11,704",
+              "12,515"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "285,737",
+              "302,438"
+            ]
+          },
+          {
+            "label": "Equity and liabilities",
+            "values": [
+              "285,737",
+              "302,438"
+            ]
+          },
+          {
+            "label": "equity",
+            "values": [
+              "62,248",
+              "62,841"
+            ]
+          },
+          {
+            "label": "provisions",
+            "values": [
+              "32,520",
+              "30,652"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "145,842",
+              "161,780"
+            ]
+          },
+          {
+            "label": "thereof current",
+            "values": [
+              "59,303",
+              "62,601"
+            ]
+          },
+          {
+            "label": "thereof non-current",
+            "values": [
+              "86,539",
+              "99,179"
+            ]
+          },
+          {
+            "label": "trade payables",
+            "values": [
+              "12,378",
+              "12,707"
+            ]
+          },
+          {
+            "label": "other financial liabilities",
+            "values": [
+              "8,598",
+              "9,864"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "12,956",
+              "13,631"
+            ]
+          },
+          {
+            "label": "other liabilities",
+            "values": [
+              "11,195",
+              "10,963"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "285,737",
+              "302,438"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "259,831",
+              "285,737"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "15,005",
+              "16,399"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "27,859",
+              "35,246"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "44,471",
+              "47,552"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "80,625",
+              "96,185"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "13,588",
+              "5,189"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "21,466",
+              "26,444"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "7,673",
+              "10,649"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "23,120",
+              "23,048"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "7,579",
+              "6,397"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "6,260",
+              "6,924"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "9,043",
+              "11,704"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "3,142",
+              "-"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "259,831",
+              "285,737"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "73,167",
+              "62,248"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "21,321",
+              "32,520"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "125,843",
+              "145,842"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "10,655",
+              "12,378"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "7,805",
+              "8,598"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "9,909",
+              "12,956"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "10,962",
+              "11,195"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "169",
+              "-"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "259,831",
+              "285,737"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "15,869",
+              "15,005"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "27,250",
+              "27,859"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "41,552",
+              "44,471"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "13,530",
+              "13,588"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "48,237",
+              "46,955"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "823",
+              "873"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "4,478",
+              "3,181"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "3,725",
+              "3,434"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,677",
+              "1,536"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "157,141",
+              "156,902"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "25,621",
+              "21,466"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "8,100",
+              "7,673"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "37,312",
+              "33,670"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "17,679",
+              "23,120"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "6,237",
+              "6,706"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "3,453",
+              "3,079"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "4,472",
+              "4,073"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "-",
+              "3,142"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "102,874",
+              "102,929"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "260,015",
+              "259,831"
+            ]
+          },
+          {
+            "label": "Equity and liabilities",
+            "values": [
+              "86,540",
+              "73,167"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "1,021",
+              "5,359"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "6,438",
+              "7,909"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "62,051",
+              "73,543"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "2,524",
+              "1,808"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "6,910",
+              "4,488"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,234",
+              "1,175"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "3,656",
+              "3,980"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,238",
+              "727"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "85,072",
+              "98,989"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "12,204",
+              "10,655"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "9,585",
+              "8,053"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "49,786",
+              "52,300"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "5,404",
+              "5,997"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,391",
+              "1,486"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "6,898",
+              "5,929"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "3,135",
+              "3,086"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "-",
+              "169"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "88,403",
+              "87,675"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "260,015",
+              "259,831"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "263,022",
+              "260,015"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "17,593",
+              "15,869"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment",
+            "values": [
+              "26,090",
+              "27,250"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "41,712",
+              "41,552"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "13,104",
+              "13,530"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "49,742",
+              "48,237"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "699",
+              "823"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "4,340",
+              "4,478"
+            ]
+          },
+          {
+            "label": "Deferred tax assets",
+            "values": [
+              "4,127",
+              "3,725"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "1,583",
+              "1,677"
+            ]
+          },
+          {
+            "label": "Total non-current assets",
+            "values": [
+              "158,990",
+              "157,141"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "27,294",
+              "25,621"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "7,281",
+              "8,100"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "38,469",
+              "37,312"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "15,962",
+              "17,679"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "6,159",
+              "6,237"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "3,599",
+              "3,453"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "4,473",
+              "4,472"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "795",
+              "-"
+            ]
+          },
+          {
+            "label": "Total current assets",
+            "values": [
+              "104,032",
+              "102,874"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "263,022",
+              "260,015"
+            ]
+          },
+          {
+            "label": "Equity and liabilities",
+            "values": [
+              "263,022",
+              "260,015"
+            ]
+          },
+          {
+            "label": "Share capital",
+            "values": [
+              "3,070",
+              "3,070"
+            ]
+          },
+          {
+            "label": "Capital reserves",
+            "values": [
+              "11,718",
+              "11,718"
+            ]
+          },
+          {
+            "label": "Retained earnings",
+            "values": [
+              "76,670",
+              "67,695"
+            ]
+          },
+          {
+            "label": "Other reserves",
+            "values": [
+              "2,571",
+              "2,932"
+            ]
+          },
+          {
+            "label": "Treasury shares",
+            "values": [
+              "-2,256",
+              "-"
+            ]
+          },
+          {
+            "label": "Equity attributable to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "91,773",
+              "85,415"
+            ]
+          },
+          {
+            "label": "Non-controlling interests",
+            "values": [
+              "1,043",
+              "1,125"
+            ]
+          },
+          {
+            "label": "Total equity",
+            "values": [
+              "92,816",
+              "86,540"
+            ]
+          },
+          {
+            "label": "Provisions for pensions and similar obligations",
+            "values": [
+              "1,090",
+              "1,021"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "7,345",
+              "6,438"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "63,724",
+              "62,051"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "1,642",
+              "2,524"
+            ]
+          },
+          {
+            "label": "Deferred tax liabilities",
+            "values": [
+              "7,714",
+              "6,910"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,223",
+              "1,234"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "3,514",
+              "3,656"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "1,520",
+              "1,238"
+            ]
+          },
+          {
+            "label": "Total non-current liabilities",
+            "values": [
+              "87,772",
+              "85,072"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "12,828",
+              "12,204"
+            ]
+          },
+          {
+            "label": "Provisions for other risks",
+            "values": [
+              "7,955",
+              "9,585"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "44,914",
+              "49,786"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "5,476",
+              "5,404"
+            ]
+          },
+          {
+            "label": "Deferred income",
+            "values": [
+              "1,478",
+              "1,391"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "6,877",
+              "6,898"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "2,682",
+              "3,135"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "224",
+              "-"
+            ]
+          },
+          {
+            "label": "Total current liabilities",
+            "values": [
+              "82,434",
+              "88,403"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "263,022",
+              "260,015"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "balance",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Assets",
+            "values": [
+              "265,010",
+              "263,022"
+            ]
+          },
+          {
+            "label": "Intangible assets",
+            "values": [
+              "19,436",
+              "17,593"
+            ]
+          },
+          {
+            "label": "Property, plant and equipment including right-of-use assets",
+            "values": [
+              "26,537",
+              "26,090"
+            ]
+          },
+          {
+            "label": "Equipment on operating leases",
+            "values": [
+              "45,220",
+              "41,712"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "87,867",
+              "89,019"
+            ]
+          },
+          {
+            "label": "Equity-method investments",
+            "values": [
+              "12,786",
+              "13,104"
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "26,234",
+              "26,486"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "6,973",
+              "7,281"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents",
+            "values": [
+              "14,511",
+              "15,962"
+            ]
+          },
+          {
+            "label": "Marketable debt securities and similar investments",
+            "values": [
+              "7,730",
+              "6,858"
+            ]
+          },
+          {
+            "label": "Other financial assets",
+            "values": [
+              "5,888",
+              "7,939"
+            ]
+          },
+          {
+            "label": "Other assets",
+            "values": [
+              "11,668",
+              "10,183"
+            ]
+          },
+          {
+            "label": "Assets held for sale",
+            "values": [
+              "160",
+              "795"
+            ]
+          },
+          {
+            "label": "Total assets",
+            "values": [
+              "265,010",
+              "263,022"
+            ]
+          },
+          {
+            "label": "Equity",
+            "values": [
+              "93,630",
+              "92,816"
+            ]
+          },
+          {
+            "label": "Provisions",
+            "values": [
+              "15,972",
+              "16,390"
+            ]
+          },
+          {
+            "label": "Financing liabilities",
+            "values": [
+              "112,798",
+              "109,431"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "11,312",
+              "12,705"
+            ]
+          },
+          {
+            "label": "Other financial liabilities",
+            "values": [
+              "5,561",
+              "5,999"
+            ]
+          },
+          {
+            "label": "Contract and refund liabilities",
+            "values": [
+              "11,246",
+              "10,391"
+            ]
+          },
+          {
+            "label": "Other liabilities",
+            "values": [
+              "14,445",
+              "15,066"
+            ]
+          },
+          {
+            "label": "Liabilities held for sale",
+            "values": [
+              "46",
+              "224"
+            ]
+          },
+          {
+            "label": "Total equity and liabilities",
+            "values": [
+              "265,010",
+              "263,022"
+            ]
+          }
+        ]
+      }
+    },
+    "cash_flow": {
+      "2015": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2015",
+          "2014"
+        ],
+        "rows": [
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "12,744",
+              "10,173"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "5,384",
+              "4,999"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income",
+            "values": [
+              "-450",
+              "-850"
+            ]
+          },
+          {
+            "label": "Gains (-)/losses (+) on disposals of assets",
+            "values": [
+              "-229",
+              "-1,053"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-2,613",
+              "-2,768"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "-205",
+              "-606"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "142",
+              "853"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-10,251",
+              "-8,065"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-3,924",
+              "-2,819"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "2,197",
+              "1,032"
+            ]
+          },
+          {
+            "label": "Income taxes paid/refunded",
+            "values": [
+              "-2,573",
+              "-2,170"
+            ]
+          },
+          {
+            "label": "Cash provided by/used for operating activities",
+            "values": [
+              "222",
+              "-1,274"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment",
+            "values": [
+              "-5,075",
+              "-4,844"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets",
+            "values": [
+              "-2,261",
+              "-1,463"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+            "values": [
+              "495",
+              "209"
+            ]
+          },
+          {
+            "label": "Investments in shareholdings",
+            "values": [
+              "-1,223",
+              "-172"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of shareholdings",
+            "values": [
+              "39",
+              "3,098"
+            ]
+          },
+          {
+            "label": "Acquisition of marketable debt securities",
+            "values": [
+              "-4,101",
+              "-3,341"
+            ]
+          },
+          {
+            "label": "Proceeds from sales of marketable debt securities",
+            "values": [
+              "2,443",
+              "3,834"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "-39",
+              "-30"
+            ]
+          },
+          {
+            "label": "Cash provided by/used for investing activities",
+            "values": [
+              "-9,722",
+              "-2,709"
+            ]
+          },
+          {
+            "label": "Change in short-term financing liabilities",
+            "values": [
+              "36",
+              "2,129"
+            ]
+          },
+          {
+            "label": "Additions to long-term financing liabilities",
+            "values": [
+              "54,332",
+              "37,354"
+            ]
+          },
+          {
+            "label": "Repayment of long-term financing liabilities",
+            "values": [
+              "-41,904",
+              "-34,650"
+            ]
+          },
+          {
+            "label": "Dividend paid to shareholders of Daimler AG",
+            "values": [
+              "-2,621",
+              "-2,407"
+            ]
+          },
+          {
+            "label": "Dividends paid to non-controlling interests",
+            "values": [
+              "-274",
+              "-158"
+            ]
+          },
+          {
+            "label": "Proceeds from the issue of share capital",
+            "values": [
+              "89",
+              "42"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-27",
+              "-26"
+            ]
+          },
+          {
+            "label": "Acquisition of non-controlling interests in subsidiaries",
+            "values": [
+              "",
+              "-10"
+            ]
+          },
+          {
+            "label": "Internal equity and financing transactions",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Cash provided by/used for financing activities",
+            "values": [
+              "9,631",
+              "2,274"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "138",
+              "323"
+            ]
+          },
+          {
+            "label": "Net increase/decrease in cash and cash equivalents",
+            "values": [
+              "269",
+              "-1,386"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "9,667",
+              "11,053"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "9,936",
+              "9,667"
+            ]
+          }
+        ]
+      },
+      "2016": {
+        "statementType": "cashflow",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2016",
+          "2015"
+        ],
+        "rows": [
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "12,574",
+              "12,744"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "5,478",
+              "5,384"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income",
+            "values": [
+              "-1,064",
+              "-450"
+            ]
+          },
+          {
+            "label": "Gains (-)/losses (+) on disposals of assets",
+            "values": [
+              "-46",
+              "-229"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-1,272",
+              "-2,613"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "-962",
+              "-205"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "757",
+              "142"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-6,848",
+              "-10,251"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-4,209",
+              "-3,924"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "2,253",
+              "2,197"
+            ]
+          },
+          {
+            "label": "Income taxes paid/refunded",
+            "values": [
+              "-2,950",
+              "-2,573"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by operating activities",
+            "values": [
+              "3,711",
+              "222"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment",
+            "values": [
+              "-5,889",
+              "-5,075"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets",
+            "values": [
+              "-2,944",
+              "-2,261"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+            "values": [
+              "366",
+              "495"
+            ]
+          },
+          {
+            "label": "Acquisition of Athlon Car Lease International B.V.",
+            "values": [
+              "-3,650",
+              ""
+            ]
+          },
+          {
+            "label": "Investments in shareholdings",
+            "values": [
+              "-334",
+              "-1,223"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of shareholdings",
+            "values": [
+              "79",
+              "39"
+            ]
+          },
+          {
+            "label": "Acquisition of marketable debt securities",
+            "values": [
+              "-7,724",
+              "-4,101"
+            ]
+          },
+          {
+            "label": "Proceeds from sales of marketable debt securities",
+            "values": [
+              "5,394",
+              "2,443"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "36",
+              "-39"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by investing activities",
+            "values": [
+              "-14,666",
+              "-9,722"
+            ]
+          },
+          {
+            "label": "Change in short-term financing liabilities",
+            "values": [
+              "503",
+              "36"
+            ]
+          },
+          {
+            "label": "Additions to long-term financing liabilities",
+            "values": [
+              "50,723",
+              "54,332"
+            ]
+          },
+          {
+            "label": "Repayment of long-term financing liabilities",
+            "values": [
+              "-35,463",
+              "-41,904"
+            ]
+          },
+          {
+            "label": "Dividend paid to shareholders of Daimler AG",
+            "values": [
+              "-3,477",
+              "-2,621"
+            ]
+          },
+          {
+            "label": "Dividends paid to non-controlling interests",
+            "values": [
+              "-201",
+              "-274"
+            ]
+          },
+          {
+            "label": "Proceeds from the issue of share capital",
+            "values": [
+              "65",
+              "89"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-38",
+              "-27"
+            ]
+          },
+          {
+            "label": "Acquisition of non-controlling interests in subsidiaries",
+            "values": [
+              "-103",
+              ""
+            ]
+          },
+          {
+            "label": "Internal equity and financing transactions",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Cash used for/provided by financing activities",
+            "values": [
+              "12,009",
+              "9,631"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "-9",
+              "138"
+            ]
+          },
+          {
+            "label": "Net increase in cash and cash equivalents",
+            "values": [
+              "1,045",
+              "269"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "9,936",
+              "9,667"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "10,981",
+              "9,936"
+            ]
+          }
+        ]
+      },
+      "2017": {
+        "statementType": "cashflow",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2017",
+          "2016"
+        ],
+        "rows": [
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "14,301",
+              "12,574"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "5,676",
+              "5,478"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income",
+            "values": [
+              "-1,507",
+              "-1,064"
+            ]
+          },
+          {
+            "label": "Gains (-)/losses (+) on disposals of assets",
+            "values": [
+              "-453",
+              "-46"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-1,455",
+              "-1,272"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "-1,592",
+              "-962"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "1,288",
+              "757"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-11,145",
+              "-6,848"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-3,681",
+              "-4,209"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "-48",
+              "2,150"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "843",
+              "103"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-3,879",
+              "-2,950"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by operating activities",
+            "values": [
+              "-1,652",
+              "3,711"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment",
+            "values": [
+              "-6,744",
+              "-5,889"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets",
+            "values": [
+              "-3,414",
+              "-2,944"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+            "values": [
+              "812",
+              "366"
+            ]
+          },
+          {
+            "label": "Acquisition of Athlon Car Lease International B.V.",
+            "values": [
+              "41",
+              "-3,650"
+            ]
+          },
+          {
+            "label": "Investments in shareholdings",
+            "values": [
+              "-1,146",
+              "-334"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of shareholdings",
+            "values": [
+              "418",
+              "79"
+            ]
+          },
+          {
+            "label": "Acquisition of marketable debt securities",
+            "values": [
+              "-6,729",
+              "-7,724"
+            ]
+          },
+          {
+            "label": "Proceeds from sales of marketable debt securities",
+            "values": [
+              "7,266",
+              "5,394"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "-22",
+              "36"
+            ]
+          },
+          {
+            "label": "Cash used for investing activities",
+            "values": [
+              "-9,518",
+              "-14,666"
+            ]
+          },
+          {
+            "label": "Change in short-term financing liabilities",
+            "values": [
+              "751",
+              "503"
+            ]
+          },
+          {
+            "label": "Additions to long-term financing liabilities",
+            "values": [
+              "63,116",
+              "50,723"
+            ]
+          },
+          {
+            "label": "Repayment of long-term financing liabilities",
+            "values": [
+              "-47,073",
+              "-35,463"
+            ]
+          },
+          {
+            "label": "Dividend paid to shareholders of Daimler AG",
+            "values": [
+              "-3,477",
+              "-3,477"
+            ]
+          },
+          {
+            "label": "Dividends paid to non-controlling interests",
+            "values": [
+              "-250",
+              "-201"
+            ]
+          },
+          {
+            "label": "Proceeds from the issue of share capital",
+            "values": [
+              "114",
+              "65"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-42",
+              "-38"
+            ]
+          },
+          {
+            "label": "Acquisition of non-controlling interests in subsidiaries",
+            "values": [
+              "-10",
+              "-103"
+            ]
+          },
+          {
+            "label": "Cash provided by financing activities",
+            "values": [
+              "13,129",
+              "12,009"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "-868",
+              "-9"
+            ]
+          },
+          {
+            "label": "Net increase in cash and cash equivalents",
+            "values": [
+              "1,091",
+              "1,045"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "10,981",
+              "9,936"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "12,072",
+              "10,981"
+            ]
+          }
+        ]
+      },
+      "2018": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2018",
+          "2017"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "12,072",
+              "10,981"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "10,595",
+              "13,967"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "6,305",
+              "5,676"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income and gains/losses on disposals of assets",
+            "values": [
+              "-1,050",
+              "-1,960"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": []
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-3,850",
+              "-1,455"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "-884",
+              "-1,597"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "1,694",
+              "1,259"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-10,257",
+              "-11,412"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-1,609",
+              "-3,304"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "877",
+              "210"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "1,380",
+              "843"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-2,858",
+              "-3,879"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by operating activities",
+            "values": [
+              "343",
+              "-1,652"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment and intangible assets",
+            "values": [
+              "-10,701",
+              "-10,158"
+            ]
+          },
+          {
+            "label": "Investments in and disposals of shareholdings",
+            "values": [
+              "-417",
+              "-687"
+            ]
+          },
+          {
+            "label": "Acquisitions and sales of marketable debt securities and similar investments",
+            "values": [
+              "471",
+              "537"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "726",
+              "790"
+            ]
+          },
+          {
+            "label": "Cash used for investing activities",
+            "values": [
+              "-9,921",
+              "-9,518"
+            ]
+          },
+          {
+            "label": "Change in financing liabilities",
+            "values": [
+              "17,456",
+              "16,794"
+            ]
+          },
+          {
+            "label": "Dividends paid",
+            "values": [
+              "-4,220",
+              "-3,727"
+            ]
+          },
+          {
+            "label": "Other transactions with shareholders",
+            "values": [
+              "-10",
+              "62"
+            ]
+          },
+          {
+            "label": "Internal equity and financing transactions",
+            "values": [
+              "–",
+              "–"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by financing activities",
+            "values": [
+              "13,226",
+              "13,129"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "133",
+              "-868"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "15,853",
+              "12,072"
+            ]
+          }
+        ]
+      },
+      "2019": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2019",
+          "2018"
+        ],
+        "rows": [
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "3,830",
+              "10,595"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "7,751",
+              "6,305"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income",
+            "values": [
+              "24",
+              "-872"
+            ]
+          },
+          {
+            "label": "Gains (-)/losses (+) on disposals of assets",
+            "values": [
+              "-761",
+              "-178"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "99",
+              "-3,850"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "-346",
+              "-884"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "-1,625",
+              "1,694"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-4,664",
+              "-10,257"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-1,156",
+              "-1,609"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "5,641",
+              "877"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "1,202",
+              "1,380"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-2,107",
+              "-2,858"
+            ]
+          },
+          {
+            "label": "Cash provided by operating activities",
+            "values": [
+              "7,888",
+              "343"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment",
+            "values": [
+              "-7,199",
+              "-7,534"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets",
+            "values": [
+              "-3,636",
+              "-3,167"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+            "values": [
+              "429",
+              "644"
+            ]
+          },
+          {
+            "label": "Investments in shareholdings",
+            "values": [
+              "-1,619",
+              "-780"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of shareholdings",
+            "values": [
+              "394",
+              "363"
+            ]
+          },
+          {
+            "label": "Acquisition of marketable debt securities and similar investments",
+            "values": [
+              "-5,960",
+              "-5,739"
+            ]
+          },
+          {
+            "label": "Proceeds from sales of marketable debt securities and similar investments",
+            "values": [
+              "7,014",
+              "6,210"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "-30",
+              "82"
+            ]
+          },
+          {
+            "label": "Cash used for investing activities",
+            "values": [
+              "-10,607",
+              "-9,921"
+            ]
+          },
+          {
+            "label": "Change in short-term financing liabilities",
+            "values": [
+              "840",
+              "2,637"
+            ]
+          },
+          {
+            "label": "Additions to long-term financing liabilities",
+            "values": [
+              "63,607",
+              "71,137"
+            ]
+          },
+          {
+            "label": "Repayment of long-term financing liabilities",
+            "values": [
+              "-55,043",
+              "-56,318"
+            ]
+          },
+          {
+            "label": "Dividend paid to shareholders of Daimler AG",
+            "values": [
+              "-3,477",
+              "-3,905"
+            ]
+          },
+          {
+            "label": "Dividends paid to non-controlling interests",
+            "values": [
+              "-263",
+              "-315"
+            ]
+          },
+          {
+            "label": "Proceeds from the issue of share capital",
+            "values": [
+              "85",
+              "118"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-42",
+              "-50"
+            ]
+          },
+          {
+            "label": "Acquisition of non-controlling interests in subsidiaries",
+            "values": [
+              "-79",
+              "-78"
+            ]
+          },
+          {
+            "label": "Cash provided by financing activities",
+            "values": [
+              "5,628",
+              "13,226"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "121",
+              "133"
+            ]
+          },
+          {
+            "label": "Net increase in cash and cash equivalents",
+            "values": [
+              "3,030",
+              "3,781"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "15,853",
+              "12,072"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "18,883",
+              "15,853"
+            ]
+          }
+        ]
+      },
+      "2020": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2020",
+          "2019"
+        ],
+        "rows": [
+          {
+            "label": "Cash provided by (used for) operating activities",
+            "values": [
+              "22,332",
+              "7,888"
+            ]
+          },
+          {
+            "label": "Cash provided by (used for) investing activities",
+            "values": [
+              "-6,421",
+              "-10,607"
+            ]
+          },
+          {
+            "label": "Cash provided by (used for) financing activities",
+            "values": [
+              "-10,747",
+              "5,628"
+            ]
+          },
+          {
+            "label": "Free cash flow of the industrial business",
+            "values": [
+              "8,259",
+              "1,368"
+            ]
+          }
+        ]
+      },
+      "2021": {
+        "statementType": "cashflow",
+        "currency": "€",
+        "units": "millions",
+        "years": [
+          "2021",
+          "2020"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "23,048",
+              "18,883"
+            ]
+          },
+          {
+            "label": "Profit before income taxes of continuing and discontinued operations",
+            "values": [
+              "28,775",
+              "6,339"
+            ]
+          },
+          {
+            "label": "Depreciation and amortisation/impairments",
+            "values": [
+              "6,980",
+              "8,957"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income and gains/losses on disposals of assets",
+            "values": [
+              "-12,198",
+              "-705"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-2,561",
+              "2,039"
+            ]
+          },
+          {
+            "label": "Trade receivables",
+            "values": [
+              "120",
+              "1,339"
+            ]
+          },
+          {
+            "label": "Trade payables",
+            "values": [
+              "1,574",
+              "-299"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "3,879",
+              "2,397"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "1,428",
+              "1,822"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "-1,261",
+              "653"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "1,625",
+              "1,783"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-3,812",
+              "-1,993"
+            ]
+          },
+          {
+            "label": "Cash provided by operating activities",
+            "values": [
+              "24,549",
+              "22,332"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment and intangible assets",
+            "values": [
+              "-7,320",
+              "-8,560"
+            ]
+          },
+          {
+            "label": "Investments in and disposals of shareholdings",
+            "values": [
+              "220",
+              "-402"
+            ]
+          },
+          {
+            "label": "Acquisitions and sales of marketable debt securities and similar investments",
+            "values": [
+              "-1,309",
+              "2,149"
+            ]
+          },
+          {
+            "label": "Repayment of financing of Daimler’s commercial vehicles business",
+            "values": [
+              "6,853",
+              "-"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents disposed of from the deconsolidation of Daimler’s commercial vehicles business",
+            "values": [
+              "-5,489",
+              "-"
+            ]
+          },
+          {
+            "label": "Other cash inflows",
+            "values": [
+              "819",
+              "392"
+            ]
+          },
+          {
+            "label": "Cash used for/provided by investing activities",
+            "values": [
+              "-6,226",
+              "-6,421"
+            ]
+          },
+          {
+            "label": "Change in financing liabilities",
+            "values": [
+              "-17,200",
+              "-9,503"
+            ]
+          },
+          {
+            "label": "Dividends paid",
+            "values": [
+              "-1,810",
+              "-1,245"
+            ]
+          },
+          {
+            "label": "Other transactions with shareholders",
+            "values": [
+              "-49",
+              "1"
+            ]
+          },
+          {
+            "label": "Internal equity and financing transactions",
+            "values": [
+              "-",
+              "-"
+            ]
+          },
+          {
+            "label": "Cash used for financing activities",
+            "values": [
+              "-19,059",
+              "-10,747"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange-rate changes on cash and cash equivalents",
+            "values": [
+              "870",
+              "-999"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "23,182",
+              "23,048"
+            ]
+          },
+          {
+            "label": "thereof cash and cash equivalents classified as assets held for sale at end of period",
+            "values": [
+              "62",
+              "0"
+            ]
+          }
+        ]
+      },
+      "2022": {
+        "statementType": "cashflow",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2022",
+          "2021"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "23,182",
+              "23,048"
+            ]
+          },
+          {
+            "label": "Profit from continuing operations before taxes (2021: Profit from continuing and discontinued operations before taxes)",
+            "values": [
+              "20,304",
+              "28,775"
+            ]
+          },
+          {
+            "label": "Depreciation and amortisation/impairments",
+            "values": [
+              "6,521",
+              "6,980"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income and gains/losses on disposals of assets",
+            "values": [
+              "-1,296",
+              "-11,503"
+            ]
+          },
+          {
+            "label": "Gains (-)/losses (+) from disposals of assets",
+            "values": [
+              "-990",
+              "-695"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": []
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-4,111",
+              "-2,561"
+            ]
+          },
+          {
+            "label": "Trade receivables and trade payables",
+            "values": [
+              "1,029",
+              "1,694"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-5,327",
+              "3,879"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "3,810",
+              "1,428"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "358",
+              "-1,261"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "1,605",
+              "1,625"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-5,009",
+              "-3,812"
+            ]
+          },
+          {
+            "label": "Cash flow from operating activities",
+            "values": [
+              "16,894",
+              "24,549"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment",
+            "values": [
+              "-3,481",
+              "-4,579"
+            ]
+          },
+          {
+            "label": "Additions to intangible assets",
+            "values": [
+              "-3,418",
+              "-2,741"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of property, plant and equipment and intangible assets",
+            "values": [
+              "469",
+              "826"
+            ]
+          },
+          {
+            "label": "Investments in shareholdings",
+            "values": [
+              "-849",
+              "-573"
+            ]
+          },
+          {
+            "label": "Proceeds from disposals of shareholdings and other business operations",
+            "values": [
+              "3,337",
+              "793"
+            ]
+          },
+          {
+            "label": "Acquisition of marketable debt securities and similar investments",
+            "values": [
+              "-2,622",
+              "-5,694"
+            ]
+          },
+          {
+            "label": "Proceeds from sales of marketable debt securities and similar investments",
+            "values": [
+              "3,084",
+              "4,385"
+            ]
+          },
+          {
+            "label": "Repayment of financing of Daimler's commercial vehicles business",
+            "values": [
+              "-",
+              "6,853"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents disposed of from the deconsolidation of Daimler’s commercial vehicles business",
+            "values": [
+              "-",
+              "-5,489"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "27",
+              "-7"
+            ]
+          },
+          {
+            "label": "Cash flow from investing activities",
+            "values": [
+              "-3,453",
+              "-6,226"
+            ]
+          },
+          {
+            "label": "Change in short-term financing liabilities",
+            "values": [
+              "172",
+              "1,463"
+            ]
+          },
+          {
+            "label": "Additions to long-term financing liabilities",
+            "values": [
+              "38,429",
+              "42,196"
+            ]
+          },
+          {
+            "label": "Repayment of long-term financing liabilities",
+            "values": [
+              "-51,945",
+              "-60,859"
+            ]
+          },
+          {
+            "label": "Dividend paid to shareholders of Mercedes-Benz Group AG",
+            "values": [
+              "-5,349",
+              "-1,444"
+            ]
+          },
+          {
+            "label": "Dividends paid to non-controlling interests",
+            "values": [
+              "-320",
+              "-366"
+            ]
+          },
+          {
+            "label": "Other",
+            "values": [
+              "-19",
+              "-49"
+            ]
+          },
+          {
+            "label": "Cash flow from financing activities",
+            "values": [
+              "-19,032",
+              "-19,059"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange rate changes on cash and cash equivalents",
+            "values": [
+              "88",
+              "870"
+            ]
+          },
+          {
+            "label": "Net increase/decrease in cash and cash equivalents",
+            "values": [
+              "-5,503",
+              "134"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at beginning of period",
+            "values": [
+              "23,182",
+              "23,048"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period",
+            "values": [
+              "17,679",
+              "23,182"
+            ]
+          },
+          {
+            "label": "Less cash and cash equivalents classified as assets held for sale at end of year",
+            "values": [
+              "-",
+              "62"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of period (Consolidated Statement of Financial Position)",
+            "values": [
+              "17,679",
+              "23,120"
+            ]
+          }
+        ]
+      },
+      "2023": {
+        "statementType": "cashflow",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2023",
+          "2022"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents at beginning of year",
+            "values": [
+              "17,679",
+              "23,182"
+            ]
+          },
+          {
+            "label": "thereof cash and cash equivalents classified as assets held for sale at beginning of year",
+            "values": [
+              "-",
+              "62"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "20,084",
+              "20,304"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "6,663",
+              "6,521"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income and gains/losses from disposals of assets",
+            "values": [
+              "-2,461",
+              "-2,286"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "-2,733",
+              "-4,111"
+            ]
+          },
+          {
+            "label": "Trade receivables and trade payables",
+            "values": [
+              "1,310",
+              "1,029"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "-5,812",
+              "-5,327"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-640",
+              "3,810"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "1,624",
+              "358"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "2,056",
+              "1,605"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-5,621",
+              "-5,009"
+            ]
+          },
+          {
+            "label": "Cash flow from operating activities",
+            "values": [
+              "14,470",
+              "16,894"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment and intangible assets",
+            "values": [
+              "-8,213",
+              "-6,899"
+            ]
+          },
+          {
+            "label": "Investments in and disposals of shareholdings and other business operations",
+            "values": [
+              "278",
+              "2,488"
+            ]
+          },
+          {
+            "label": "Acquisitions and sales of marketable debt securities and similar investments",
+            "values": [
+              "307",
+              "462"
+            ]
+          },
+          {
+            "label": "Other cash flows",
+            "values": [
+              "313",
+              "496"
+            ]
+          },
+          {
+            "label": "Cash flow from investing activities",
+            "values": [
+              "-7,315",
+              "-3,453"
+            ]
+          },
+          {
+            "label": "Change in financing liabilities",
+            "values": [
+              "-697",
+              "-13,344"
+            ]
+          },
+          {
+            "label": "Dividends paid",
+            "values": [
+              "-5,880",
+              "-5,669"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-1,941",
+              "-48"
+            ]
+          },
+          {
+            "label": "Other cash flows",
+            "values": [
+              "127",
+              "29"
+            ]
+          },
+          {
+            "label": "Cash flow from financing activities",
+            "values": [
+              "-8,391",
+              "-19,032"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange-rate changes on cash and cash equivalents",
+            "values": [
+              "-471",
+              "88"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of year",
+            "values": [
+              "15,972",
+              "17,679"
+            ]
+          },
+          {
+            "label": "thereof cash and cash equivalents classified as assets held for sale at end of year",
+            "values": [
+              "10",
+              "-"
+            ]
+          }
+        ]
+      },
+      "2024": {
+        "statementType": "cashflow",
+        "currency": "euros",
+        "units": "millions",
+        "years": [
+          "2024",
+          "2023"
+        ],
+        "rows": [
+          {
+            "label": "Cash and cash equivalents at beginning of year",
+            "values": [
+              "15,972",
+              "17,679"
+            ]
+          },
+          {
+            "label": "thereof cash and cash equivalents classified as assets held for sale at beginning of year",
+            "values": [
+              "10",
+              "–"
+            ]
+          },
+          {
+            "label": "Profit before income taxes",
+            "values": [
+              "14,147",
+              "20,084"
+            ]
+          },
+          {
+            "label": "Depreciation and amortization/impairments",
+            "values": [
+              "6,772",
+              "6,663"
+            ]
+          },
+          {
+            "label": "Other non-cash expense and income and gains/losses from disposals of non-current assets",
+            "values": [
+              "-1,344",
+              "-2,461"
+            ]
+          },
+          {
+            "label": "Change in operating assets and liabilities",
+            "values": [
+              "",
+              ""
+            ]
+          },
+          {
+            "label": "Inventories",
+            "values": [
+              "737",
+              "-2,420"
+            ]
+          },
+          {
+            "label": "Trade receivables and trade payables",
+            "values": [
+              "-1,199",
+              "1,310"
+            ]
+          },
+          {
+            "label": "Receivables from financial services",
+            "values": [
+              "3,280",
+              "-6,125"
+            ]
+          },
+          {
+            "label": "Vehicles on operating leases",
+            "values": [
+              "-3,110",
+              "-640"
+            ]
+          },
+          {
+            "label": "Other operating assets and liabilities",
+            "values": [
+              "986",
+              "1,624"
+            ]
+          },
+          {
+            "label": "Dividends received from equity-method investments",
+            "values": [
+              "1,918",
+              "2,056"
+            ]
+          },
+          {
+            "label": "Income taxes paid",
+            "values": [
+              "-4,452",
+              "-5,621"
+            ]
+          },
+          {
+            "label": "Cash flow from operating activities",
+            "values": [
+              "17,735",
+              "14,470"
+            ]
+          },
+          {
+            "label": "Additions to property, plant and equipment and intangible assets",
+            "values": [
+              "-8,665",
+              "-8,213"
+            ]
+          },
+          {
+            "label": "Investments in and cash inflows from disposals of shareholdings and other business operations",
+            "values": [
+              "353",
+              "278"
+            ]
+          },
+          {
+            "label": "Acquisitions of and cash inflows from sales of marketable debt securities and similar investments",
+            "values": [
+              "-625",
+              "307"
+            ]
+          },
+          {
+            "label": "Other cash flows",
+            "values": [
+              "187",
+              "313"
+            ]
+          },
+          {
+            "label": "Cash flow from investing activities",
+            "values": [
+              "-8,750",
+              "-7,315"
+            ]
+          },
+          {
+            "label": "Change in financing liabilities",
+            "values": [
+              "-188",
+              "-697"
+            ]
+          },
+          {
+            "label": "Dividends paid",
+            "values": [
+              "-5,725",
+              "-5,880"
+            ]
+          },
+          {
+            "label": "Acquisition of treasury shares",
+            "values": [
+              "-4,921",
+              "-1,941"
+            ]
+          },
+          {
+            "label": "Other cash inflows",
+            "values": [
+              "82",
+              "127"
+            ]
+          },
+          {
+            "label": "Cash flow from financing activities",
+            "values": [
+              "-10,752",
+              "-8,391"
+            ]
+          },
+          {
+            "label": "Effect of foreign exchange-rate changes on cash and cash equivalents",
+            "values": [
+              "311",
+              "-471"
+            ]
+          },
+          {
+            "label": "Cash and cash equivalents at end of year",
+            "values": [
+              "14,516",
+              "15,972"
+            ]
+          },
+          {
+            "label": "thereof cash and cash equivalents classified as assets held for sale at end of year",
+            "values": [
+              "5",
+              "10"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "lineage": {
+    "income_statement": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/income.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/income.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/income.json",
+            "completeness": 5
+          }
+        ]
+      }
+    },
+    "balance_sheet": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/balance.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/balance.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/balance.json",
+            "completeness": 5
+          }
+        ]
+      }
+    },
+    "cash_flow": {
+      "2015": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2015/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2016": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2016/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2017": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2017/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2018": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2018/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2019": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2019/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2020": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2020/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2021": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2021/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2022": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2022/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2023": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2023/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      },
+      "2024": {
+        "pickedFrom": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/cashflow.json",
+        "reason": "filingDate > completeness > path",
+        "candidates": [
+          {
+            "sourcePath": "/Users/chaitanyasohani/Documents/Coding Projects/fiscalai_assessment/data/extracted/MBG/2024/cashflow.json",
+            "completeness": 5
+          }
+        ]
+      }
+    }
+  }
+}

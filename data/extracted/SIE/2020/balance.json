@@ -1,0 +1,182 @@
+{
+  "statementType": "balance",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "rows": [
+    {
+      "label": "ASSETS",
+      "values": []
+    },
+    {
+      "label": "Non-current assets",
+      "values": []
+    },
+    {
+      "label": "Intangible and tangible assets",
+      "values": [
+        "1,122",
+        "1,884"
+      ]
+    },
+    {
+      "label": "Financial assets",
+      "values": [
+        "74,877",
+        "73,158"
+      ]
+    },
+    {
+      "label": "Total non-current assets",
+      "values": [
+        "75,999",
+        "75,043"
+      ]
+    },
+    {
+      "label": "Current assets",
+      "values": []
+    },
+    {
+      "label": "Inventories, receivables and other assets",
+      "values": [
+        "16,937",
+        "19,752"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents, other securities",
+      "values": [
+        "8,786",
+        "4,489"
+      ]
+    },
+    {
+      "label": "Total current assets",
+      "values": [
+        "25,724",
+        "24,241"
+      ]
+    },
+    {
+      "label": "Prepaid expenses",
+      "values": [
+        "133",
+        "147"
+      ]
+    },
+    {
+      "label": "Deferred tax assets",
+      "values": [
+        "1,034",
+        "829"
+      ]
+    },
+    {
+      "label": "Active difference resulting from offsetting",
+      "values": [
+        "85",
+        "68"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "102,975",
+        "100,328"
+      ]
+    },
+    {
+      "label": "LIABILITIES AND EQUITY",
+      "values": []
+    },
+    {
+      "label": "Equity",
+      "values": [
+        "18,917",
+        "30,428"
+      ]
+    },
+    {
+      "label": "Special reserve with an equity portion",
+      "values": [
+        "619",
+        "668"
+      ]
+    },
+    {
+      "label": "Provisions",
+      "values": []
+    },
+    {
+      "label": "Provisions for pensions and similar commitments",
+      "values": [
+        "11,700",
+        "12,343"
+      ]
+    },
+    {
+      "label": "Provisions for taxes and other provisions",
+      "values": [
+        "4,323",
+        "5,616"
+      ]
+    },
+    {
+      "label": "Total provisions",
+      "values": [
+        "16,023",
+        "17,959"
+      ]
+    },
+    {
+      "label": "Liabilities",
+      "values": []
+    },
+    {
+      "label": "Liabilities to banks",
+      "values": [
+        "98",
+        "27"
+      ]
+    },
+    {
+      "label": "Advance payments received",
+      "values": [
+        "−",
+        "1,841"
+      ]
+    },
+    {
+      "label": "Trade payables, liabilities to affiliated companies and other liabilities",
+      "values": [
+        "67,047",
+        "49,079"
+      ]
+    },
+    {
+      "label": "Total liabilities",
+      "values": [
+        "67,145",
+        "50,947"
+      ]
+    },
+    {
+      "label": "Deferred income",
+      "values": [
+        "271",
+        "326"
+      ]
+    },
+    {
+      "label": "Total liabilities and equity",
+      "values": [
+        "102,975",
+        "100,328"
+      ]
+    }
+  ]
+}

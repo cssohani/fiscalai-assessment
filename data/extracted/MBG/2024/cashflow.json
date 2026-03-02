@@ -1,0 +1,200 @@
+{
+  "statementType": "cashflow",
+  "currency": "euros",
+  "units": "millions",
+  "years": [
+    "2024",
+    "2023"
+  ],
+  "rows": [
+    {
+      "label": "Cash and cash equivalents at beginning of year",
+      "values": [
+        "15,972",
+        "17,679"
+      ]
+    },
+    {
+      "label": "thereof cash and cash equivalents classified as assets held for sale at beginning of year",
+      "values": [
+        "10",
+        "–"
+      ]
+    },
+    {
+      "label": "Profit before income taxes",
+      "values": [
+        "14,147",
+        "20,084"
+      ]
+    },
+    {
+      "label": "Depreciation and amortization/impairments",
+      "values": [
+        "6,772",
+        "6,663"
+      ]
+    },
+    {
+      "label": "Other non-cash expense and income and gains/losses from disposals of non-current assets",
+      "values": [
+        "-1,344",
+        "-2,461"
+      ]
+    },
+    {
+      "label": "Change in operating assets and liabilities",
+      "values": [
+        "",
+        ""
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "737",
+        "-2,420"
+      ]
+    },
+    {
+      "label": "Trade receivables and trade payables",
+      "values": [
+        "-1,199",
+        "1,310"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "3,280",
+        "-6,125"
+      ]
+    },
+    {
+      "label": "Vehicles on operating leases",
+      "values": [
+        "-3,110",
+        "-640"
+      ]
+    },
+    {
+      "label": "Other operating assets and liabilities",
+      "values": [
+        "986",
+        "1,624"
+      ]
+    },
+    {
+      "label": "Dividends received from equity-method investments",
+      "values": [
+        "1,918",
+        "2,056"
+      ]
+    },
+    {
+      "label": "Income taxes paid",
+      "values": [
+        "-4,452",
+        "-5,621"
+      ]
+    },
+    {
+      "label": "Cash flow from operating activities",
+      "values": [
+        "17,735",
+        "14,470"
+      ]
+    },
+    {
+      "label": "Additions to property, plant and equipment and intangible assets",
+      "values": [
+        "-8,665",
+        "-8,213"
+      ]
+    },
+    {
+      "label": "Investments in and cash inflows from disposals of shareholdings and other business operations",
+      "values": [
+        "353",
+        "278"
+      ]
+    },
+    {
+      "label": "Acquisitions of and cash inflows from sales of marketable debt securities and similar investments",
+      "values": [
+        "-625",
+        "307"
+      ]
+    },
+    {
+      "label": "Other cash flows",
+      "values": [
+        "187",
+        "313"
+      ]
+    },
+    {
+      "label": "Cash flow from investing activities",
+      "values": [
+        "-8,750",
+        "-7,315"
+      ]
+    },
+    {
+      "label": "Change in financing liabilities",
+      "values": [
+        "-188",
+        "-697"
+      ]
+    },
+    {
+      "label": "Dividends paid",
+      "values": [
+        "-5,725",
+        "-5,880"
+      ]
+    },
+    {
+      "label": "Acquisition of treasury shares",
+      "values": [
+        "-4,921",
+        "-1,941"
+      ]
+    },
+    {
+      "label": "Other cash inflows",
+      "values": [
+        "82",
+        "127"
+      ]
+    },
+    {
+      "label": "Cash flow from financing activities",
+      "values": [
+        "-10,752",
+        "-8,391"
+      ]
+    },
+    {
+      "label": "Effect of foreign exchange-rate changes on cash and cash equivalents",
+      "values": [
+        "311",
+        "-471"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents at end of year",
+      "values": [
+        "14,516",
+        "15,972"
+      ]
+    },
+    {
+      "label": "thereof cash and cash equivalents classified as assets held for sale at end of year",
+      "values": [
+        "5",
+        "10"
+      ]
+    }
+  ]
+}

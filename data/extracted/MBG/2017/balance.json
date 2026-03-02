@@ -1,0 +1,151 @@
+{
+  "statementType": "balance",
+  "currency": "€",
+  "units": "millions",
+  "years": [
+    "2017",
+    "2016"
+  ],
+  "rows": [
+    {
+      "label": "Assets",
+      "values": [
+        "255,605",
+        "242,988"
+      ]
+    },
+    {
+      "label": "Intangible assets",
+      "values": [
+        "13,735",
+        "12,098"
+      ]
+    },
+    {
+      "label": "Property, plant and equipment",
+      "values": [
+        "27,981",
+        "26,381"
+      ]
+    },
+    {
+      "label": "Equipment on operating leases",
+      "values": [
+        "47,714",
+        "46,942"
+      ]
+    },
+    {
+      "label": "Equity-method investments",
+      "values": [
+        "4,818",
+        "4,098"
+      ]
+    },
+    {
+      "label": "Receivables from financial services",
+      "values": [
+        "85,787",
+        "80,507"
+      ]
+    },
+    {
+      "label": "Inventories",
+      "values": [
+        "25,686",
+        "25,384"
+      ]
+    },
+    {
+      "label": "Trade receivables",
+      "values": [
+        "11,990",
+        "10,614"
+      ]
+    },
+    {
+      "label": "Cash and cash equivalents",
+      "values": [
+        "12,072",
+        "10,981"
+      ]
+    },
+    {
+      "label": "Marketable debt securities",
+      "values": [
+        "10,063",
+        "10,748"
+      ]
+    },
+    {
+      "label": "Other financial assets",
+      "values": [
+        "6,801",
+        "5,736"
+      ]
+    },
+    {
+      "label": "Other assets",
+      "values": [
+        "8,958",
+        "9,499"
+      ]
+    },
+    {
+      "label": "Total assets",
+      "values": [
+        "255,605",
+        "242,988"
+      ]
+    },
+    {
+      "label": "Equity",
+      "values": [
+        "65,314",
+        "59,133"
+      ]
+    },
+    {
+      "label": "Provisions",
+      "values": [
+        "24,617",
+        "26,810"
+      ]
+    },
+    {
+      "label": "Financing liabilities",
+      "values": [
+        "127,124",
+        "117,686"
+      ]
+    },
+    {
+      "label": "Trade payables",
+      "values": [
+        "12,474",
+        "11,567"
+      ]
+    },
+    {
+      "label": "Other financial liabilities",
+      "values": [
+        "11,522",
+        "12,869"
+      ]
+    },
+    {
+      "label": "Other liabilities",
+      "values": [
+        "14,554",
+        "14,923"
+      ]
+    },
+    {
+      "label": "Total equity and liabilities",
+      "values": [
+        "255,605",
+        "242,988"
+      ]
+    }
+  ]
+}
